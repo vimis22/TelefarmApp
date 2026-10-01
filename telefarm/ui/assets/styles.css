@@ -1,0 +1,76 @@
+/* Telefarm – supplerer Streamlit-temaet i .streamlit/config.toml */
+
+:root {
+  --tf-accent: #a8c06c;          /* Region Syddanmark-grøn */
+  --tf-accent-soft: rgba(168, 192, 108, 0.14);
+  --tf-muted: #9aa1ab;
+  --tf-rule: #353b43;
+}
+
+[data-testid="stMainBlockContainer"] {
+  padding-top: 1.5rem;
+  max-width: 1180px;
+}
+
+/* ---------- Header ---------- */
+.tf-brand { display: flex; align-items: center; gap: 1.1rem; }
+.tf-brand__region {
+  border-left: 4px solid var(--tf-accent);
+  padding: 0.1rem 1.1rem 0.1rem 0.9rem;
+  border-right: 1px solid var(--tf-rule);
+  font-weight: 700;
+  line-height: 1.25;
+}
+.tf-brand__title { font-weight: 700; font-size: 1.05rem; }
+.tf-brand__subtitle, .tf-muted { color: var(--tf-muted); font-weight: 400; }
+
+.tf-rule { border: 0; border-top: 1px solid var(--tf-rule); margin: 0.25rem 0; }
+.tf-rule--spaced { margin: 0.75rem 0; }
+
+.tf-eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--tf-muted);
+}
+.tf-patient { font-size: 1.45rem; font-weight: 700; }
+.tf-figure__label { color: var(--tf-muted); font-size: 0.9rem; }
+.tf-figure__value { font-weight: 700; }
+.tf-unit { font-weight: 400; font-size: 0.8rem; color: var(--tf-muted); }
+
+/* ---------- Trinindikator ---------- */
+.tf-stepper { display: flex; flex-wrap: wrap; gap: 1.5rem; padding-top: 0.25rem; }
+.tf-step { display: flex; align-items: center; gap: 0.55rem; color: var(--tf-muted); }
+.tf-step__marker {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 1.85rem; height: 1.85rem; border-radius: 50%;
+  border: 1px solid var(--tf-rule);
+  font-size: 0.85rem;
+}
+.tf-step--current { color: var(--tf-accent); font-weight: 700; }
+.tf-step--current .tf-step__marker { background: var(--tf-accent); border-color: var(--tf-accent); color: #1c2024; }
+.tf-step--done .tf-step__marker { border-color: var(--tf-accent); color: var(--tf-accent); }
+
+/* ---------- Sidemenu ---------- */
+[data-testid="stNavSectionHeader"] {
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.78rem;
+}
+[data-testid="stSidebarNavLink"][aria-current="page"] {
+  background: var(--tf-accent-soft);
+  box-shadow: inset 3px 0 0 var(--tf-accent);
+}
+[data-testid="stSidebarNavLink"][aria-current="page"] span { color: var(--tf-accent) !important; }
+.tf-sidebar-spacer { height: 2rem; }
+
+/* ---------- Knapper: mørk tekst på lys primærfarve som i designet ---------- */
+[data-testid="stBaseButton-primary"],
+[data-testid="stBaseButton-primaryFormSubmit"],
+button[kind="primary"],
+button[kind="primaryFormSubmit"] {
+  color: #12171d !important;
+}
+[data-testid="stBaseButton-primary"] p,
+[data-testid="stBaseButton-primaryFormSubmit"] p { color: #12171d !important; }

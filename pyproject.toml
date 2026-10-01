@@ -1,0 +1,9 @@
+[project]
+name = "telefarm"
+version = "0.1.0"
+description = "Klinisk beslutningsstøtte til medicingennemgang – Region Syddanmark"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
