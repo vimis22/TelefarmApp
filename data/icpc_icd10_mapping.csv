@@ -1,0 +1,2491 @@
+﻿ICPC.kode;ICPC.diagnose;ICD10.kode;ICD10.diagnose
+A00;A   ALMENT / USPECIFICERET;;
+A01;Almen/udbredt smerte;dr520;Akutte smerter
+A01;Almen/udbredt smerte;dr522a;Dolores chronicae
+A01;Almen/udbredt smerte;dr529;Smerter
+A02;Kulderystelse;dr688;Almene sympt og abnorme fund, andre specificeret
+A03;Feber;dr508;Febris continua causa incerta
+A03;Feber;dr509;Febrilia uden specifikation
+A04;Almen svækkelse/træthed;dr539;Nausea og fatique
+A04;Almen svækkelse/træthed;dg933;Postviralt træthedssyndrom
+A05;Sygdomsfølelse;dr539e;Sygdomsfølelse
+A06;Besvimelse;dr559;Lipotymi og kollaps
+A07;Koma;dr402;Coma uden specifikation
+A07;Koma;dr401;Stupor
+A08;Hævelse;dr688;Almene sympt og abnorme fund, andre specificeret
+A09;Svedproblem;dr610;Hyperhidrosis localisata
+A09;Svedproblem;dr611;Hyperhidrosis generalisata
+A09;Svedproblem;dr619a;Nattesved
+A09;Svedproblem;dr619;Hyperhidrosis uden specifikation
+A10;Blødning IKA;dr589;Haemorrhagia uden specifikation
+A11;Smerte i brystet IKA;dr074;Brystsmerter uden specifikation
+A13;Frygt for behandling;dz711;Bekymring for sygdom hos rask person
+A16;Irritabelt spædbarn;dr681a;Irritabelt barn
+A18;Bekymring vedr udseende;dr468;Sympt og abnorme fund vedr udseende og opførsel, andre
+A20;Anmodning/samtale om dødshjælp;dz718;Behov for anden specificeret rådgivning
+A21;Risikofaktor for kræft;dz809;Familieanamnese m ondartet svulst uden specifikation
+A23;Risikofaktor IKA;dz720b;Passiv ryger
+A23;Risikofaktor IKA;dz720c;Tidligere ryger
+A23;Risikofaktor IKA;dz721a;Alkoholforbrug > 14 (K) hhv. 21 (M) genstande om ugen
+A23;Risikofaktor IKA;dz723;Mangel på fysisk aktivitet
+A23;Risikofaktor IKA;dz724;Forkerte kost- og spisevaner
+A23;Risikofaktor IKA;dz822;Familieanamnese m døvhed eller hørenedsættelse
+A23;Risikofaktor IKA;dz917;Genetisk verificeret risikofaktor eller sygdomsrisiko
+A23;Risikofaktor IKA;dz821;Familieanamnese m blindhed eller synsnedsættelse
+A23;Risikofaktor IKA;dz820;Familieanamnese m epilepsi og andre sygdomme i nervesystem
+A23;Risikofaktor IKA;dz810;Familieanamnese m mental retardering
+A23;Risikofaktor IKA;dz732;Mangel på afslapning og fritid
+A23;Risikofaktor IKA;dz720a;Ryger
+A23;Risikofaktor IKA;dz833;Familieanamnese m sukkersyge
+A23;Risikofaktor IKA;dz826;Familieanamnese m ledbetændelse og andre sygd i bev.apparat
+A23;Risikofaktor IKA;dz827;Familieanamnese m medf misdann og kromosomabnormiteter
+A23;Risikofaktor IKA;dz918;Risikofaktorer, andre specificerede ikke klass andetsteds
+A23;Risikofaktor IKA;dz848b;Familieanamnese med allergi
+A23;Risikofaktor IKA;dz209;Kontakt m eller udsat for infektionssygdom u specifikation
+A25;Frygt for død/dødsproces;dz711;Bekymring for sygdom hos rask person
+A26;Frygt for kræft IKA;dz711;Bekymring for sygdom hos rask person
+A27;Frygt for sygdom IKA;dz711;Bekymring for sygdom hos rask person
+A28;Nedsat funktion/handicap IKA;dz969;Tilstand m funktionelt implantat uden specifikation
+A28;Nedsat funktion/handicap IKA;dz993;Afhængighed af kørestol
+A28;Nedsat funktion/handicap IKA;dz999;Afhængighed af hjælpemiddel eller -apparat uden specifik
+A28;Nedsat funktion/handicap IKA;dz749c;Causa socialis
+A28;Nedsat funktion/handicap IKA;dz743;Behov for konstant tilsyn
+A28;Nedsat funktion/handicap IKA;dz742;Behov for hjælp hjemme
+A28;Nedsat funktion/handicap IKA;dz741;Behov for hjælp til personlig pleje
+A28;Nedsat funktion/handicap IKA;dr679;Nedsat generel funktionsevne
+A29;Almen(t) symptom/klage IKA;dr688;Almene sympt og abnorme fund, andre specificeret
+A29;Almen(t) symptom/klage IKA;dr688a;Medicinsk uforklarede symptomer (MUS)
+A29;Almen(t) symptom/klage IKA;dr268f;Gangbesvær uden specifikation
+A29;Almen(t) symptom/klage IKA;dr296;Faldpatient
+A29;Almen(t) symptom/klage IKA;dr400;Somnolens
+A29;Almen(t) symptom/klage IKA;dr680;Hypotermi, som ikke skyldes kolde omgivelser
+A70;Tuberkulose;da159;Tuberkulose i åndedrætsorg u spec, bakt/hist verificeret
+A70;Tuberkulose;db909;Tuberkulose i åndedrætsorganer og u spec, følger efter
+A70;Tuberkulose;da199;Miliær tuberkulose uden specifikation
+A70;Tuberkulose;da169;Tuberkulose i åndedrætsorg uden spec u bakt/hist verif
+A70;Tuberkulose;da188;Tuberkulose i andre specificerede organer
+A71;Mæslinger;db059;Mæslinger uden specifikation
+A72;Skoldkopper;db019;Skoldkopper uden specifikation
+A73;Malaria;db549;Malaria uden specifikation
+A73;Malaria;db530;Plasmodium ovale malaria
+A73;Malaria;db529;Plasmodium malariae malaria
+A73;Malaria;db519;Plasmodium vivax malaria
+A73;Malaria;db509;Malaria per Plasmodium falciparum uden specifikation
+A74;Røde hunde;db069;Rubella u komplikationer
+A75;Mononukleose;db279;Mononucleosis infectiosa uden specifikation
+A76;Virusinfektion med udslæt IKA;db082;Exanthema subitum
+A76;Virusinfektion med udslæt IKA;db083;Erythema infectiosum
+A76;Virusinfektion med udslæt IKA;db099;Virusinfek, ikke spec, karakt ved hud- og slimhindeaffek
+A76;Virusinfektion med udslæt IKA;db084;'Hand, foot and mouth disease'
+A77;Virusinfektion IKA;da985;Febris haemorrhagica m renalt syndrom
+A77;Virusinfektion IKA;db330;Myalgia epidemica
+A77;Virusinfektion IKA;db349;Virusinfektion uden specifikation
+A77;Virusinfektion IKA;da829;Rabies
+A77;Virusinfektion IKA;db259;Sygdom forårsaget af cytomegalovirus uden specifikation
+A77;Virusinfektion IKA;db007;Herpes generalisata
+A77;Virusinfektion IKA;da969;Arenaviral feber m blødninger uden specifikation
+A77;Virusinfektion IKA;da959;Gul feber
+A77;Virusinfektion IKA;da979;Dengue feber
+A77;Virusinfektion IKA;db342a;COVID-19-infektion uden angivelse af lokalisation
+A78;Infektionssygdom IKA;da229;Miltbrand
+A78;Infektionssygdom IKA;da219;Tularæmi
+A78;Infektionssygdom IKA;da239;Kalvekastningsfeber
+A78;Infektionssygdom IKA;da259;Rottebidfeber
+A78;Infektionssygdom IKA;db499;Mycosis uden specifikation
+A78;Infektionssygdom IKA;da269;Svinerosen
+A78;Infektionssygdom IKA;da692a;Borrelia acrodermatitis
+A78;Infektionssygdom IKA;da389;Skarlagensfeber
+A78;Infektionssygdom IKA;da392a;Meningokokseptikæmi
+A78;Infektionssygdom IKA;da419;Septikæmi uden specifikation
+A78;Infektionssygdom IKA;da429;Strålesvamp uden specifikation
+A78;Infektionssygdom IKA;da480;Gasgangræn
+A78;Infektionssygdom IKA;da799;Rickettsiose uden specifikation
+A78;Infektionssygdom IKA;da689;Febris recurrens uden specifikation
+A78;Infektionssygdom IKA;da281;Cat-scratch fever
+A78;Infektionssygdom IKA;da692b;Borrelia arthritis
+A78;Infektionssygdom IKA;da692e;Borreliosis
+A78;Infektionssygdom IKA;da692f;Erythema chronicum migrans (Borrelia)
+A78;Infektionssygdom IKA;da789;Q feber
+A78;Infektionssygdom IKA;db999;Andre og ikke specificerede infektiøse sygdomme
+A78;Infektionssygdom IKA;da329;Listeriose uden specifikation
+A78;Infektionssygdom IKA;da483;Toksisk shock syndrom
+A78;Infektionssygdom IKA;db899;Parasitær sygdom uden specifikation
+A78;Infektionssygdom IKA;db599;Pneumocystosis
+A78;Infektionssygdom IKA;db569;Trypanosomiasis africana uden specifikation
+A78;Infektionssygdom IKA;db589;Toxoplasmosis uden specifikation
+A78;Infektionssygdom IKA;da279;Leptospirose uden specifikation
+A78;Infektionssygdom IKA;db579;Chagas' sygdom
+A79;Kræft IKA;dc469;Sarcoma Kaposi uden specifikation
+A79;Kræft IKA;dc787;Neopl mal hepatis metastaticum
+A79;Kræft IKA;dc780;Neopl mal pulmonis metastaticum
+A79;Kræft IKA;dc795;Neopl mal ossis et medullae ossium metastaticum
+A79;Kræft IKA;dc809;Neopl mal uden specifikation m hensyn til lokalisation
+A79;Kræft IKA;dc792;Neopl mal cutis metastaticum
+A79;Kræft IKA;dc459;Mesothelioma mal uden specifikation
+A79;Kræft IKA;dc786;Neopl mal retroperitonei et peritonei metastaticum
+A79;Kræft IKA;dc793;Neopl mal cerebri et meningum cerebri metastaticum
+A80;Skade IKA;ds269;Læsion af hjertet uden specifikation
+A80;Skade IKA;dt149;Læsion uden specifikation
+A80;Skade IKA;dt145;Laesio traumatica vasorum uden specifikation
+A80;Skade IKA;dt289a;Forbrænding af indre organer
+A81;Multiple skader;dt079;Laesio traumatica multiplex uden specifikation
+A82;Følgetilstand efter skade;dt941;Sequelae laesionis traumaticae uden specifikation
+A82;Følgetilstand efter skade;dt797;Emphysema subcutaneum traumaticum
+A84;Medicinforgiftning;dt509;Forgiftning m andre og ikke spec lægemidler m.m. u spec
+A85;Medicinbivirkning;dt886;Anafylaktisk shock ved korrekt administration af lægemiddel
+A85;Medicinbivirkning;dt887;Lægemiddelbivirkning uden specifikation
+A85;Medicinbivirkning;dl270a;Exanthema medicamentale
+A85;Medicinbivirkning;dt887a;Lægemiddelallergi uden specifikation
+A86;Forgiftning med ikke-medicinsk stof;dt609;Pesticid forgiftning uden specifikation
+A86;Forgiftning med ikke-medicinsk stof;dt579;Forgiftning m uorganiske substanser uden specifikation
+A86;Forgiftning med ikke-medicinsk stof;dt559;Forgiftning m sæbe og detergentia
+A86;Forgiftning med ikke-medicinsk stof;dt549;Forgiftning m ikke specificeret ætsende substans
+A86;Forgiftning med ikke-medicinsk stof;dt529;Forgiftning m organiske opløsningsmidler uden specifikation
+A86;Forgiftning med ikke-medicinsk stof;dt569;Forgiftning m metal uden specifikation
+A86;Forgiftning med ikke-medicinsk stof;dt599;Forgiftning m gasarter, røg og dampe uden specifikation
+A86;Forgiftning med ikke-medicinsk stof;dt619;Forgiftning m fisk og skaldyr uden specifikation
+A86;Forgiftning med ikke-medicinsk stof;dt621;Bærforgiftning
+A86;Forgiftning med ikke-medicinsk stof;dt629;Madforgiftning uden specifikation
+A86;Forgiftning med ikke-medicinsk stof;dt639;Forgiftning fra giftige dyr uden specifikation
+A86;Forgiftning med ikke-medicinsk stof;dt656a;Malersyndrom
+A86;Forgiftning med ikke-medicinsk stof;dt659;Forgiftning uden specifikation
+A86;Forgiftning med ikke-medicinsk stof;dt539;Forgiftning m halogenderivater af hydrokarboner u spec
+A86;Forgiftning med ikke-medicinsk stof;dt589;Kulilteforgiftning
+A87;Komplikation til lægelig behandling;dt889;Kompl til kir og medicinsk behandling uden specifikation
+A87;Komplikation til lægelig behandling;do901;Ruptura vulneris perinealis obstetrica
+A87;Komplikation til lægelig behandling;dt882;Shock ved anæstesi
+A87;Komplikation til lægelig behandling;do860;Infectio vulneris postoperativa obstetrica
+A87;Komplikation til lægelig behandling;dt819;Postoperativ komplikation uden specifikation
+A87;Komplikation til lægelig behandling;dt814;Infektion efter indgreb ikke klassificeret andetsteds
+A87;Komplikation til lægelig behandling;dt813;Ruptura vulneris postoperativa ikke klassificeret andetsted
+A87;Komplikation til lægelig behandling;dt809;Kompl efter infusion, transfusion og injektion u spec
+A87;Komplikation til lægelig behandling;dt881c;Komplikation til vaccination (immunisation) uden spec.
+A87;Komplikation til lægelig behandling;dt810;Haemorrhagia postop et haematoma postop ikke klass ansted
+A88;Skadevirkning af ydre fysisk faktor;dt754;Laesio electrica
+A88;Skadevirkning af ydre fysisk faktor;dt753;Transportsyge
+A88;Skadevirkning af ydre fysisk faktor;dt752;Vibrationsskade
+A88;Skadevirkning af ydre fysisk faktor;dt751;Drukning (incl. ikke fatal)
+A88;Skadevirkning af ydre fysisk faktor;dt719;Asphyxia
+A88;Skadevirkning af ydre fysisk faktor;dt709;Virkning af (højt og lavt) luft- og vandtryk u specifikatio
+A88;Skadevirkning af ydre fysisk faktor;dt691;Pernio
+A88;Skadevirkning af ydre fysisk faktor;dt670;Hedeslag og solstik
+A88;Skadevirkning af ydre fysisk faktor;dt669;Effectus radiationis
+A88;Skadevirkning af ydre fysisk faktor;dt357;Forfrysning uden specifikation
+A88;Skadevirkning af ydre fysisk faktor;dt759;Skader af ydre påvirkninger uden specifikation
+A89;Kompl protese/implantat/transplantat;dt859;Kompl til interne proteser og transplantater u specifikatio
+A89;Kompl protese/implantat/transplantat;dt854;Complicatio mechanica prostheseos mammae
+A89;Kompl protese/implantat/transplantat;dt849;Kompl til interne ortopædiske proteser og transplant u spec
+A89;Kompl protese/implantat/transplantat;dt830;Complicatio mechanica katheterisationis tractus urinarius
+A89;Kompl protese/implantat/transplantat;dt829;Komplikation til hjertekarproteser og transplantater u spec
+A89;Kompl protese/implantat/transplantat;dt821;Mekanisk komplikation til pacemaker
+A89;Kompl protese/implantat/transplantat;dt833;Complicatio mechanica til intrauterint kontraceptivt device
+A90;Medfødte misdannelser IKA/multiple;dq874;Marfan's syndrom
+A90;Medfødte misdannelser IKA/multiple;dq999;Kromosomanomali uden specifikation
+A90;Medfødte misdannelser IKA/multiple;dq984;Klinefelter's syndrom uden specifikation
+A90;Medfødte misdannelser IKA/multiple;dq969;Turner's syndrom uden specifikation
+A90;Medfødte misdannelser IKA/multiple;dq899;Medfødt misdannelse u spec ikke klassificeret andetsteds
+A90;Medfødte misdannelser IKA/multiple;dq850;Neurofibromatosis (non maligna) (Recklinghausen)
+A90;Medfødte misdannelser IKA/multiple;dq909;Downs syndrom uden specifikation
+A91;Undersøgelse med abnormt fund IKA;dr944;Abnorme fund ved nyrefunktionsundersøgelse
+A91;Undersøgelse med abnormt fund IKA;dr749;Abnorm serumenzymkoncentration uden specifikation
+A91;Undersøgelse med abnormt fund IKA;dr760;Forhøjet antistoftiter
+A91;Undersøgelse med abnormt fund IKA;dr761;Abnorm tuberkulinreaktion
+A91;Undersøgelse med abnormt fund IKA;dr769;Abnorme immunonologiske fund i serum uden specifikation
+A91;Undersøgelse med abnormt fund IKA;dr730;Abnorm glukosebelastning
+A91;Undersøgelse med abnormt fund IKA;dr945;Abnorme fund ved leverfunktionsundersøgelse
+A91;Undersøgelse med abnormt fund IKA;dr939;Abnorme fund ved billeddiagnostik uden specifikation
+A91;Undersøgelse med abnormt fund IKA;dr739;Hyperglycaemia uden specifikation
+A91;Undersøgelse med abnormt fund IKA;dr943;Abnorme fund ved kardiovaskulær funktionsundersøgelse
+A91;Undersøgelse med abnormt fund IKA;dr799;Abnorme blodprøver uden specifikation
+A91;Undersøgelse med abnormt fund IKA;dr942;Abnorme lungefunktionsundersøgelser
+A91;Undersøgelse med abnormt fund IKA;dr899;Prøver fra andre org og væv m abnorme fund u specifikation
+A91;Undersøgelse med abnormt fund IKA;dr919;Abnorme fund ved billeddiagnostik af lunger
+A91;Undersøgelse med abnormt fund IKA;dr949;Abnorme funktionsundersøgelser uden specifikation
+A92;Allergi/allergisk reaktion IKA;dt782;Anafylaktisk shock
+A92;Allergi/allergisk reaktion IKA;dt783;Oedema angioneuroticum
+A92;Allergi/allergisk reaktion IKA;dt784;Allergi uden specifikation
+A93;Præmaturt barn;dp073;Praematuritas
+A93;Præmaturt barn;dp072;Immaturitas
+A93;Præmaturt barn;dp071;Lav fødselsvægt (vægt = 1000-2499 gram)
+A93;Præmaturt barn;dp070;Ekstremt lav fødselsvægt (vægt 999 gram eller mindre)
+A94;Perinatal sygdom IKA;dp051;Lille i forhold til gestationsalderen
+A94;Perinatal sygdom IKA;dp969;Sygd u spec opstået i perinatalperioden
+A94;Perinatal sygdom IKA;dp519;Haemorrhagia umbilicalis neonati uden specifikation
+A94;Perinatal sygdom IKA;dp559;Morbus haemolyticus foetus et neonati uden specifikation
+A94;Perinatal sygdom IKA;dp923;Hyponutritio neonati
+A94;Perinatal sygdom IKA;dp921a;Regurgitatio neonati
+A94;Perinatal sygdom IKA;dp835b;Hydrocele testis congenita
+A94;Perinatal sygdom IKA;dp834;Hypertrophia mammae neonati (heksemælk)
+A94;Perinatal sygdom IKA;dp599;Icterus neonati uden specifikation
+A94;Perinatal sygdom IKA;dp539;Morbus haemorrhagicus neonati
+A94;Perinatal sygdom IKA;dp369;Septicaemia neonati uden specifikation
+A94;Perinatal sygdom IKA;dp391a;Conjunctivitis neonatalis
+A94;Perinatal sygdom IKA;dp389;Omphalitis neonati m eller u let blødning
+A94;Perinatal sygdom IKA;dp379;Kongenit infektion og parasitær sygd uden specifikation
+A94;Perinatal sygdom IKA;dp052;Dysmaturitas
+A94;Perinatal sygdom IKA;dp359;Kongenit virusinfektion uden specifikation
+A94;Perinatal sygdom IKA;dp229;'Respiratory distress' hos nyfødt uden specifikation
+A94;Perinatal sygdom IKA;dp219;Asphyxia neonatalis uden specifikation
+A94;Perinatal sygdom IKA;dp082;Postmaturitas
+A94;Perinatal sygdom IKA;dp059;Langsom foetal vækst uden specifikation
+A95;Perinatal død;dp959;Foetus mortuus ante partum
+A96;Død;dr960;Mors subita causa ignota
+A96;Død;dr999;Mors uden specifikation
+A96;Død;dr989;Mors causa ignota (fundet død)
+A96;Død;dr959;Mors subita infantum
+A97;Ingen sygdom;dz023;Undersøgelse i forbindelse m rekruttering til militær
+A97;Ingen sygdom;dz019;Særlig undersøgelse, uden specifikation
+A97;Ingen sygdom;dz006;Undersøgelse mhp. deltagelse i et klinisk forskningsprogram
+A97;Ingen sygdom;dz027;Udfyldelse af lægeattest
+A97;Ingen sygdom;dz027a;Udfyldelse af dødsattest
+A97;Ingen sygdom;dz024;Undersøgelse i forbindelse m erhvervelse af kørekort
+A97;Ingen sygdom;dz000;Generel helbredsundersøgelse
+A97;Ingen sygdom;dz763b;Rask nyfødt
+A97;Ingen sygdom;dz029;Undersøgelse af administrativ årsag uden specifikation
+A97;Ingen sygdom;dz766;Patienten gået (kontakten afbrudt)
+A97;Ingen sygdom;dz768b;Udlevering af journaloplysninger
+A97;Ingen sygdom;dz768z;Ingen sygdom
+A97;Ingen sygdom;dz026;Undersøgelse i forbindelse m forsikringstegning
+A98;Helbredsbevar/forebyggende tiltag;dz133;Screening for mentale og adfærdsforstyrrelser
+A98;Helbredsbevar/forebyggende tiltag;dz016;Radiologisk undersøgelse
+A98;Helbredsbevar/forebyggende tiltag;dz017;Laboratorieundersøgelse
+A98;Helbredsbevar/forebyggende tiltag;dz125;Screening for svulst i blærehalskirtel
+A98;Helbredsbevar/forebyggende tiltag;dz114;Screening for HIV infektion
+A98;Helbredsbevar/forebyggende tiltag;dz121;Screening for svulst i tarmkanal
+A98;Helbredsbevar/forebyggende tiltag;dz122;Screening for svulst i åndedrætsorganer
+A98;Helbredsbevar/forebyggende tiltag;dz123;Screening for svulst i bryst
+A98;Helbredsbevar/forebyggende tiltag;dz108a;Mammografiscreening af defineret befolkningsgruppe
+A98;Helbredsbevar/forebyggende tiltag;dz134;Screening for visse udviklingsforstyrrelser i barnealder
+A98;Helbredsbevar/forebyggende tiltag;dz269a;Vaccination mod infektionssygdom
+A98;Helbredsbevar/forebyggende tiltag;dz291;Behov for profylaktisk immunoterapi
+A98;Helbredsbevar/forebyggende tiltag;dz292a;Behov for profylaktisk antibiotikabehandling
+A98;Helbredsbevar/forebyggende tiltag;dz127;Screening for ovariecancer
+A98;Helbredsbevar/forebyggende tiltag;dz246a;Hepatitisvaccination
+A98;Helbredsbevar/forebyggende tiltag;dz251a;Influenzavaccination
+A98;Helbredsbevar/forebyggende tiltag;dz129;Screening for svulst uden specifikation
+A98;Helbredsbevar/forebyggende tiltag;dz299;Behov for forebyggende foranstaltning uden specifikation
+A98;Helbredsbevar/forebyggende tiltag;dz131;Screening for sukkersyge
+A98;Helbredsbevar/forebyggende tiltag;dz124;Screening for svulst i livmoderhals
+A98;Helbredsbevar/forebyggende tiltag;dz001;Rutine børneundersøgelse
+A98;Helbredsbevar/forebyggende tiltag;dz019;Særlig undersøgelse, uden specifikation
+A98;Helbredsbevar/forebyggende tiltag;dz137;Screening for medfødte misdann og kromosomal abnormitet
+A98;Helbredsbevar/forebyggende tiltag;dz136;Screening for hjerte-karforstyrrrelser
+A98;Helbredsbevar/forebyggende tiltag;dz139;Screening uden specifikation
+A99;Sygdom/tilstand uspec natur/lokalisa;dr699;Ukendte og ikke specificerede årsager til sygdom
+A99;Sygdom/tilstand uspec natur/lokalisa;dz225;Bærer af hepatitis virus
+A99;Sygdom/tilstand uspec natur/lokalisa;dz229;Bærer af bakteriel sygdom uden specifikation
+A99;Sygdom/tilstand uspec natur/lokalisa;dz038p;Observation pga. mistanke om infektion
+A99;Sygdom/tilstand uspec natur/lokalisa;dd369;Neopl ben uden specifikation
+A99;Sygdom/tilstand uspec natur/lokalisa;dz418a;Uønsket hårvækst
+A99;Sygdom/tilstand uspec natur/lokalisa;dz515;Behov for palliativ indsats
+A99;Sygdom/tilstand uspec natur/lokalisa;dd489;Neopl uden specifikation og lokalisation
+A99;Sygdom/tilstand uspec natur/lokalisa;dz429;Efterbehandling m plastikkirurgi uden specifikation
+B00;B   BLOD / LYMFE / IMMUNSYSTEM;;
+B02;Forstørret/smertende lymfeknude;dr599;Hypertrophia lymphonodorum uden specifikation
+B04;Symptom/klage vedr blod;dr688;Almene sympt og abnorme fund, andre specificeret
+B25;Frygt for AIDS/HIV;dz711;Bekymring for sygdom hos rask person
+B26;Frygt for kræft i blod/lymfesystem;dz711;Bekymring for sygdom hos rask person
+B27;Frygt for sygdom blod/lymfesyst IKA;dz711;Bekymring for sygdom hos rask person
+B28;Nedsat funkt/handicap blod/lym/immun;dz908b;Splenectomia facta
+B28;Nedsat funkt/handicap blod/lym/immun;dz736;Begrænsning af aktiviteter på grund af invaliditet
+B29;Symptom/klage vedr lymfe/immunsystem;dr688;Almene sympt og abnorme fund, andre specificeret
+B70;Akut lymfadenit;dl049;Lymphadenitis acuta uden specifikation
+B71;Kronisk/uspecifik lymfadenit;di889;Lymphadenitis uden specifikation
+B72;Hodgkins sygdom/lymfom;dc819;Lymphoma Hodgkin uden specifikation
+B72;Hodgkins sygdom/lymfom;dc840;Mycosis fungoides
+B72;Hodgkins sygdom/lymfom;dc859a;Malignt lymfom uden specifikation
+B72;Hodgkins sygdom/lymfom;dc859b;Lymfom uden specifikation
+B73;Leukæmi;dc939;Leukaemia monocytica uden specifikation
+B73;Leukæmi;dc959;Leukaemia uden specifikation
+B73;Leukæmi;dc951;Leukaemia chronica uden specifikation
+B73;Leukæmi;dc929;Leukaemia myeloides uden specifikation
+B73;Leukæmi;dc919;Leukaemia lymphatica uden specifikation
+B74;Kræft i blod/lymfe IKA;dc969;Neopl mal telae lymphaticae et haematopoieticae uden spec
+B74;Kræft i blod/lymfe IKA;dc779;Neopl mal lymphonodi metastatisk eller ikke spec
+B74;Kræft i blod/lymfe IKA;dc900;Myelomatosis
+B74;Kræft i blod/lymfe IKA;dc880;Macroglobulinaemia primaria Waldenström
+B75;Godartet/uspec svulst i blod/lymfe;dd360;Neopl ben lymphonodi
+B75;Godartet/uspec svulst i blod/lymfe;dd459;Polycythaemia vera
+B75;Godartet/uspec svulst i blod/lymfe;dd479;Morbus lymphoproliferativus uden specifikation
+B76;Traumatisk miltruptur;ds360;Laesio traumatica lienis
+B77;Skade på blod/lymfe/milt IKA;dt149;Læsion uden specifikation
+B78;Arvelig hæmolytisk anæmi;dd589;Arvelig hæmolytisk anæmi uden specifikation
+B78;Arvelig hæmolytisk anæmi;dd580a;Sphaerocytosis hereditaria
+B78;Arvelig hæmolytisk anæmi;dd569;Thalassæmi uden specifikation
+B79;Medfødt abnormitet i blod/lymfe IKA;dq898;Medfødte misdannelser ikke klass ansted, andre specificered
+B80;Jernmangelanæmi;dd509;Jernmangelanæmi uden specifikation
+B80;Jernmangelanæmi;dd500;Blødningsanæmi kronisk
+B80;Jernmangelanæmi;dd501;Jernmangelanæmi forårsaget af malabsorption af jern
+B81;Vitamin B12-/folinsyremangelanæmi;dd519;Anæmi forårsaget af mangel på vitamin B12 uden specifikatio
+B81;Vitamin B12-/folinsyremangelanæmi;dd529;Anæmi forårsaget af folinsyremangel uden specifikation
+B81;Vitamin B12-/folinsyremangelanæmi;dd539;Ernæringsbetinget anæmi uden specifikation
+B82;Uspecifik anæmi IKA;dd649;Anæmi uden specifikation
+B82;Uspecifik anæmi IKA;dd629;Akut anæmi efter blødning
+B82;Uspecifik anæmi IKA;dd619;Aplastisk anæmi uden specifikation
+B82;Uspecifik anæmi IKA;dd599;Erhvervet hæmolytisk anæmi uden specifikation
+B83;Purpura/koagulationsdefekt;dd699;Blødningstendens uden specifikation
+B83;Purpura/koagulationsdefekt;dd696;Thrombocytopeni uden specifikation
+B83;Purpura/koagulationsdefekt;dd692d;Purpura uden specifikation
+B83;Purpura/koagulationsdefekt;dd690;Allergisk purpura
+B83;Purpura/koagulationsdefekt;dd689;Koagulationsdefekt uden specifikation
+B83;Purpura/koagulationsdefekt;dd680;Syndroma von Willebrand
+B83;Purpura/koagulationsdefekt;dd693;Purpura, idiopatisk trombocytopenisk
+B83;Purpura/koagulationsdefekt;dd659;Coagulatio intravascularis disseminata DIC
+B83;Purpura/koagulationsdefekt;dd669;Haemophilia A factor VIII
+B83;Purpura/koagulationsdefekt;dd679;Haemophilia B factor IX
+B83;Purpura/koagulationsdefekt;dd683;Blødningsforstyrrelse forårsaget af cirkulerende antikoag
+B83;Purpura/koagulationsdefekt;dd691;Blodpladedefekt
+B84;Abnorme hvide blodlegem ukendt årsag;dd709;Agranulocytosis
+B84;Abnorme hvide blodlegem ukendt årsag;dd728h;Leukopeni
+B84;Abnorme hvide blodlegem ukendt årsag;dr728;Abnorme fund ved hvide blodlegemer ikke klass ansted, andre
+B84;Abnorme hvide blodlegem ukendt årsag;dd728c;Lymphocytosis symptomatica
+B84;Abnorme hvide blodlegem ukendt årsag;dd721;Eosinophilia
+B84;Abnorme hvide blodlegem ukendt årsag;dd728a;Leukocytosis
+B87;Forstørret milt;dr161a;Splenomegalia uden specifikation
+B90;HIV-infektion/AIDS;db249;AIDS uden specifikation
+B90;HIV-infektion/AIDS;dz219;Asymptomatisk HIV-infektion UNS
+B90;HIV-infektion/AIDS;db230;HIV sygdom, akut
+B99;Sygdom i blod/lymf/milt/immunsys IKA;dd899;Sygdomme i immunapparatet uden specifikation
+B99;Sygdom i blod/lymf/milt/immunsys IKA;dd869;Sarkoidose uden specifikation
+B99;Sygdom i blod/lymf/milt/immunsys IKA;di891;Lymphangitis
+B99;Sygdom i blod/lymf/milt/immunsys IKA;dd731;Hypersplenismus øget miltfunktion
+B99;Sygdom i blod/lymf/milt/immunsys IKA;dd759;Sygdomme i blod og bloddannende organer uden specifikation
+B99;Sygdom i blod/lymf/milt/immunsys IKA;dr700;Hypersedimentatio
+B99;Sygdom i blod/lymf/milt/immunsys IKA;dr719;Erythrocytabnormitet
+B99;Sygdom i blod/lymf/milt/immunsys IKA;dd751;Polycytæmi secundaria
+B99;Sygdom i blod/lymf/milt/immunsys IKA;dd739;Miltsygdom uden specifikation
+B99;Sygdom i blod/lymf/milt/immunsys IKA;dd735;Infarctus lienis
+D00;D   FORDØJELSESSYSTEM;;
+D01;Udbredt/turevis smerte i abdomen;dr108b;Colica uden specifikation
+D01;Udbredt/turevis smerte i abdomen;dr108a;Colica infantilis
+D01;Udbredt/turevis smerte i abdomen;dr100;Abdominalia acuta
+D02;Smerte i epigastriet;dr101;Abdominalia lokaliseret til øvre abdomen
+D03;Halsbrand;dr129;Pyrosis
+D04;Smerte i rectum/anus;dr102;Abdominalia lokaliseret til pelvis og perinaeum
+D04;Smerte i rectum/anus;dk594;Spasmus ani
+D05;Perianal kløe;dl290;Pruritus ani
+D06;Lokaliseret smerte i abdomen IKA;dr103;Abdominalia lokaliseret til andre dele af nedre abdomen
+D06;Lokaliseret smerte i abdomen IKA;dr102b;Abdominalia pelvis
+D06;Lokaliseret smerte i abdomen IKA;dr102c;Abdominalia lokaliseret til nedre abdomen
+D07;Dyspepsi/fordøjelsesbesvær;dk309;Dyspepsia
+D08;Flatulens/luft i maven/ræben;dr198a;Ructus
+D08;Flatulens/luft i maven/ræben;dr198c;Meteorismus
+D08;Flatulens/luft i maven/ræben;dr149a;Flatulens
+D08;Flatulens/luft i maven/ræben;dr149;Flatulens og lignende tilstande
+D09;Kvalme;dr119b;Nausea
+D10;Opkastning;dr119c;Vomitus
+D11;Diare;dk591;Diarrhoea functionalis
+D12;Forstoppelse;dk590;Obstipatio
+D13;Gulsot;dr179;Icterus uden specifikation
+D14;Blodopkastning;dk920;Haematemesis
+D15;Melæna;dk921;Melaena
+D16;Blødning fra endetarm;dk625;Haemorrhagia ani et recti
+D17;Ufrivillig afgang af afføring;dr159;Incontinentia alvi
+D18;Ændret afføringsmønster;dr194;Ændret afføringsmønster
+D18;Ændret afføringsmønster;dr195d;Unormal afføring
+D19;Symptom/klage fra tand/tandkød;dk088b;Odontalgia uden specifikation
+D19;Symptom/klage fra tand/tandkød;dk007;Eruptiopathia
+D19;Symptom/klage fra tand/tandkød;dk089;Sygedomme i tænder og støttevæv uden specifikation
+D20;Symptom/klage fra mund/tunge/læbe;dk146;Glossodynia
+D20;Symptom/klage fra mund/tunge/læbe;dr196;Halitosis
+D20;Symptom/klage fra mund/tunge/læbe;dr682;Xerostomia uden specifikation
+D20;Symptom/klage fra mund/tunge/læbe;dr198;Sympt og abnorme fund i fordøjelsesorg og abdom, andre spec
+D21;Synkebesvær;dr139;Synkebesvær
+D23;Forstørret lever;dr160a;Hepatomegalia uden specifikation
+D24;Udfyldning i abdomen IKA;dr190c;Intumescentia intra-abdominalis
+D25;Udspilet abdomen;dr190;Intumescentia intra-abdominalis et pelvis
+D26;Frygt for kræft i fordøjelsessystem;dz711;Bekymring for sygdom hos rask person
+D27;Frygt for sygdom fordøjelsessyst IKA;dz711;Bekymring for sygdom hos rask person
+D28;Nedsat funkt/handicap fordøjelsessys;dz931;Tilstand m gastrostomi
+D28;Nedsat funkt/handicap fordøjelsessys;dz904a;Resectio coli facta
+D28;Nedsat funkt/handicap fordøjelsessys;dz903b;Resectio ventriculi facta
+D28;Nedsat funkt/handicap fordøjelsessys;dz944;Tilstand m transplanteret lever
+D28;Nedsat funkt/handicap fordøjelsessys;dz932;Tilstand m ileostomi
+D28;Nedsat funkt/handicap fordøjelsessys;dz908c;Cholecystectomia facta
+D28;Nedsat funkt/handicap fordøjelsessys;dz736;Begrænsning af aktiviteter på grund af invaliditet
+D28;Nedsat funkt/handicap fordøjelsessys;dz972;Tilstand med tandprotese (komplet)(partiel)
+D28;Nedsat funkt/handicap fordøjelsessys;dz980;Tilstand m intestinal bypass og anastomose
+D28;Nedsat funkt/handicap fordøjelsessys;dz933;Tilstand m kolostomi
+D29;Symptom/klage fra fordøjelsessys IKA;dr198e;Tenesmus rectalis
+D29;Symptom/klage fra fordøjelsessys IKA;dr189;Ascites
+D29;Symptom/klage fra fordøjelsessys IKA;dr198;Sympt og abnorme fund i fordøjelsesorg og abdom, andre spec
+D29;Symptom/klage fra fordøjelsessys IKA;dg4764;Tænderskæren
+D70;Gastrointestinal infektion;da079;Tarminfektion fremkaldt af protozoer uden specifikation
+D70;Gastrointestinal infektion;da084;Viral tarminfektion uden specifikation
+D70;Gastrointestinal infektion;da014;Paratyfus uden specifikation
+D70;Gastrointestinal infektion;da047;Enterocolitis forårsaget af Clostridium difficile
+D70;Gastrointestinal infektion;da051;Botulismus
+D70;Gastrointestinal infektion;da045;Campylobacter enteritis
+D70;Gastrointestinal infektion;da069;Amøbeinfektion uden specifikation
+D70;Gastrointestinal infektion;da049;Enteritis forårsaget af bakterier uden specifikation
+D70;Gastrointestinal infektion;da040;Enteritis forårsaget af enteropatogen E coli infektion
+D70;Gastrointestinal infektion;da046;Enteritis forårsaget af Yersinia enterocolitica
+D70;Gastrointestinal infektion;da020;Salmonella enteritis
+D70;Gastrointestinal infektion;da010;Tyfus
+D70;Gastrointestinal infektion;da009;Kolera uden specifikation
+D70;Gastrointestinal infektion;da059;Alimentær bacillær intoksikation uden specifikation
+D70;Gastrointestinal infektion;da039;Bacillær dysenteri uden specifikation
+D71;Fåresyge;db260;Orchitis forårsaget af parotitis epidemica
+D71;Fåresyge;db269;Parotitis epidemica u komplikationer
+D71;Fåresyge;db261;Meningitis forårsaget af parotitis epidemica
+D72;Virushepatit;db189;Hepatitis viralis chronica uden specifikation
+D72;Virushepatit;db159a;Hepatitis A
+D72;Virushepatit;db169;Hepatitis B acuta viralis uden specifikation
+D72;Virushepatit;db171;Hepatitis C acuta
+D72;Virushepatit;db172;Hepatitis E acuta
+D72;Virushepatit;db199;Hepatitis viralis uden specifikation u coma hepaticum
+D73;Formodet infektiøs gastroenterit;da099;Diarré og gastroenteritis af infektiøs oprindelse
+D74;Kræft i mavesæk;dc169;Neopl mal ventriculi uden specifikation
+D75;Kræft i tyktarm/endetarm;dc189;Neopl mal coli uden specifikation
+D75;Kræft i tyktarm/endetarm;dc209;Neopl mal recti
+D75;Kræft i tyktarm/endetarm;dc210;Neopl mal ani uden specifikation
+D76;Kræft i bugspytkirtel;dc259;Neopl mal pancreatis uden specifikation
+D77;Kræft i fordøjelsessystem IKA;dc079;Neopl mal glandulae parotidis
+D77;Kræft i fordøjelsessystem IKA;dc179;Neopl mal intestini tenuis uden specifikation
+D77;Kræft i fordøjelsessystem IKA;dc229;Neopl mal hepatis uden specifikation
+D77;Kræft i fordøjelsessystem IKA;dc239;Neopl mal vesicae felleae
+D77;Kræft i fordøjelsessystem IKA;dc249;Neopl mal viarum biliarium uden specifikation
+D77;Kræft i fordøjelsessystem IKA;dc269;Neopl mal systematis digestivi uden specifikation
+D77;Kræft i fordøjelsessystem IKA;dc159;Neopl mal oesophagi uden specifikation
+D77;Kræft i fordøjelsessystem IKA;dc009;Neopl mal labii oris uden specifikation
+D77;Kræft i fordøjelsessystem IKA;dc029;Neopl mal linguae uden specifikation
+D77;Kræft i fordøjelsessystem IKA;dc482;Neopl mal telae conjunctivae peritonei uden specifikation
+D77;Kræft i fordøjelsessystem IKA;dc069;Neopl mal oris uden specifikation
+D78;Godartet/uspec svulst fordøjelsessys;dd129;Neopl ben ani et canalis analis
+D78;Godartet/uspec svulst fordøjelsessys;dd484;Neopl peritonei uden specifikation
+D78;Godartet/uspec svulst fordøjelsessys;dd019;Carc in situ systematis digestivi uden specifikation
+D78;Godartet/uspec svulst fordøjelsessys;dd100;Neopl ben labii
+D78;Godartet/uspec svulst fordøjelsessys;dd103a;Neopl ben cavi oris uden specifikation
+D78;Godartet/uspec svulst fordøjelsessys;dd109;Neopl ben pharyngis uden specifikation
+D78;Godartet/uspec svulst fordøjelsessys;dd483;Neopl retroperitonei uden specifikation
+D78;Godartet/uspec svulst fordøjelsessys;dd139;Neopl ben systematis digestivi uden specifikation
+D78;Godartet/uspec svulst fordøjelsessys;dd119;Neopl ben glandulae salivariae majoris uden specifikation
+D78;Godartet/uspec svulst fordøjelsessys;dd128;Neopl ben recti
+D78;Godartet/uspec svulst fordøjelsessys;dd126f;Familiær adenomatøs polypose (FAP)
+D78;Godartet/uspec svulst fordøjelsessys;dd126;Neopl ben coli uden specifikation
+D78;Godartet/uspec svulst fordøjelsessys;dd379;Neopl uden specifikation i fordøjelsesorgan
+D79;Fremmedlegeme i fordøjelsessystem;dt189;Fremmedlegeme i fordøjelseskanalen uden specifikation
+D79;Fremmedlegeme i fordøjelsessystem;dt185;Corpus alienum ani et recti
+D79;Fremmedlegeme i fordøjelsessystem;dt181;Corpus alienum oesophagi
+D79;Fremmedlegeme i fordøjelsessystem;dt180;Corpus alienum oris
+D80;Skade på fordøjelsessystem IKA;ds032;Luxatio dentis
+D80;Skade på fordøjelsessystem IKA;ds015b;Vulnus labii oris
+D80;Skade på fordøjelsessystem IKA;ds015a;Vulnus cavi oris
+D80;Skade på fordøjelsessystem IKA;ds025;Fractura dentis
+D80;Skade på fordøjelsessystem IKA;ds368e;Laesio traumatica canalis gastrointestinalis
+D80;Skade på fordøjelsessystem IKA;ds361;Laesio traumatica hepatis et vesicae felleae
+D80;Skade på fordøjelsessystem IKA;ds369;Læsion af intraabdominale organer uden specifikation
+D80;Skade på fordøjelsessystem IKA;dt280;Ambustio cavi oris et pharyngis
+D80;Skade på fordøjelsessystem IKA;dt285;Corrosio cavi oris et pharyngis
+D80;Skade på fordøjelsessystem IKA;dt286;Corrosio oesophagi
+D81;Medfødt misdannelse i fordøjelsessys;dq399;Medfødt misdannelse i spiserør uden specifikation
+D81;Medfødt misdannelse i fordøjelsessys;dq379;Cheilopalatoschisis unilateralis uden specifikation
+D81;Medfødt misdannelse i fordøjelsessys;dq359;Palatoschisis unilateralis uden specifikation
+D81;Medfødt misdannelse i fordøjelsessys;dq381a;Frenulum breve linguae
+D81;Medfødt misdannelse i fordøjelsessys;dq400;Pylorospasmus congenitus
+D81;Medfødt misdannelse i fordøjelsessys;dq423c;Imperforatio ani
+D81;Medfødt misdannelse i fordøjelsessys;dq430;Diverticulum Meckeli
+D81;Medfødt misdannelse i fordøjelsessys;dq431;Hirschsprung's sygdom
+D81;Medfødt misdannelse i fordøjelsessys;dq459;Medfødt misdannelse i fordøjelsessystem uden specifikation
+D81;Medfødt misdannelse i fordøjelsessys;dq369;Cheiloschisis unilateralis
+D82;Sygdom i tand/tandkød;dk069;Sygdom i gingiva og processus alveolaris edentatus u spec
+D82;Sygdom i tand/tandkød;dk074;Malocclusio dentis
+D82;Sygdom i tand/tandkød;dk051b;Gingivitis uden specifikation
+D82;Sygdom i tand/tandkød;dk079;Dento-facial anomali uden specifikation
+D82;Sygdom i tand/tandkød;dk047b;Parulis uden specifikation
+D82;Sygdom i tand/tandkød;dk039;Sygdom i hårde tandvæv uden specifikation
+D82;Sygdom i tand/tandkød;dk029;Caries uden specifikation
+D82;Sygdom i tand/tandkød;dk099;Cyste mundregionen uden specifikation
+D82;Sygdom i tand/tandkød;dk089;Sygedomme i tænder og støttevæv uden specifikation
+D82;Sygdom i tand/tandkød;dk009;Forstyrrelser i tandudviklingen uden specifikation
+D82;Sygdom i tand/tandkød;dk056;Parodontose uden specifikation
+D83;Sygdom i mund/tunge/læbe;dk132h;Leukoplakia oris
+D83;Sygdom i mund/tunge/læbe;db370;Candidiasis oris
+D83;Sygdom i mund/tunge/læbe;dk112;Sialoadenitis
+D83;Sygdom i mund/tunge/læbe;db002;Gingivostomatitis et pharyngotonsillitis herpetica
+D83;Sygdom i mund/tunge/læbe;dk137;Sygdom i mundslimhinde, andre og uden specifikation
+D83;Sygdom i mund/tunge/læbe;dk115;Sialolithiasis
+D83;Sygdom i mund/tunge/læbe;dk116;Mucocele glandulae salivaris
+D83;Sygdom i mund/tunge/læbe;dk120;Stomatitis aphthosa
+D83;Sygdom i mund/tunge/læbe;dk130;Morbi labii oris
+D83;Sygdom i mund/tunge/læbe;da690;Mundbetændelse forårsaget af Spirokæte
+D83;Sygdom i mund/tunge/læbe;dk130e;Cheilitis angularis
+D83;Sygdom i mund/tunge/læbe;dk149;Sygdom i tunge uden specifikation
+D84;Sygdom i spiserør;dk222;Stenosis et strictura oesophagi
+D84;Sygdom i spiserør;dk228f;Haemorrhagia oesophagi uden specifikation
+D84;Sygdom i spiserør;dk225;Diverticulum oesophagi acquisitum
+D84;Sygdom i spiserør;dk221;Ulcus oesophagi
+D84;Sygdom i spiserør;dk220;Achalasia cardiae
+D84;Sygdom i spiserør;dk219;Reflux gastro-oesophagealis u oesophagitis
+D84;Sygdom i spiserør;dk210;Reflux gastro-oesophagealis m oesophagitis
+D84;Sygdom i spiserør;dk209;Oesophagitis
+D84;Sygdom i spiserør;dk229;Sygdom i spiserør uden specifikation
+D84;Sygdom i spiserør;dk226;Mallory-Weiss' syndrom
+D85;Sår på tolvfingertarm;dk269;Ulcus duodeni chronicum u spec u blødning eller perforation
+D86;Mavesår IKA;dk279;Ulcus gastroduod u spec u ang af blødning eller perforation
+D86;Mavesår IKA;dk271;Ulcus gastroduodenale acutum u angivet lokalis m perforatio
+D86;Mavesår IKA;dk259a;Ulcus corporis ventriculi uden specifikation
+D87;Mavekatar;dk299;Gastroduodenitis uden specifikation
+D87;Mavekatar;dk294;Gastritis chronica atrophica
+D88;Blindtarmsbetændelse;dk379;Blindtarmsbetændelse uden specifikation
+D88;Blindtarmsbetændelse;dk350a;Appendicitis acuta perforans
+D89;Lyskebrok;dk409;Hernia inguinalis unilat eller u spec u ileus eller gangræn
+D90;Hiatushernie;dk449;Hernia diaphragmatica u ileus eller gangræn
+D91;Abdominalt brok IKA;dk469;Hernia abdominalis u spec u ileus eller gangræn
+D91;Abdominalt brok IKA;dk429;Hernia umbilicalis u ileus eller gangræn
+D91;Abdominalt brok IKA;dk419;Hernia femoralis unilat eller u spec u ileus eller gangræn
+D91;Abdominalt brok IKA;dk439;Hernia ventralis u ileus eller gangræn
+D92;Divertikelsygdom i tarm;dk579;Diverticulosis i tarm u perforation el. absces, lokal.uspec.
+D92;Divertikelsygdom i tarm;dk573b;Diverticulitis coli uden specifikation
+D93;Colon irritabile;dk589;Colon irritabile u diarrhoe
+D94;Kronisk enterit/ulcerøs kolit;dk519;Tyktarmsbetændelse uden specifikation
+D94;Kronisk enterit/ulcerøs kolit;dk509;Crohns sygdom uden specifikation
+D94;Kronisk enterit/ulcerøs kolit;dk512;Proctitis (chronica) ulcerosa
+D94;Kronisk enterit/ulcerøs kolit;dk529;Ikke infektiøs gastroenterit og colit uden specifikation
+D95;Analfissur/perianal absces;dk639;Tarmsygdom uden specifikation
+D95;Analfissur/perianal absces;dk605;Fistula anorectalis
+D95;Analfissur/perianal absces;dk602;Fissura ani uden specifikation
+D95;Analfissur/perianal absces;dk612;Abscessus anorectalis
+D96;Orm/parasit IKA;db839;Helminthiasis uden specifikation
+D96;Orm/parasit IKA;db674;Infektion m Echinococcus granulosus uden specifikation
+D96;Orm/parasit IKA;db809;Oxyuriasis
+D96;Orm/parasit IKA;db799;Trichuriasis
+D96;Orm/parasit IKA;db789;Strongyloidiasis
+D96;Orm/parasit IKA;db779;Ascariasis, uden specifikation
+D96;Orm/parasit IKA;db769;Ancylostomiasis uden specifikation
+D96;Orm/parasit IKA;db759;Trichinosis
+D96;Orm/parasit IKA;db659;Schistosomiasis uden specifikation
+D96;Orm/parasit IKA;db689;Taeniasis uden specifikation
+D96;Orm/parasit IKA;db700;Diphyllobothriasis
+D97;Leversygdom IKA;db942;Viral leverbetændelse, følger efter
+D97;Leversygdom IKA;dk739;Kronisk hepatit uden specifikation
+D97;Leversygdom IKA;dk709;Alkoholisk leversygdom uden specifikation
+D97;Leversygdom IKA;dk729;Leversvigt uden specifikation
+D97;Leversygdom IKA;dk746g;Cirrhosis hepatis uden specifikation
+D97;Leversygdom IKA;dk760;Degeneratio hepatis steatosa ikke klassificeret andetsteds
+D97;Leversygdom IKA;dk769;Leversygdom uden specifikation
+D97;Leversygdom IKA;dk719;Toksisk leversygdom uden specifikation
+D98;Galdeblærebetændelse/galdesten;dk839;Galdevejssygdom uden specifikation
+D98;Galdeblærebetændelse/galdesten;dk838d;Dyskinesia ductus biliaris
+D98;Galdeblærebetændelse/galdesten;dk802d;Cholelithiasis uden specifikation
+D98;Galdeblærebetændelse/galdesten;dk819;Cholecystit uden specifikation
+D99;Sygdom i fordøjelsessystem IKA;dk551a;Atherosclerosis mesenterica
+D99;Sygdom i fordøjelsessystem IKA;dk522a;Allergia alimentaria (fødemiddelallergi)
+D99;Sygdom i fordøjelsessystem IKA;dk521;Gastroenteritis et colitis toxica
+D99;Sygdom i fordøjelsessystem IKA;dk561;Invaginatio
+D99;Sygdom i fordøjelsessystem IKA;dk560;Ileus paralyticus
+D99;Sygdom i fordøjelsessystem IKA;dk550e;Infarctio mesenterialis
+D99;Sygdom i fordøjelsessystem IKA;dk622;Prolapsus ani
+D99;Sygdom i fordøjelsessystem IKA;dk623;Prolapsus recti
+D99;Sygdom i fordøjelsessystem IKA;dk628l;Proctitis uden specifikation
+D99;Sygdom i fordøjelsessystem IKA;dk628m;Relaxatio ani
+D99;Sygdom i fordøjelsessystem IKA;dk660;Adhaesiones peritonei
+D99;Sygdom i fordøjelsessystem IKA;dk859;Pancreatitis acuta
+D99;Sygdom i fordøjelsessystem IKA;dk861b;Pancreatitis chronica uden specifikation
+D99;Sygdom i fordøjelsessystem IKA;dk869;Pankreassygdom uden specifikation
+D99;Sygdom i fordøjelsessystem IKA;dk566c;Subileus
+D99;Sygdom i fordøjelsessystem IKA;dk915;Postcholecystectomi syndrom
+D99;Sygdom i fordøjelsessystem IKA;dk909;Intestinal malabsorption uden specifikation
+D99;Sygdom i fordøjelsessystem IKA;dk904;Malabsorptio forårsaget af intolerans ikke klass andetsteds
+D99;Sygdom i fordøjelsessystem IKA;dk900;Coeliaci
+D99;Sygdom i fordøjelsessystem IKA;dk659;Peritonit uden specifikation
+D99;Sygdom i fordøjelsessystem IKA;dk929;Sygdom i fordøjelsessystemet uden specifikation
+D99;Sygdom i fordøjelsessystem IKA;dk567;Ileus uden specifikation
+F00;F   ØJE;;
+F01;Smerte i øje;dh571;Dolores oculi
+F02;Rødt øje;dh578;Sygdomme i øje og øjenomgivelser, andre specificerede
+F03;Sekretion fra øje;dh042;Epiphora
+F04;Synlig mobil tråd/plet i synsfelt;dh531;Perturbatio visus subjectiva
+F05;Synsklage IKA;dh539;Synsforstyrrelser uden specifikation
+F05;Synsklage IKA;dh532;Diplopia
+F05;Synsklage IKA;dh531f;Photophobia
+F05;Synsklage IKA;dh531a;Asthenopia
+F13;Abnorm fornemmelse i øje;dh578;Sygdomme i øje og øjenomgivelser, andre specificerede
+F14;Abnorm øjenbevægelse;dh559x;Abnorme øjenbevægelser
+F14;Abnorm øjenbevægelse;dh559;Nystagmus
+F15;Abnormt udseende af øje;dh578;Sygdomme i øje og øjenomgivelser, andre specificerede
+F16;Symptom/klage fra øjenlåg;dh024;Ptosis palpebrae
+F16;Symptom/klage fra øjenlåg;dh026;Xanthelasma palpebrae
+F16;Symptom/klage fra øjenlåg;dh029;Sygdomme i øjelåg uden specifikation
+F16;Symptom/klage fra øjenlåg;dh022;Lagophthalmus
+F17;Symptom/klage vedr briller;dt888x;Symptom/klage vedr. briller
+F18;Symptom/klage vedr kontaktlinser;dt888y;Symptom/klage vedr. kontaktlinser
+F27;Frygt for øjensygdom;dz711;Bekymring for sygdom hos rask person
+F28;Nedsat funktion/handicap vedr øje;dh544;Amaurosis unilateralis
+F28;Nedsat funktion/handicap vedr øje;dz947;Tilstand m transplanteret hornhinde
+F28;Nedsat funktion/handicap vedr øje;dh545;Synsnedsættelse på eet øje
+F28;Nedsat funktion/handicap vedr øje;dz973a;Tilstand med briller
+F28;Nedsat funktion/handicap vedr øje;dz973b;Tilstand med kontaktlinser
+F28;Nedsat funktion/handicap vedr øje;dz736;Begrænsning af aktiviteter på grund af invaliditet
+F28;Nedsat funktion/handicap vedr øje;dz961;Tilstand m intraokulær linse
+F28;Nedsat funktion/handicap vedr øje;dz970;Tilstand med kunstigt øje
+F29;Symptom/klage fra øje IKA;dh579;Sygdomme i øje og øjenomgivelser uden specifikation
+F70;Infektiøs konjunktivit;db309;Conjunctivitis viralis uden specifikation
+F70;Infektiøs konjunktivit;dh109;Conjunktivitis uden specifikation
+F70;Infektiøs konjunktivit;da740;Konjunktivitis forårsaget af Chlamydia infekt undt nyfødte
+F71;Allergisk konjunktivit;dh101;Conjunctivitis allergica acuta
+F72;Øjenlågsbetændelse;dh001;Chalazion
+F72;Øjenlågsbetændelse;dh010;Blepharitis
+F72;Øjenlågsbetændelse;dh000c;Hordeolum
+F72;Øjenlågsbetændelse;dh019;Betændelse af øjelåg uden specifikation
+F73;Infektion/inflammation i øje IKA;dh043d;Dacryocystitis uden specifikation
+F73;Infektion/inflammation i øje IKA;dh169;Keratitis uden specifikation
+F73;Infektion/inflammation i øje IKA;dh579;Sygdomme i øje og øjenomgivelser uden specifikation
+F73;Infektion/inflammation i øje IKA;dh050;Inflammatio orbitae acuta
+F73;Infektion/inflammation i øje IKA;dh209;Iridocyclit uden specifikation
+F73;Infektion/inflammation i øje IKA;dh309;Chorioretinit uden specifikation
+F74;Svulst i øje/øjenomgivelser;dd319;Neopl ben oculi uden specifikation
+F74;Svulst i øje/øjenomgivelser;dd487c;Neopl oculi uden specifikation
+F74;Svulst i øje/øjenomgivelser;dc699;Neopl mal oculi uden specifikation
+F75;Kontusion/blødning øje/øjenomgivelse;ds051a;Contusio bulbi oculi
+F75;Kontusion/blødning øje/øjenomgivelse;dh113;Haemorrhagia conjunctivae
+F75;Kontusion/blødning øje/øjenomgivelse;ds051c;Hyphaema traumaticum
+F75;Kontusion/blødning øje/øjenomgivelse;ds001;Contusio palpebrae et periorbitalis
+F76;Fremmedlegeme i øje;dt150;Corpus alienum corneae
+F76;Fremmedlegeme i øje;dt151;Corpus alienum conjunctivae
+F76;Fremmedlegeme i øje;dt159;Fremmedlegeme på øjets ydre overflade uden specifikation
+F79;Øjenskade IKA;ds011c;Vulnus regionis orbitae
+F79;Øjenskade IKA;dt264;Forbrænding af øje og øjeregion uden specifikation
+F79;Øjenskade IKA;ds059;Læsion af øje og øjenhule uden specifikation
+F79;Øjenskade IKA;dt269;Ætsning af øje og øjeregion uden specifikation
+F79;Øjenskade IKA;ds050b;Laesio traumatica conjunctivae
+F79;Øjenskade IKA;dh161g;Photokeratitis
+F79;Øjenskade IKA;ds050a;Abrasio corneae uden fremmedlegeme
+F79;Øjenskade IKA;ds054;Vulnus penetrans orbitae m eller u fremmedlegeme
+F80;Tårekanalstenose hos spædbarn;dq105;Stenosis et strictura congenita ductus lacrimalis
+F81;Medfødt misdannelse af øje IKA;dq100;Ptosis palpebrae congenita
+F81;Medfødt misdannelse af øje IKA;dq129;Medfødt misdannelse i øjets linse uden specifikation
+F81;Medfødt misdannelse af øje IKA;dq132;Malformationes aliae congenitae iridis
+F81;Medfødt misdannelse af øje IKA;dq159;Medfødt misdannelse i øje uden specifikation
+F82;Nethindeløsning;dh332b;Amotio retinae uden specifikation
+F83;Retinopati;dh360;Retinopathia diabetica
+F83;Retinopati;dh350;Retinopathia et angiopathia retinae
+F83;Retinopati;dh350b;Fundus hypertonicus
+F84;Maculadegeneration;dh353;Degeneratio maculae luteae et polus posterior retinae
+F85;Ulcus corneae;dh191b;Keratitis herpetica
+F85;Ulcus corneae;dh160;Ulcus corneae
+F86;Trakom;da719;Trachoma
+F91;Refraktionsanomali;dh521;Myopia
+F91;Refraktionsanomali;dh522;Astigmatismus
+F91;Refraktionsanomali;dh520;Hypermetropia
+F91;Refraktionsanomali;dh527;Refraktionsanomali uden specifikation
+F91;Refraktionsanomali;dh525;Akkommodationsforstyrrelser
+F91;Refraktionsanomali;dh524;Presbyopia
+F91;Refraktionsanomali;dh523b;Anisometropia
+F92;Katarakt;dh264;Cataracta secundaria (efterstær)
+F92;Katarakt;dh269;Katarakt uden specifikation
+F93;Glaukom;dh409;Glaukom uden specifikation
+F94;Blindhed/svagsyn;dh540;Amaurosis bilateralis
+F94;Blindhed/svagsyn;dh541;Amaurosis unilateralis m nedsat syn på andet øje
+F94;Blindhed/svagsyn;dh543;Synstab uden specifikation på begge øjne
+F94;Blindhed/svagsyn;dh542;Synsnedsættelse på begge øjne
+F95;Skelen;dh499;Skelelammelse uden specifikation
+F95;Skelen;dh519;Forstyrrelse i binokulær bevægelse uden specifikation
+F95;Skelen;dh509;Skelen uden specifikation
+F95;Skelen;dh503;Heterotropia intermittens
+F95;Skelen;dh502;Strabismus verticalis
+F95;Skelen;dh501;Strabismus concomitans divergens
+F95;Skelen;dh500;Strabismus concomitans convergens
+F99;Sygdom i øje/øjenomgivelser IKA;dh049;Sygdomme i tåreapparat uden specifikation
+F99;Sygdom i øje/øjenomgivelser IKA;dh535;Achromatopsia
+F99;Sygdom i øje/øjenomgivelser IKA;dh578;Sygdomme i øje og øjenomgivelser, andre specificerede
+F99;Sygdom i øje/øjenomgivelser IKA;dh150;Scleritis
+F99;Sygdom i øje/øjenomgivelser IKA;dh534;Synsfeltsdefekter
+F99;Sygdom i øje/øjenomgivelser IKA;dh536;Hemeralopia
+F99;Sygdom i øje/øjenomgivelser IKA;dh111;Degeneration af og aflejring i conjunctiva
+F99;Sygdom i øje/øjenomgivelser IKA;dh021;Ectropion palpebrae
+F99;Sygdom i øje/øjenomgivelser IKA;dh041f;Xerophthalmus
+F99;Sygdom i øje/øjenomgivelser IKA;dh471;Oedema papillae nervi optici uden specifikation
+F99;Sygdom i øje/øjenomgivelser IKA;dh045;Stenosis et insufficientia viarum lacrimalium
+F99;Sygdom i øje/øjenomgivelser IKA;dh184a;Arcus senilis
+F99;Sygdom i øje/øjenomgivelser IKA;dh052;Exophthalmus
+F99;Sygdom i øje/øjenomgivelser IKA;dh439;Sygdomme i corpus vitreum uden specifikation
+F99;Sygdom i øje/øjenomgivelser IKA;dh110;Pterygium
+F99;Sygdom i øje/øjenomgivelser IKA;dh469;Neuritis nervi optici
+F99;Sygdom i øje/øjenomgivelser IKA;dh020a;Entropion palpebrae
+F99;Sygdom i øje/øjenomgivelser IKA;dh570;Abnorm pupilfunktion
+F99;Sygdom i øje/øjenomgivelser IKA;dh530;Amblyopia ex anopsia
+F99;Sygdom i øje/øjenomgivelser IKA;dh349;Vaskulære okklusioner i retinae uden specifikation
+H00;H   ØRE;;
+H01;Øresmerte;dh920;Otalgia
+H02;Symptom/klage vedr hørelsen;dh932;Perceptiv hørelidelse, anden
+H03;Tinnitus;dh931;Tinnitus
+H04;Øreflåd;dh921;Otorrhoea
+H05;Blødning fra øre;dh922;Otorrhagia
+H13;Klapfornemmelse for øre;dh938;Øresygdom, anden specificeret
+H15;Kosmetisk øreproblem;dr468;Sympt og abnorme fund vedr udseende og opførsel, andre
+H27;Frygt for øresygdom;dz711;Bekymring for sygdom hos rask person
+H28;Nedsat funktion/handicap vedr øre;dz736;Begrænsning af aktiviteter på grund af invaliditet
+H28;Nedsat funktion/handicap vedr øre;dz962;Tilstand m otologiske og audiologiske implantater
+H28;Nedsat funktion/handicap vedr øre;dz974;Tilstand med eksternt høreapparat
+H29;Symptom/klage fra øre IKA;dh939;Sygdom i øre uden specifikation
+H70;Betændelse i ydre øregang;dh600a;Abscessus meatus acustici externi
+H70;Betændelse i ydre øregang;dh605a;Eczema meatus acustici externi
+H70;Betændelse i ydre øregang;dh609;Otitis ext uden specifikation
+H71;Akut mellemørebetændelse/myringit;dh730;Myringitis acuta
+H71;Akut mellemørebetændelse/myringit;dh660;Otitis media purulenta acuta
+H71;Akut mellemørebetændelse/myringit;dh700;Mastoiditis acuta
+H72;Serøs mellemørebetændelse;dh653;Otitis media chronica mucinosa
+H72;Serøs mellemørebetændelse;dh659;Otitis media nonpurulenta uden specifikation
+H73;Tillukning af eustakiske rør;dh681;Occlusio tubae auditivae (Eustachii)
+H74;Kronisk mellemørebetændelse;dh701;Mastoiditis chronica
+H74;Kronisk mellemørebetændelse;dh663;Otitis media purulenta chronica, anden form
+H74;Kronisk mellemørebetændelse;dh731;Myringitis chronica
+H74;Kronisk mellemørebetændelse;dh719;Cholesteatoma auris media
+H75;Svulst i øre;dd140a;Neopl ben auris mediae
+H75;Svulst i øre;dc301;Neopl mal auris mediae
+H75;Svulst i øre;dd385a;Neopl auris mediae uden specifikation
+H76;Fremmedlegeme i øre;dt169;Corpus alienum auris
+H77;Perforation af trommehinde;dh729;Perforation af trommehinde uden specifikation
+H78;Overfladisk skade på øre;ds004;Laesio traumatica superfic auris
+H79;Øreskade IKA;ds013;Vulnus auris
+H79;Øreskade IKA;ds092;Ruptura traumatica membranae tympanica
+H79;Øreskade IKA;dt700;Barotrauma auris ikke specificeret
+H79;Øreskade IKA;ds099;Læsion på hovedet uden specifikation
+H80;Medfødt misdannelse af øre;dq179;Medfødt misdannelse i øre uden specifikation
+H80;Medfødt misdannelse af øre;dq169;Medfødt misdannelse i øre m nedsat hørelse u specifikation
+H80;Medfødt misdannelse af øre;dq175;Aures alatae
+H81;Voksprop i øregang;dh612;Cerumen impactum
+H82;Vertigosyndrom;dh811;Vertigo paroxystica benigna
+H82;Vertigosyndrom;dh819;Vestibulær funktionsforstyrrelse uden specifikation
+H82;Vertigosyndrom;dh814;Vertigo centralis
+H82;Vertigosyndrom;dh812;Neuritis vestibularis
+H82;Vertigosyndrom;dh810;Morbus Meniere
+H83;Otosklerose;dh809;Otosclerosis uden specifikation
+H84;Aldersbetinget tunghørhed;dh911;Presbyacusis
+H85;Støjskade;dh833;Støjskade på indre øre
+H86;Døvhed;dh902;Konduktivt høretab uden specifikation
+H86;Døvhed;dh913;Surdomutitas ikke klassificeret andetsteds
+H86;Døvhed;dh919;Høretab uden specifikation
+H86;Døvhed;dh905;Perceptivt høretab uden specifikation
+H99;Sygdom i øre/mastoideus IKA;dh610;Perichondritis auris ext
+H99;Sygdom i øre/mastoideus IKA;dh938;Øresygdom, anden specificeret
+H99;Sygdom i øre/mastoideus IKA;dh740;Tympanosclerosis
+H99;Sygdom i øre/mastoideus IKA;dh933;Sygdom i nervus acusticus (hørenerven)
+K00;K   HJERTE / KARSYSTEM;;
+K01;Smerte i hjerte;dr072;Dolor praecordialis
+K02;Trykken/knugen i hjerte;dr072;Dolor praecordialis
+K03;Smerte i kardiovaskulære system IKA;dr098;Symptomer og fund i kredsløbs- og åndedrætsorg, andre spec
+K04;Hjertebanken;dr000;Takykardi uden specifikation
+K04;Hjertebanken;dr001;Bradykardi uden specifikation
+K04;Hjertebanken;dr002;Palpitationes cordis
+K05;Uregelmæssig hjerterytme IKA;dr008;Abnorme hjerterytmer, andre og ikke specificeret
+K06;Fremtrædende vener;di878;Sygdom i vener, anden specificeret
+K06;Fremtrædende vener;di781a;Naevus araneus
+K07;Ødem;dr601;Oedema generalisata
+K07;Ødem;dr609;Oedema uden specifikation
+K07;Ødem;dr600;Oedema localisata
+K22;Risikofaktor for hjerte/karsygdom;dz823;Familieanamnese m apoplektisk tilfælde
+K22;Risikofaktor for hjerte/karsygdom;dz824;Familieanamnese m iskæmisk og andre sygdom i hjerte-karsyst
+K24;Frygt for hjertesygdom;dz711;Bekymring for sygdom hos rask person
+K25;Frygt for forhøjet blodtryk;dz711;Bekymring for sygdom hos rask person
+K27;Frygt for hjerte/karsygdom IKA;dz711;Bekymring for sygdom hos rask person
+K28;Nedsat funktion/handicap hjerte/kar;dz951;Tilstand m aorto-koronar bypass graft
+K28;Nedsat funktion/handicap hjerte/kar;dz941;Tilstand m transplanteret hjerte
+K28;Nedsat funktion/handicap hjerte/kar;dz956;Tilstand m ICD (Implanterbar Cardioverter-Defibrillator)
+K28;Nedsat funktion/handicap hjerte/kar;dz959;Tilstand m hjerte- og karimplantat og graft u specifikation
+K28;Nedsat funktion/handicap hjerte/kar;dz736;Begrænsning af aktiviteter på grund af invaliditet
+K28;Nedsat funktion/handicap hjerte/kar;dz950;Tilstand m pacemaker
+K29;Symptom/klage fra hjerte/karsyst IKA;dr031;Måling af lavt blodtryk uden specifikation
+K29;Symptom/klage fra hjerte/karsyst IKA;dr098;Symptomer og fund i kredsløbs- og åndedrætsorg, andre spec
+K70;Infektion i hjerte/karsystem;di389;Betændelse i hjerteklap (endokardit)
+K70;Infektion i hjerte/karsystem;di409;Myocarditis acuta uden specifikation
+K70;Infektion i hjerte/karsystem;di309;Akut perikardit
+K71;Gigtfeber/reumatisk hjertesygdom;di029;Chorea minor (Sydenham) u hjertesygdom
+K71;Gigtfeber/reumatisk hjertesygdom;di009;Gigtfeber uden hjertesygdom
+K71;Gigtfeber/reumatisk hjertesygdom;di099;Reumatisk hjertesygdom uden specifikation
+K72;Svulst i hjerte/karsystem;dc380;Neopl mal cordis
+K72;Svulst i hjerte/karsystem;dd487d;Neoplasma mediastini
+K72;Svulst i hjerte/karsystem;dd487a;Neopl cordis uden specifikation
+K72;Svulst i hjerte/karsystem;dd152;Neopl ben mediastini
+K72;Svulst i hjerte/karsystem;dd151;Neopl ben cordis
+K73;Medfødt misdannelse i hjerte/karsyst;dq250;Ductus arteriosus persistens
+K73;Medfødt misdannelse i hjerte/karsyst;dq219;Medfødt misdannelse af hjerteskillevæg uden specifikation
+K73;Medfødt misdannelse i hjerte/karsyst;dq221;Stenosis valvulae pulmonalis congenita
+K73;Medfødt misdannelse i hjerte/karsyst;dq222;Insufficientia valvulae pulmonalis congenita
+K73;Medfødt misdannelse i hjerte/karsyst;dq229;Medfødt misdannelse af trikuspidalklap uden specifikation
+K73;Medfødt misdannelse i hjerte/karsyst;dq249;Medfødt hjertemisdannelse uden specifikation
+K73;Medfødt misdannelse i hjerte/karsyst;dq289;Medfødt misdannelse i kredsløbsorganer uden specifikation
+K73;Medfødt misdannelse i hjerte/karsyst;dq251;Coarctatio aortae
+K73;Medfødt misdannelse i hjerte/karsyst;dq259;Medfødt misdannelse i store arterier uden specifikation
+K73;Medfødt misdannelse i hjerte/karsyst;dq288a;Haemangioma cavernosum diffusum
+K73;Medfødt misdannelse i hjerte/karsyst;dq269;Medfødt misdannelse i store vener uden specifikation
+K73;Medfødt misdannelse i hjerte/karsyst;dq279;Medfødt misdannelse i perifere kar uden specifikation
+K73;Medfødt misdannelse i hjerte/karsyst;dq283;Malformationes aliae congenitae vasorum cerebri
+K73;Medfødt misdannelse i hjerte/karsyst;dq239;Medfødt misdannelse af aorta- og mitralklapper u specifik
+K73;Medfødt misdannelse i hjerte/karsyst;dq209;Medfødt misdannelse af hjertekamre uden specifikation
+K74;Iskæmisk hjertesygdom med angina;di200;Ustabil angina pectoris
+K74;Iskæmisk hjertesygdom med angina;di251;Angina pectoris (stabil)
+K74;Iskæmisk hjertesygdom med angina;di209;Angina pectoris uden specifikation
+K74;Iskæmisk hjertesygdom med angina;di201;Angina pectoris (spasme/variant/Prinzmetal)
+K74;Iskæmisk hjertesygdom med angina;di208d;Mikrovaskulær angina (Kardialt syndroma X)
+K75;Akut myokardieinfarkt;di241;Postmyokardieinfarkt syndrom
+K75;Akut myokardieinfarkt;di219;Akut myokardieinfarkt (AMI uden specifikation)
+K76;Iskæmisk hjertesygdom uden angina;di259;Kronisk iskæmisk hjertesygdom uden specifikation
+K76;Iskæmisk hjertesygdom uden angina;di256;Stum iskæmi
+K76;Iskæmisk hjertesygdom uden angina;di252;Tidligere myokardieinfarkt
+K77;Hjertesvigt;di509;Hjertesvigt uden specifikation
+K77;Hjertesvigt;di501c;Stasis pulmonum cardialis
+K77;Hjertesvigt;di501b;Kardialt lungeødem
+K78;Atrieflimren/flagren;di489a;Atrieflagren
+K78;Atrieflimren/flagren;di489;Atrieflagren og atrieflimren
+K78;Atrieflimren/flagren;di489b;Atrieflimren
+K79;Anfaldsvis takykardi;di471;Supraventrikulær takykardi med smalle QRS-komplekser
+K79;Anfaldsvis takykardi;di472;Ventrikulær takykardi (ikke reentry)
+K79;Anfaldsvis takykardi;di479;Takykardi uden specifikation
+K80;Hjerterytmeforstyrrelse IKA;di491;Supraventrikulære ekstrasystoler
+K80;Hjerterytmeforstyrrelse IKA;di499;Hjerterytmeforstyrrelse uden specifikation
+K80;Hjerterytmeforstyrrelse IKA;di495;Syg sinusknude syndrom
+K80;Hjerterytmeforstyrrelse IKA;di494a;Ekstrasystoli uden specifikation
+K80;Hjerterytmeforstyrrelse IKA;di493;Ventrikulære ekstrasystoler
+K80;Hjerterytmeforstyrrelse IKA;di492;AV junktionale ekstrasystoler
+K81;Mislyd over hjerte/arterie IKA;dr010;Mislyd ved hjertet, funktionel
+K81;Mislyd over hjerte/arterie IKA;dr011;Mislyd ved hjertet uden specifikation
+K82;Pulmonal hjertesygdom;di279;Pulmonal hjertesygdom
+K83;Hjerteklapsygdom IKA;di351;Aortaklapinsufficiens, ikke reumatisk
+K83;Hjerteklapsygdom IKA;di340;Mitralklapinsufficiens, ikke reumatisk
+K83;Hjerteklapsygdom IKA;di089;Hjerteklapsygdom inddragende flere hjerteklapper u spec
+K83;Hjerteklapsygdom IKA;di369;Trikuspidalklapsygdom
+K83;Hjerteklapsygdom IKA;di350;Aortaklapstenose, ikke reumatisk
+K83;Hjerteklapsygdom IKA;di379;Pulmonalklapsygdom uden specifikation
+K83;Hjerteklapsygdom IKA;di342;Mitralklapstenose, ikke reumatisk
+K84;Hjertesygdom IKA;di519;Hjertesygdom uden specifikation
+K84;Hjertesygdom IKA;di460;Hjertestop m vellykket genoplivning
+K84;Hjertesygdom IKA;di459;Ledningsforstyrrelse i hjertet uden specifikation
+K84;Hjertesygdom IKA;di456;Præexcitations syndrom
+K84;Hjertesygdom IKA;di447;Venstresidigt grenblok
+K84;Hjertesygdom IKA;di442;3° Ophævet AV-overledning (AV-blok)
+K84;Hjertesygdom IKA;di441;2° Intermitterende AV-overledning
+K84;Hjertesygdom IKA;di440;1° Forlænget AV-overledning
+K84;Hjertesygdom IKA;di429;Kardiomyopati uden specifikation
+K84;Hjertesygdom IKA;di450;Højresidigt grenblok
+K84;Hjertesygdom IKA;di517;Cardiomegalia
+K84;Hjertesygdom IKA;di319;Sygdom i perikardiet uden specifikation
+K85;Forhøjet blodtryk;dr030;Måling af forhøjet BT uden diagnosen hyp art kan verificere
+K86;Ukompliceret hypertension;di109;Hypertensio arterialis essentialis
+K87;Kompliceret hypertension;di139;Morbus cord et renalis hypertensivus uden specifikation
+K87;Kompliceret hypertension;di110;Incompensatio cordis hypertensiva
+K87;Kompliceret hypertension;di159;Hypertension, sekundær uden specifikation
+K87;Kompliceret hypertension;di674;Encephalopathia hypertensiva
+K87;Kompliceret hypertension;di129;Morbus hypertensivus renalis uden nyresvigt
+K88;Ortostatisk hypotension;di951;Hypotensio arterialis orthostatica
+K89;Transitorisk cerebral iskæmi;dg450;Arteria vertebro-basilaris syndrom
+K89;Transitorisk cerebral iskæmi;dg451;Arteria carotis syndrom
+K89;Transitorisk cerebral iskæmi;dg459;Ischaemia cerebri transitoria uden specifikation
+K89;Transitorisk cerebral iskæmi;dg453;Amaurosis fugax
+K90;Apopleksi;di649;Apoplexia cerebri uden specifikation
+K90;Apopleksi;di619;Haemorrhagia cerebri uden specifikation
+K90;Apopleksi;di609;Haemorrhagia subarachnoidalis uden specifikation
+K90;Apopleksi;di639;Infarctus cerebri uden specifikation
+K91;Cerebrovaskulær sygdom;di672;Arteriosclerosis cerebri
+K91;Cerebrovaskulær sygdom;di652;Occlusio et stenosis arteriae carotidis u hjerneinfarkt
+K91;Cerebrovaskulær sygdom;di679;Cerebrovaskulær sygdom uden specifikation
+K91;Cerebrovaskulær sygdom;di671;Aneurysma cerebri non ruptum
+K92;Aterosklerose/perifer karsygdom;di700;Arteriosclerosis aortae
+K92;Aterosklerose/perifer karsygdom;di730;Raynaud's syndrom
+K92;Aterosklerose/perifer karsygdom;di749;Emboli og thrombose i arterie uden specifikation
+K92;Aterosklerose/perifer karsygdom;di709;Arteriosclerosis uden specifikation
+K92;Aterosklerose/perifer karsygdom;dr029;Gangræn ikke klassificeret andetsteds
+K92;Aterosklerose/perifer karsygdom;di731;Thromboangiitis obliterans (Buerger)
+K92;Aterosklerose/perifer karsygdom;di739;Sygdom i perifere kar uden specifikation
+K92;Aterosklerose/perifer karsygdom;di702;Arteriosclerosis arteriae extremitatis inferioris
+K93;Lungeemboli;di269;Embolia pulmonis u akut cor pulmonale
+K94;Årebetændelse;di809;Phlebitis et thrombophlebitis u lokalisation
+K94;Årebetændelse;di803;Phlebitis et thrombophlebitis profunda extr inf u spec
+K94;Årebetændelse;di800;Phlebitis et thrombophlebitis superficialis extremitatis in
+K94;Årebetændelse;di829b;Thrombosis i vene uden specifikation
+K95;Åreknude på ben;di831;Varices extremitatis inferioris m eczem
+K95;Åreknude på ben;di839;Varices extremitatis inferioris u eczem eller ulcus
+K96;Hæmoride;di846;Marisker
+K96;Hæmoride;di849;Tumores haemorrhoidales u spec og u komplikation
+K99;Kredsløbssygdom IKA;dr579;Shock uden specifikation
+K99;Kredsløbssygdom IKA;di890;Lymfødem ikke klassificeret andetsteds
+K99;Kredsløbssygdom IKA;di719;Aortaaneurysma uden angivelse af lokalisation
+K99;Kredsløbssygdom IKA;di871;Compressio venae
+K99;Kredsløbssygdom IKA;di850;Varices oesophagi m blødning
+K99;Kredsløbssygdom IKA;di770;Fistula arteriovenosa acquisita
+K99;Kredsløbssygdom IKA;di729;Aneurysme uden specifikation
+K99;Kredsløbssygdom IKA;di999;Sygdom i kredsløbet, anden og uden specifikation
+K99;Kredsløbssygdom IKA;di788b;Telangiectasia uden specifikation
+K99;Kredsløbssygdom IKA;dm316a;Arteritis temporalis uden polymyalgia rheumatica
+K99;Kredsløbssygdom IKA;dm315a;Arteritis temporalis med polymyalgia rheumatica
+K99;Kredsløbssygdom IKA;dm300;Polyarteritis nodosa
+K99;Kredsløbssygdom IKA;di861;Varicocele
+L00;L   MUSKEL / SKELETSYSTEM;;
+L01;Symptom/klage fra cervikalregion;dm542;Cervicalgia
+L02;Symptom/klage fra ryg;dm549;Rygsmerter uden specifikation
+L03;Symptom/klage fra lænd;dm533a;Coccygodynia
+L03;Symptom/klage fra lænd;dm545a;Lumbago uden specifikation
+L03;Symptom/klage fra lænd;dm533b;Sacrocoxalgia
+L03;Symptom/klage fra lænd;dm545;Lændesmerter
+L04;Symptom/klage fra brystkasse;dr298;Sympt og abn fund i nerve- og bevæg.syst andre og ikke spec
+L05;Symptom/klage fra flanke/armhule;dr298;Sympt og abn fund i nerve- og bevæg.syst andre og ikke spec
+L07;Symptom/klage fra kæbe;dm255;Arthralgia
+L07;Symptom/klage fra kæbe;dk076;Disordines articulationis temporomandibularis
+L08;Symptom/klage fra skulder;dm255;Arthralgia
+L09;Symptom/klage fra arm;dm796;Dolores extremitatis
+L10;Symptom/klage fra albue;dm255;Arthralgia
+L11;Symptom/klage fra håndled;dm255;Arthralgia
+L12;Symptom/klage fra hånd/finger;dm796;Dolores extremitatis
+L13;Symptom/klage fra hofte;dr294;Hofteklik
+L13;Symptom/klage fra hofte;dm255;Arthralgia
+L14;Symptom/klage fra lår/underben;dm796;Dolores extremitatis
+L15;Symptom/klage fra knæ;dm255;Arthralgia
+L16;Symptom/klage fra ankel;dm255;Arthralgia
+L17;Symptom/klage fra fod/tå;dm796;Dolores extremitatis
+L18;Muskelsmerte;dr252c;Spasmus muscularis uden specifikation
+L18;Muskelsmerte;dm791;Myalgia
+L18;Muskelsmerte;dm797;Fibromyalgia
+L19;Symptom/klage fra muskel IKA;dm799;Bløddelsreumatisme uden specifikation
+L19;Symptom/klage fra muskel IKA;dm626;Myoses
+L19;Symptom/klage fra muskel IKA;dm625;Atrophia musculi ikke klassificeret andetsteds
+L20;Symptom/klage fra led IKA;dm259;Ledlidelse uden specifikation
+L20;Symptom/klage fra led IKA;dm256;Ledstivhed ikke klassificeret andetsteds
+L20;Symptom/klage fra led IKA;dm254;Hydrarthron
+L20;Symptom/klage fra led IKA;dm255;Arthralgia
+L26;Frygt for kræft i muskel/skeletsyst;dz711;Bekymring for sygdom hos rask person
+L27;Frygt for sygdom musk/skeletsyst IKA;dz711;Bekymring for sygdom hos rask person
+L28;Nedsat funkt/handicap muskel/skelet;dz966;Tilstand m ortopædiske ledimplantater
+L28;Nedsat funkt/handicap muskel/skelet;dz736;Begrænsning af aktiviteter på grund af invaliditet
+L28;Nedsat funkt/handicap muskel/skelet;dz946;Tilstand m transplanteret knogle
+L28;Nedsat funkt/handicap muskel/skelet;dz966b;Tilstand m knæledprotese
+L28;Nedsat funkt/handicap muskel/skelet;dz981;Tilstand m artrodese
+L28;Nedsat funkt/handicap muskel/skelet;dz971;Tilstand med kunstig arm eller ben (komplet)(partiel)
+L28;Nedsat funkt/handicap muskel/skelet;dz966a;Tilstand m hofteledsprotese
+L29;Symptom/klage muskel/skelet IKA;dr298;Sympt og abn fund i nerve- og bevæg.syst andre og ikke spec
+L70;Infektion i muskel/skeletsystem;dm009;Purulent artrit uden specifikation
+L70;Infektion i muskel/skeletsystem;dm710;Bursitis purulenta
+L70;Infektion i muskel/skeletsystem;dm464;Diskit uden specifikation
+L70;Infektion i muskel/skeletsystem;dm869;Osteomyelit uden specifikation
+L70;Infektion i muskel/skeletsystem;dm869c;Osteitis uden osteomyelitis
+L71;Kræft i muskel/skeletsystem;dc419;Neopl mal ossis et cartilaginis articuli uden specifikation
+L71;Kræft i muskel/skeletsystem;dc412;Neopl mal columnae vertebralis
+L71;Kræft i muskel/skeletsystem;dc409;Neopl mal ossium et cartilaginis extremitatum uden specifik
+L71;Kræft i muskel/skeletsystem;dc499;Neopl mal telae conjunctivae uden specifikation
+L72;Fraktur af underarm;ds520a;Fractura cubiti uden specifikation
+L72;Fraktur af underarm;ds529;Fraktur af underarm uden specifikation
+L72;Fraktur af underarm;ds521;Fractura radii, extremitas proximalis
+L72;Fraktur af underarm;ds525;Fractura radii, extremitas distalis
+L73;Fraktur af underben;ds828d;Ankelfraktur
+L73;Fraktur af underben;ds826;Fractura malleoli lateralis
+L73;Fraktur af underben;ds829;Fraktur af underben uden specifikation
+L73;Fraktur af underben;ds825;Fractura malleoli medialis
+L74;Fraktur i hånd/fod;ds622;Fractura ossis metacarpi I
+L74;Fraktur i hånd/fod;ds925;Fractura digiti pedis (excl. hallux)
+L74;Fraktur i hånd/fod;ds924;Fractura hallucis
+L74;Fraktur i hånd/fod;ds923;Fractura ossis metatarsi
+L74;Fraktur i hånd/fod;ds625;Fractura pollicis
+L74;Fraktur i hånd/fod;ds626;Fractura digiti manus (excl. pollex)
+L74;Fraktur i hånd/fod;ds628b;Fractura manus uden specifikation
+L74;Fraktur i hånd/fod;ds628;Fraktur af andre og ikke spec dele af håndled og hånd
+L74;Fraktur i hånd/fod;ds623;Fractura ossis metacarpi II-V
+L74;Fraktur i hånd/fod;ds929;Fractura pedis uden specifikation
+L74;Fraktur i hånd/fod;ds620;Fractura ossis navicularis manus
+L75;Fraktur af lårben;ds724a;Fractura condyli femoris
+L75;Fraktur af lårben;ds720;Fractura colli femoris
+L75;Fraktur af lårben;ds721;Fractura pertrochanterica
+L75;Fraktur af lårben;ds723;Fractura corporis femoris
+L75;Fraktur af lårben;ds729;Fraktur af lår uden specifikation
+L76;Fraktur IKA;dt142;Fractura uden specifikation
+L76;Fraktur IKA;ds223;Fractura costae
+L76;Fraktur IKA;ds424;Fractura humeri, extremitas distalis
+L76;Fraktur IKA;ds422;Fractura humeri, extremitas proximalis
+L76;Fraktur IKA;ds420;Fractura claviculae
+L76;Fraktur IKA;ds328c;Fractura pelvis uden specifikation
+L76;Fraktur IKA;ds322;Fractura ossis coccygis
+L76;Fraktur IKA;ds423;Fractura corporis humeri
+L76;Fraktur IKA;ds029a;Brud af ansigtets knogler uden specifiktion
+L76;Fraktur IKA;ds022;Fractura nasi
+L76;Fraktur IKA;ds820;Fractura patellae
+L76;Fraktur IKA;ds026;Fractura mandibulae
+L76;Fraktur IKA;ds222;Fractura sterni
+L76;Fraktur IKA;dt089;Fractura columnae vertebralis u angivelse af niveau
+L77;Forstuvning af ankel;ds934;Distorsio reg malleolorum
+L78;Forstuvning af knæ;ds834b;Laesio traumatica ligamenti collateralis genus medialis
+L78;Forstuvning af knæ;ds836;Forvridning af andre og ikke spec dele af knæ
+L78;Forstuvning af knæ;ds834a;Laesio traumatica ligamenti collateralis genus lateralis
+L79;Forstuvning af led IKA;ds636;Distorsio articuli digiti manus
+L79;Forstuvning af led IKA;ds034;Distorsio mandibulae
+L79;Forstuvning af led IKA;ds634;Ruptura traum lig articuli metacarpophal et interphal man
+L79;Forstuvning af led IKA;ds935;Distorsio articuli digiti pedis
+L79;Forstuvning af led IKA;dt143a;Distorsio articuli uden specifikation
+L79;Forstuvning af led IKA;ds234a;Distorsio costae
+L79;Forstuvning af led IKA;dt143;Luxatio et distorsio articuli et ligamenti u specifikation
+L79;Forstuvning af led IKA;ds635;Distorsio articuli carpi
+L79;Forstuvning af led IKA;dt143b;Distorsio ligamenti uden specifikation
+L80;Luksation/subluksation;dm220;Luxatio patellae habitualis
+L80;Luksation/subluksation;dt143d;Luxatio articuli uden specifikation
+L80;Luksation/subluksation;ds430;Luxatio articuli humeroscapularis
+L80;Luksation/subluksation;ds530;Luxatio capitis radii
+L80;Luksation/subluksation;ds431;Luxatio articuli acromioclavicularis
+L80;Luksation/subluksation;ds631;Luxatio articuli digiti manus
+L80;Luksation/subluksation;ds830;Luxatio patellae
+L80;Luksation/subluksation;ds030;Luxatio articuli temporomandibularis
+L80;Luksation/subluksation;ds831;Luxatio articuli genus
+L81;Skade på muskel/skeletsystem IKA;dt146;Laesio traumatica musculi et tendinis uden specifikation
+L81;Skade på muskel/skeletsystem IKA;dt143c;Haemarthrosis uden specifikation
+L81;Skade på muskel/skeletsystem IKA;dt146a;Laesio traumatica musculi uden specifikation
+L81;Skade på muskel/skeletsystem IKA;dt147a;Amputatio traumatica uden specifikation
+L81;Skade på muskel/skeletsystem IKA;ds860a;Ruptura traumatica tendinis Achilles
+L81;Skade på muskel/skeletsystem IKA;dt146b;Laesio traumatica tendinis uden specifikation
+L81;Skade på muskel/skeletsystem IKA;dm795;Fremmedlegemerest i bløddel
+L81;Skade på muskel/skeletsystem IKA;dt147b;Conquassatio uden specifikation
+L82;Medfødt misdannelse muskel/skeletsys;dq662;Metatarsus varus
+L82;Medfødt misdannelse muskel/skeletsys;dq664;Talipes calcaneovalgus
+L82;Medfødt misdannelse muskel/skeletsys;dq665;Pes planus congenitus
+L82;Medfødt misdannelse muskel/skeletsys;dq667;Pes cavus
+L82;Medfødt misdannelse muskel/skeletsys;dq669;Medfødt misdannelse i fod uden specifikation
+L82;Medfødt misdannelse muskel/skeletsys;dq676;Pectus excavatum
+L82;Medfødt misdannelse muskel/skeletsys;dq750;Craniosynostosis praematura
+L82;Medfødt misdannelse muskel/skeletsys;dq677;Pectus carinatum
+L82;Medfødt misdannelse muskel/skeletsys;dq675;Deformationes columnae vertebralis congenitae
+L82;Medfødt misdannelse muskel/skeletsys;dq658a;Anteversio colli femoris congenita
+L82;Medfødt misdannelse muskel/skeletsys;dq660;Talipes equinovarus
+L82;Medfødt misdannelse muskel/skeletsys;dq799;Medfødte misdannelse i muskler og knogler uden specifikatio
+L82;Medfødt misdannelse muskel/skeletsys;dq659;Medfødt misdannelse i hofte uden specifikation
+L82;Medfødt misdannelse muskel/skeletsys;dq796;Ehlers-Danlos' syndrom
+L82;Medfødt misdannelse muskel/skeletsys;dq780;Osteogenesis imperfecta
+L82;Medfødt misdannelse muskel/skeletsys;dq748a;Anisomelia congenita
+L82;Medfødt misdannelse muskel/skeletsys;dq680;Malformationes congenitae musculi sternocleidomastoidei
+L83;Cervikalsyndrom;dm485b;Compressio vertebrae uden specifikation
+L83;Cervikalsyndrom;ds134c;Whiplash syndrom
+L83;Cervikalsyndrom;dm501;Prolapsus disci intervert cervicalis med radiculopati
+L83;Cervikalsyndrom;dm531;Cervikobrakialt syndrom
+L83;Cervikalsyndrom;dm503;Degeneratio disci intervert cervicalis, anden form
+L83;Cervikalsyndrom;ds134g;Cervikalt facetsyndrom
+L83;Cervikalsyndrom;dm489;Spondylopati uden specifikation
+L83;Cervikalsyndrom;dm436;Torticollis
+L83;Cervikalsyndrom;dm478c;Spondylosis cervicalis
+L83;Cervikalsyndrom;dm530;Cervikokranialt syndrom
+L84;Rygsyndrom uden smerteudstråling;dm431;Spondylolisthesis
+L84;Rygsyndrom uden smerteudstråling;dm485b;Compressio vertebrae uden specifikation
+L84;Rygsyndrom uden smerteudstråling;dm539;Ryglidelse uden specifikation
+L84;Rygsyndrom uden smerteudstråling;dm478a;Spondylosis thoracalis
+L84;Rygsyndrom uden smerteudstråling;dm482;Arthrosis processus spinosi vertebrarum lumbalium
+L84;Rygsyndrom uden smerteudstråling;ds336a;Sakroiliakasyndrom
+L84;Rygsyndrom uden smerteudstråling;ds233b;Torakalt facetsyndrom
+L84;Rygsyndrom uden smerteudstråling;dm478e;Spondylosis lumbalis
+L84;Rygsyndrom uden smerteudstråling;dm513a;Degeneratio disci intervert lumbalis uden radiculopati
+L84;Rygsyndrom uden smerteudstråling;dm513b;Degeneratio disci intervert thoracalis u myelo/radiculopati
+L84;Rygsyndrom uden smerteudstråling;dm480;Stenosis spinalis
+L84;Rygsyndrom uden smerteudstråling;ds335a;Lumbalt facetsyndrom
+L85;Erhvervet rygdeformitet;dm405;Lordose uden specifikation
+L85;Erhvervet rygdeformitet;dm403;Columna recta
+L85;Erhvervet rygdeformitet;dm411;Scoliosis juvenilis idiopathica
+L85;Erhvervet rygdeformitet;dm419;Skoliose uden specifikation
+L85;Erhvervet rygdeformitet;dm402a;Kyphosis uden specifikation
+L85;Erhvervet rygdeformitet;dm439;Deformerende ryglidelse uden specifikation
+L86;Rygsyndrom med smerteudstråling;dm544;Lumbago med ischias
+L86;Rygsyndrom med smerteudstråling;dm543;Ischias
+L86;Rygsyndrom med smerteudstråling;dm511f;Prolapsus disci intervert lumbalis u spec med radiculopati
+L87;Bursit/tendinit/synovit IKA;dm659a;Tenosynovitis uden specifikation
+L87;Bursit/tendinit/synovit IKA;dm654;Tenosynovitis styloideae radii (de Quervain)
+L87;Bursit/tendinit/synovit IKA;dm704;Bursitis praepatellaris
+L87;Bursit/tendinit/synovit IKA;dm653;Digitus saltans
+L87;Bursit/tendinit/synovit IKA;dm722;Fasciitis plantaris
+L87;Bursit/tendinit/synovit IKA;dm763;Pes anserinus syndrom
+L87;Bursit/tendinit/synovit IKA;dm766;Tendinitis calcanei
+L87;Bursit/tendinit/synovit IKA;dm768a;Tibialis anterior syndrom
+L87;Bursit/tendinit/synovit IKA;dm674;Ganglion
+L87;Bursit/tendinit/synovit IKA;dm770;Epicondylitis medialis
+L87;Bursit/tendinit/synovit IKA;dm706;Bursitis trochanterica
+L87;Bursit/tendinit/synovit IKA;dm702;Bursitis olecrani
+L87;Bursit/tendinit/synovit IKA;dm779;Entesopati uden specifikation
+L87;Bursit/tendinit/synovit IKA;dm773;Calcar calcanei
+L87;Bursit/tendinit/synovit IKA;dm779a;Tendinitis uden specifikation
+L87;Bursit/tendinit/synovit IKA;dm659b;Synovitis uden specifikation
+L87;Bursit/tendinit/synovit IKA;dm720;Fasciitis palmaris (Dupuytren)
+L87;Bursit/tendinit/synovit IKA;dm719;Bursopati uden specifikation
+L87;Bursit/tendinit/synovit IKA;dm712;Cystis synovialis popliteae Baker
+L88;Reumatoid artrit;dm089;Juvenil artrit uden specifikation
+L88;Reumatoid artrit;dm060;Arthritis rheumatoides seronegativa
+L88;Reumatoid artrit;dm459;Spondylitis ankylopoietica (Bechterew)
+L88;Reumatoid artrit;dm069;Reumatoid artrit uden specifikation
+L88;Reumatoid artrit;dm059;Seropositiv reumatoid artrit uden specifikation
+L89;Artrose i hofteled;dm169;Hofteartrose uden specifikation
+L90;Artrose i knæ;dm179;Knæartrose uden specifikation
+L91;Artrose IKA;dm199;Artrose uden specifikation
+L91;Artrose IKA;dm189;Artrose i tommelens rodled uden specifikation
+L91;Artrose IKA;dm151;Heberdens noduli ved artrose
+L91;Artrose IKA;dm159;Polyartrose uden specifikation
+L91;Artrose IKA;dm198a;Slidgigt i skulderled
+L92;Skuldersyndrom;dm751;'Rotator cuff' syndrom
+L92;Skuldersyndrom;dm752;Tenosynovitis bicipitis
+L92;Skuldersyndrom;dm753;Tendinitis calcaria humeri
+L92;Skuldersyndrom;dm755;Bursitis humeri
+L92;Skuldersyndrom;dm759;Skulderlidelse uden specifikation
+L92;Skuldersyndrom;dm750;Periarthrosis humeroscapularis
+L93;Tennisalbue;dm771;Epicondylitis lateralis
+L94;Osteokondrose;dm939;Osteochondropati uden specifikation
+L94;Osteokondrose;dm932;Osteochondrosis dissecans
+L94;Osteokondrose;dm930;Epiphysiolysis coxae juvenilis non traumatica
+L94;Osteokondrose;dm929;Brusklidelse hos unge uden specifikation
+L94;Osteokondrose;dm928a;Apophysitis calcanei
+L94;Osteokondrose;dm925a;Osteochondrosis tuberositatis tibiae
+L94;Osteokondrose;dm420;Osteochondrosis columnae vertebralis juvenilis (Scheuermann
+L94;Osteokondrose;dm911;Osteochondrosis deformans juvenilis coxae
+L95;Osteoporose;dm809;Osteoporose uden specifikation med patologisk fraktur
+L95;Osteoporose;dm819;Osteoporose uden specifikation
+L96;Akut indre knæskade;ds835f;Ruptura ligamenti cruciati posterioris genus
+L96;Akut indre knæskade;ds832;Ruptura traumatica menisci genus
+L96;Akut indre knæskade;ds832a;Ruptura traumatica ligamenti menisci lateralis
+L96;Akut indre knæskade;ds835e;Ruptura ligamenti cruciati anterioris genus
+L96;Akut indre knæskade;ds837;Laesio traumatica articuli et ligamenti genus multiplex
+L96;Akut indre knæskade;ds832b;Ruptura traumatica ligamenti menisci medialis
+L97;Godartet/uspec svulst muskel/skelet;dd169a;Neopl ben cartilaginis articuli uden specifikation
+L97;Godartet/uspec svulst muskel/skelet;dd481;Neopl telae conjunctivae uden specifikation
+L97;Godartet/uspec svulst muskel/skelet;dd480;Neopl ossis et cartilaginis articularis uden specifikation
+L97;Godartet/uspec svulst muskel/skelet;dd169b;Neopl ben ossis uden specifikation
+L98;Erhvervet deformitet af ekstremitet;dm216k;Pes transverso-planus
+L98;Erhvervet deformitet af ekstremitet;dm213;Erhvervet dropfod
+L98;Erhvervet deformitet af ekstremitet;dm217;Anisomelia acquisita
+L98;Erhvervet deformitet af ekstremitet;dm214;Pes planus acquisitus
+L98;Erhvervet deformitet af ekstremitet;dm202;Hallux rigidus
+L98;Erhvervet deformitet af ekstremitet;dm200;Deformatio digiti manus
+L98;Erhvervet deformitet af ekstremitet;dm219;Erhvervede ekstremitetsdeformiteter uden specifikation
+L98;Erhvervet deformitet af ekstremitet;dm201;Hallux valgus (acquisitus)
+L98;Erhvervet deformitet af ekstremitet;dm211;Varus deformitet ikke klassificeret andetsteds
+L98;Erhvervet deformitet af ekstremitet;dm204;Digitus malleus (acquisitus) pedis excl hallux
+L98;Erhvervet deformitet af ekstremitet;dm206;Erhvervet tådeformitet uden specifikation
+L98;Erhvervet deformitet af ekstremitet;dm210;Valgus deformitet ikke klassificeret andetsteds
+L99;Sygdom i muskel/skeletsystem IKA;dm999;Biomekanisk læsion uden specifikation
+L99;Sygdom i muskel/skeletsystem IKA;dm844;Patologisk fraktur ikke klassificeret andetsteds
+L99;Sygdom i muskel/skeletsystem IKA;dm841;Pseudartrose
+L99;Sygdom i muskel/skeletsystem IKA;dm071;Arthritis psoriatica mutilans
+L99;Sygdom i muskel/skeletsystem IKA;dt796;Ischaemia musculorum traumatica
+L99;Sygdom i muskel/skeletsystem IKA;dm076a;Arthritis enteropathica uden specifikation
+L99;Sygdom i muskel/skeletsystem IKA;dm665;Spontan seneruptur uden specifikation
+L99;Sygdom i muskel/skeletsystem IKA;dm996;Stenosis foraminis intervert forårsaget af knogle el subluk
+L99;Sygdom i muskel/skeletsystem IKA;dm222a;Malalignment, patellofemoralt
+L99;Sygdom i muskel/skeletsystem IKA;dm854;Cystis solitaria ossiis
+L99;Sygdom i muskel/skeletsystem IKA;dm246;Ankylosis
+L99;Sygdom i muskel/skeletsystem IKA;dm245;Contractura articuli
+L99;Sygdom i muskel/skeletsystem IKA;dm240;Corpus liberum (mus) articuli
+L99;Sygdom i muskel/skeletsystem IKA;dm224;Chondromalacia patellae
+L99;Sygdom i muskel/skeletsystem IKA;dm952b;Lejebetinget kraniedeformitet hos spædbarn
+L99;Sygdom i muskel/skeletsystem IKA;dm889;Paget's sygdom uden specifikation
+L99;Sygdom i muskel/skeletsystem IKA;dm858a;Osteopeni
+L99;Sygdom i muskel/skeletsystem IKA;dm023;Reiter's sygdom
+L99;Sygdom i muskel/skeletsystem IKA;dm029;Reaktiv artrit uden specifikation
+L99;Sygdom i muskel/skeletsystem IKA;dz899;Erhvervet mangel af ekstremitet uden specifikation
+L99;Sygdom i muskel/skeletsystem IKA;dm628a;Hernia muscularis
+L99;Sygdom i muskel/skeletsystem IKA;dm624;Contractura musculi
+L99;Sygdom i muskel/skeletsystem IKA;dm619;Forkalkning og forbening af muskel uden specifikation
+L99;Sygdom i muskel/skeletsystem IKA;dm940;Tietze's syndrom
+L99;Sygdom i muskel/skeletsystem IKA;dm890;Refleksdystrofi
+L99;Sygdom i muskel/skeletsystem IKA;dm359;Generaliserede bindevævssygdom uden specifikation
+L99;Sygdom i muskel/skeletsystem IKA;dm357;Hypermobilitetssyndrom
+L99;Sygdom i muskel/skeletsystem IKA;dm353;Polymyalgia rheumatica
+L99;Sygdom i muskel/skeletsystem IKA;dm350;Sjögren's syndrom
+L99;Sygdom i muskel/skeletsystem IKA;dm349;Sclerodermi uden specifikation
+L99;Sygdom i muskel/skeletsystem IKA;dm339;Dermatopolymyositis uden specifikation
+L99;Sygdom i muskel/skeletsystem IKA;dm329;Systemisk lupus erythematosus uden specifikation
+L99;Sygdom i muskel/skeletsystem IKA;dm258a;Coxitis simplex
+N00;N   NERVESYSTEM;;
+N01;Hovedpine;dg443;Cephalalgia posttraumatica chronica
+N01;Hovedpine;dr519;Cephalalgia
+N03;Ansigtssmerte;dg501;Atypiske ansigtssmerter
+N04;Rastløse ben;dg4761;Rastløse ben
+N05;Paræstesi;dr202;Paraesthesia cutis
+N06;Føleforstyrrelse IKA;dr201;Hypoaesthesia cutis
+N06;Føleforstyrrelse IKA;dr203;Hyperaesthesia
+N06;Føleforstyrrelse IKA;dr200;Anaesthesia cutis
+N06;Føleforstyrrelse IKA;dr208;Føleforstyrrelser i hud, andre og ikke specificeret
+N07;Krampeanfald;dr560;Convulsiones febriles
+N07;Krampeanfald;dr568d;Kramper uden specifikation
+N07;Krampeanfald;dr568c;Affektkramper
+N08;Abnorm ufrivillig bevægelse;dr250;Abnorme hovedbevægelser
+N08;Abnorm ufrivillig bevægelse;dg255a;Chorea uden specifikation
+N08;Abnorm ufrivillig bevægelse;dg256a;Tic på organisk grundlag uden specifikation
+N08;Abnorm ufrivillig bevægelse;dg252a;Tremor intentionalis
+N08;Abnorm ufrivillig bevægelse;dr253;Fasciculatio
+N08;Abnorm ufrivillig bevægelse;dr259;Abnorme ufrivillige bevægelser uden specifikation
+N08;Abnorm ufrivillig bevægelse;dr290;Tetania
+N08;Abnorm ufrivillig bevægelse;dg259;Ekstrapyramidale sygd og bevægeforstyrrelser uden specifik
+N08;Abnorm ufrivillig bevægelse;dg253;Myoclonus
+N08;Abnorm ufrivillig bevægelse;dg250;Tremor essentialis
+N08;Abnorm ufrivillig bevægelse;dg251;Tremor medicamentalis
+N08;Abnorm ufrivillig bevægelse;dr251;Tremor uden specifikation
+N16;Forstyrrelse af lugte/smagssans;dr430;Anosmia
+N16;Forstyrrelse af lugte/smagssans;dr431;Parosmia
+N16;Forstyrrelse af lugte/smagssans;dr432;Parageusia
+N16;Forstyrrelse af lugte/smagssans;dr438;Lugte- og smagsforstyrrelser, andre og ikke specificeret
+N17;Svimmelhed;dr429;Vertigo uden specifikation
+N18;Lammelse;dg839a;Lammelse
+N18;Lammelse;dg834;Cauda equina syndrom
+N18;Lammelse;dg833;Monoplegi uden specifikation
+N18;Lammelse;dg825;Tetraplegi uden specifikation
+N18;Lammelse;dg822;Paraplegi uden specifikation
+N18;Lammelse;dg819;Hemiplegi uden specifikation
+N19;Taleforstyrrelse;dr478;Taleforstyrrelser, andre og ikke specificeret
+N19;Taleforstyrrelse;dr471b;Anarthria
+N19;Taleforstyrrelse;dr470b;Aphasia
+N19;Taleforstyrrelse;dr471a;Dysarthria
+N19;Taleforstyrrelse;dr470a;Dysphasia
+N26;Frygt for kræft i nervesystem;dz711;Bekymring for sygdom hos rask person
+N27;Frygt for neurologisk sygdom IKA;dz711;Bekymring for sygdom hos rask person
+N28;Nedsat funktion/handicap nervesystem;dz982;Tilstand m cerebrospinalt dræn
+N28;Nedsat funktion/handicap nervesystem;dz736;Begrænsning af aktiviteter på grund af invaliditet
+N29;Symptom/klage fra nervesystem IKA;dr260;Ataktisk gang
+N29;Symptom/klage fra nervesystem IKA;dr298a;Symptoma systematis nervosi uden specifikation
+N29;Symptom/klage fra nervesystem IKA;dr270;Ataksi uden specifikation
+N29;Symptom/klage fra nervesystem IKA;dr291;Meningismus
+N29;Symptom/klage fra nervesystem IKA;dm792a;Neuralgia uden specifikation
+N29;Symptom/klage fra nervesystem IKA;dm792b;Neuritis uden specifikation
+N29;Symptom/klage fra nervesystem IKA;dr278a;Koordinationsforstyrrelser, ikke specificerede
+N29;Symptom/klage fra nervesystem IKA;dr261;Paralytisk gang
+N70;Poliomyelit;da809;Polio, akut uden specifikation
+N70;Poliomyelit;db919;Sequelae poliomyelitidis
+N71;Meningit/encefalit;dg049a;Encephalitis uden specifikation
+N71;Meningit/encefalit;dg009;Meningitis bakteriel, uden specifikation
+N71;Meningit/encefalit;da869;Encephalitis viralis uden specifikation
+N71;Meningit/encefalit;da879;Meningitis viralis uden specifikation
+N72;Tetanus;da359;Anden stivkrampe
+N73;Infektion i nervesystem IKA;da899;Viral infektion i centralnervesystemet uden specifikation
+N73;Infektion i nervesystem IKA;da819;Sløv virus infektion i centralnervesystemet uden specif
+N73;Infektion i nervesystem IKA;da810;Jakob-Creutzfeldt's sygdom
+N73;Infektion i nervesystem IKA;dg079;Abscessus intracraniale et intraspin ved sygd klass ansted
+N74;Kræft i nervesystem;dc479;Neopl mal n peripher et syst nervosi autonom uden specifik
+N74;Kræft i nervesystem;dc709;Neopl mal meningum uden specifikation
+N74;Kræft i nervesystem;dc719;Neopl mal cerebri uden specifikation
+N74;Kræft i nervesystem;dc720;Neopl mal medullae spinalis
+N74;Kræft i nervesystem;dc729;Neopl mal systematis nervosi centralis uden specifikation
+N75;Godartet svulst i nervesystem;dd333;Neopl ben nervi cranialis
+N75;Godartet svulst i nervesystem;dd339;Neopl ben systematis nervosi centralis uden specifikation
+N75;Godartet svulst i nervesystem;dd361;Neopl ben nervi peripherici et autonomici
+N75;Godartet svulst i nervesystem;dd329;Neopl ben meningum uden specifikation
+N75;Godartet svulst i nervesystem;dd332;Neopl ben cerebri uden specifikation
+N76;Uspecifik svulst i nervesystem;dd429;Neopl meningum uden specifikation
+N76;Uspecifik svulst i nervesystem;dd439;Neopl systematis nervosi centralis uden specifikation
+N76;Uspecifik svulst i nervesystem;dd482;Neopl nervi peripherici et autonomici uden specifikation
+N79;Hjernerystelse;ds060;Commotio cerebri
+N80;Hjernelæsion IKA;ds065;Haemorrhagia subduralis traumatica
+N80;Hjernelæsion IKA;ds062;Laesio traumatica cerebri diffusa
+N80;Hjernelæsion IKA;ds020;Fractura thecae cranii
+N80;Hjernelæsion IKA;ds069;Intrakranielle læsion uden specifikation
+N80;Hjernelæsion IKA;ds063;Laesio traumatica cerebri focalis
+N80;Hjernelæsion IKA;ds021;Fractura baseos cranii
+N80;Hjernelæsion IKA;ds066;Haemorrhagia subarachnoidalis traumatica
+N80;Hjernelæsion IKA;ds068a;Haematoma cerebri traumaticum
+N80;Hjernelæsion IKA;ds064;Haemorrhagia epiduralis traumatica
+N81;Skade på nervesystem IKA;ds143;Laesio traumatica plexus brachialis
+N81;Skade på nervesystem IKA;ds142;Laesio traumatica radicis spinalis cervicalis
+N81;Skade på nervesystem IKA;dt144;Laesio traumatica nervi uden specifikation
+N81;Skade på nervesystem IKA;dt093;Laesio traumatica medullae spinalis uden specifikation
+N81;Skade på nervesystem IKA;ds049;Beskadigelse af hjernenerve uden specifikation
+N85;Medfødt misdannelse i nervesystem;dq059;Spina bifida uden specifikation
+N85;Medfødt misdannelse i nervesystem;dq039;Medfødt hydrocephalus uden specifikation
+N85;Medfødt misdannelse i nervesystem;dq029;Microcephalus
+N85;Medfødt misdannelse i nervesystem;dq079;Medfødt misdannelse i nervesystem uden specifikation
+N86;Dissemineret sklerose;dg359;Dissemineret sclerose
+N87;Parkinsons sygdom;dg209;Paralysis agitans (Parkinson)
+N87;Parkinsons sygdom;dg219;Parkinsonisme, sekundær uden specifikation
+N88;Epilepsi;dg400a;Benign børneepilepsi med centrotemporale spikes
+N88;Epilepsi;dg419;Status epilepticus uden specifikation
+N88;Epilepsi;dg409;Uspecificeret epilepsi
+N88;Epilepsi;dg409a;Uspecificeret epilepsi med GTCS
+N88;Epilepsi;dg403;Idiopatiske generaliserede epilepsier
+N88;Epilepsi;dg403b;Epilepsi med myoklone-astatiske anfald (Doose)
+N88;Epilepsi;dg402;Fokal epilepsi med komplekse anfald eller GTCS
+N88;Epilepsi;dg400;Idiopatiske fokale epilepsier
+N88;Epilepsi;dg404c;Infantile spasmer (West syndrom)
+N88;Epilepsi;dg401;Fokal epilepsi kun med simple anfald
+N88;Epilepsi;dg403c;Børneabsenceepilepsi
+N89;Migræne;dg430;Hemicrania uden aura (almindelig migræne)
+N89;Migræne;dg439;Hemicrania uden specifikation
+N89;Migræne;dg431b;Hemicrani ekvivalenter
+N89;Migræne;dg431;Hemicrania med aura (klassisk migræne)
+N90;Hortons hovedpine;dg440;Horton's hovedpine inkl. kronisk paroksymal hemicrani
+N91;Facialisparese;dg510;Paralysis nervi facialis (VII)
+N92;Trigeminusneuralgi;dg500;Neuralgia nervi trigemini (V)
+N93;Karpaltunnelsyndrom;dg560;Carpal tunnel syndrom
+N94;Perifer neuropati;dg575;Tarsal tunnel syndrom
+N94;Perifer neuropati;dg632;Polyneuropathia diabetica
+N94;Perifer neuropati;dg629;Polyneuropati uden specifikation
+N94;Perifer neuropati;dg621;Polyneuropathia alcoholica
+N94;Perifer neuropati;dg549;Sygd i nerverod og plexus uden specifikation
+N94;Perifer neuropati;dg546;Fantom syndrom m smerter
+N94;Perifer neuropati;dg610;Guillain-Barré's polyneuropati
+N94;Perifer neuropati;dg600d;Atrophia Charcot-Marie-Tooth
+N94;Perifer neuropati;dg589;Mononeuropati uden specifikation
+N94;Perifer neuropati;dg540b;Costa cervicalis syndrom
+N94;Perifer neuropati;dg540c;Skalenersyndrom
+N94;Perifer neuropati;dg576a;Metatarsalgia Morton
+N94;Perifer neuropati;dg564;Causalgia
+N94;Perifer neuropati;dg558;Compressio radicis et plexus nervorum ved sygd klass ansted
+N95;Spændingshovedpine;dg442;Spændingshovedpine
+N99;Neurologisk sygdom IKA;dg909;Sygdomme i autonome nervesystem uden specifikation
+N99;Neurologisk sygdom IKA;dg119;Ataxia hereditaria uden specifikation
+N99;Neurologisk sygdom IKA;dg122g;Sclerosis amyotrophica lateralis
+N99;Neurologisk sygdom IKA;dg109;Chorea Huntington
+N99;Neurologisk sygdom IKA;dg710;Dystrophia musculorum
+N99;Neurologisk sygdom IKA;dg700;Myasthenia gravis
+N99;Neurologisk sygdom IKA;dg245;Blepharospasmus
+N99;Neurologisk sygdom IKA;dg249;Dystoni uden specifikation
+N99;Neurologisk sygdom IKA;dg809;Paralysis cerebralis infantilis uden specifikation
+N99;Neurologisk sygdom IKA;dg989;Sygdomme i nervesystem, andre ikke klassificeret andetsteds
+N99;Neurologisk sygdom IKA;dg900a;Sinus caroticus synkope
+N99;Neurologisk sygdom IKA;dg319;Degenerativ sygd i nervesystemet uden specifikation
+N99;Neurologisk sygdom IKA;dg919;Hydrocephalus uden specifikation
+N99;Neurologisk sygdom IKA;de512;Wernicke's encephalopati
+N99;Neurologisk sygdom IKA;dg931;Anoxia cerebri ikke klassificeret andetsteds
+N99;Neurologisk sygdom IKA;dg935;Compressio cerebri
+N99;Neurologisk sygdom IKA;dg939;Hjernesygdom uden specifikation
+N99;Neurologisk sygdom IKA;dg950;Syringomyelia et syringobulbia
+N99;Neurologisk sygdom IKA;dg952;Compressio medullae spinalis uden specifikation
+N99;Neurologisk sygdom IKA;dg120;Atrophia musculorum progressiva spinalis (Werdnig-Hoffmann)
+P00;P   PSYKISK TILSTAND / LIDELSE;;
+P01;Angst/nervøsitet/anspændthed;dr450;Nervøsitet
+P02;Akut belastningsreaktion;df432;Tilpasningsreaktion
+P02;Akut belastningsreaktion;df430;Akut belastningsreaktion
+P03;Nedtrykthed;dr452;Ulykkelig og bekymret
+P03;Nedtrykthed;dr452b;Bekymret
+P03;Nedtrykthed;dr453a;Apatisk
+P03;Nedtrykthed;dr452a;Ulykkelig
+P04;Irritabel/vredladen følelse/adfærd;dr456;Voldelig
+P04;Irritabel/vredladen følelse/adfærd;dr455;Fjendtlig
+P04;Irritabel/vredladen følelse/adfærd;dr454;Irritabel og vredladen
+P05;Alderspræget følelse/adfærd;dr549;Senilitas
+P06;Søvnforstyrrelse;dg474;Narcolepsia et cataplexia
+P06;Søvnforstyrrelse;dg473;Søvnapnoe
+P06;Søvnforstyrrelse;dg470;Insomnia
+P06;Søvnforstyrrelse;dg471;Hypersomnia
+P06;Søvnforstyrrelse;df515;Natlige mareridt
+P06;Søvnforstyrrelse;df519;Ikke organisk søvnforstyrrelse uden specifikation
+P07;Manglende seksuel lyst;df520;Nedsat eller manglende seksuallyst
+P08;Nedsat seksuel tilfredsstillelse;df529a;Impotens (psykogen)
+P08;Nedsat seksuel tilfredsstillelse;df526;Ikke organisk dyspareuni
+P08;Nedsat seksuel tilfredsstillelse;dn502b;Ejaculatio tarda
+P08;Nedsat seksuel tilfredsstillelse;df524;Præmatur ejakulation
+P08;Nedsat seksuel tilfredsstillelse;df523;Hæmmet orgasme
+P08;Nedsat seksuel tilfredsstillelse;df529;Ikke organisk seksuel dysfunktion uden specifikation
+P08;Nedsat seksuel tilfredsstillelse;df525;Ikke organisk vaginisme
+P09;Bekymring vedr seksuel afvigelse;df654;Pædofili
+P09;Bekymring vedr seksuel afvigelse;df669;Psykoseksuel udviklingsforstyrrelse uden specifikation
+P09;Bekymring vedr seksuel afvigelse;df649;Kønsidentitetsforstyrrelse uden specifikation
+P10;Stammen/støden/tic;df959;Tic uden specifikation
+P10;Stammen/støden/tic;df985;Stammen
+P10;Stammen/støden/tic;df986;Støden
+P11;Spiseproblem hos barn;df982;Spiseforstyrrelse i barndom
+P12;Ikke-organisk enurese;df980;Ikke organisk enuresis
+P13;Ikke-organisk enkoprese;df981;Ikke organisk encoprese
+P15;Kronisk alkoholmisbrug;df105;Alkoholpsykose
+P15;Kronisk alkoholmisbrug;df102;Alkoholafhængighedssyndrom
+P15;Kronisk alkoholmisbrug;df101;Skadeligt brug af alkohol
+P15;Kronisk alkoholmisbrug;dg312e;Encephalopathia alcoholica
+P15;Kronisk alkoholmisbrug;df104;Delirøs abstinenstilstand som følge af alkoholbrug
+P16;Akut alkoholforgiftning;df100;Alkoholintoksikation, akut
+P17;Tobaksmisbrug;df171;Skadeligt tobaksbrug
+P18;Medicinmisbrug;df131;Skadeligt brug af sedativa eller hypnotika
+P19;Stofmisbrug;df191;Skadeligt brug af multiple og andre psykoaktive stoffer
+P19;Stofmisbrug;df189;Snifferstofbetinget psykisk lidelse uden specifikation
+P19;Stofmisbrug;df129;Cannabisbetinget psykisk lidelse eller forstyrrelse u spec
+P19;Stofmisbrug;df119;Opioidbetinget psykisk lidelse eller forstyrrelse u spec
+P19;Stofmisbrug;df149;Kokainbetinget psykisk lidelse eller forstyrrelse u spec
+P19;Stofmisbrug;df159;Stimulantiabetinget psykisk lidelse el forstyrrelse u spec
+P19;Stofmisbrug;df169;Hallucinogenbetinget psykisk lidelse uden specifikation
+P20;Hukommelsessvigt;dr418a;Hukommelsessvigt
+P20;Hukommelsessvigt;dr413a;Amnesi uden specifikation
+P20;Hukommelsessvigt;dr410;Confusio mentis
+P22;Symptom/klage vedr barns adfærd;dr620;Retarderet psykomotorisk udvikling
+P22;Symptom/klage vedr barns adfærd;df919;Adfærdsforstyrrelse uden specifikation
+P22;Symptom/klage vedr barns adfærd;df939;Emotionel forstyrrelse i barndom uden specifikation
+P22;Symptom/klage vedr barns adfærd;df949;Forstyrrelse af social funktion uden specifikation
+P22;Symptom/klage vedr barns adfærd;dr620a;Taleretarderet
+P23;Symptom/klage vedr adfærd i pubertet;df949;Forstyrrelse af social funktion uden specifikation
+P23;Symptom/klage vedr adfærd i pubertet;df919;Adfærdsforstyrrelse uden specifikation
+P24;Specifikt indlæringsproblem;df801;Sprogudtryksforstyrrelse, ekspressiv dysfasi
+P24;Specifikt indlæringsproblem;dr488e;Indlæringsforstyrrelse uden specifikation
+P24;Specifikt indlæringsproblem;dr482;Apraxia
+P24;Specifikt indlæringsproblem;dr481;Agnosia
+P24;Specifikt indlæringsproblem;dr480b;Dyslexia
+P24;Specifikt indlæringsproblem;df802;Sprogopfattelsesforstyrrelse, impressiv dysfasi
+P24;Specifikt indlæringsproblem;df829;Specifik udviklingsforstyrrelse af motoriske færdigheder
+P24;Specifikt indlæringsproblem;df819;Udviklingsforstyrrelse af skolefærdighed uden specifikation
+P24;Specifikt indlæringsproblem;df839;Blandet udviklingsforstyrrelse af specifikke færdigheder
+P24;Specifikt indlæringsproblem;df809;Udviklingsforstyrrelse af tale og sprog uden specifikation
+P25;Problem vedr livsfase hos voksen;dz600;Problemer m tilpasning til forandringer i livscyklus
+P27;Frygt for psykisk sygdom;dz711;Bekymring for sygdom hos rask person
+P28;Nedsat funkt/handicap psykisk sygdom;dz738a;Væsentlige eksistensielle/åndelige problemer
+P28;Nedsat funkt/handicap psykisk sygdom;dz736;Begrænsning af aktiviteter på grund af invaliditet
+P28;Nedsat funkt/handicap psykisk sygdom;dz738b;Manglende selvtillid
+P29;Psykisk symptom/klage IKA;dr460;Dårlig personlig hygiejne
+P29;Psykisk symptom/klage IKA;dr443;Hallucinationer uden specifikation
+P29;Psykisk symptom/klage IKA;dz733;Stress, ikke klassificeret andetsteds
+P29;Psykisk symptom/klage IKA;dz730;Udbrændthed
+P29;Psykisk symptom/klage IKA;dr458;Sympt og abnorme fund vedrørende stemningsleje, andre
+P29;Psykisk symptom/klage IKA;dr462;Mærkværdig og uforklarlig opførsel
+P29;Psykisk symptom/klage IKA;dr463;Hyperaktiv
+P29;Psykisk symptom/klage IKA;dr466;Overdreven bekymret og optaget af belastende oplevelser
+P29;Psykisk symptom/klage IKA;dr467;Usædvanlig snakkesalig og omstændelig u at komme til sagen
+P29;Psykisk symptom/klage IKA;dr458a;Patologisk sorgreaktion
+P29;Psykisk symptom/klage IKA;dz643;Udsættelse for risiko- og skadelige indgreb, psykologisk
+P29;Psykisk symptom/klage IKA;dz642;Udsættelse for risiko- og skadelige indgreb, fysisk
+P70;Demens;df039;Demens uden specifikation
+P70;Demens;df019;Demens, vaskulær uden specifikation
+P70;Demens;dg309;Alzheimer's sygd uden specifikation
+P71;Organisk psykose IKA;df072;Posttraumatisk hjernesyndrom
+P71;Organisk psykose IKA;df071;Postencefalitisk syndrom
+P71;Organisk psykose IKA;df059;Delir uden specifikation
+P71;Organisk psykose IKA;df070;Organisk personlighedsforstyrrelse
+P71;Organisk psykose IKA;df069;Organisk psykisk lidelse uden specifikation
+P72;Skizofreni;df219;Skizotypisk sindslidelse
+P72;Skizofreni;df229;Paranoid psykose uden specifikation
+P72;Skizofreni;df249;Psykose, induceret
+P72;Skizofreni;df209;Skizofreni uden specifikation
+P72;Skizofreni;df259;Psykose, skizo-affektiv uden specifikation
+P73;Maniodepressiv psykose;df309;Manisk enkeltepisode uden specifikation
+P73;Maniodepressiv psykose;df340;Cyklothymi
+P73;Maniodepressiv psykose;df319;Bipolar affektiv sindslidelse uden specifikation
+P74;Angsttilstand;df419;Angsttilstand uden specifikation
+P74;Angsttilstand;df410;Panikangst
+P74;Angsttilstand;df411;Generaliseret angst
+P75;Somatoform forstyrrelse;df449;Dissociativ tilstand eller forstyrrelse uden specifikation
+P75;Somatoform forstyrrelse;df450;Somatiseringstilstand
+P75;Somatoform forstyrrelse;df453;Somatoform autonom dysfunktion
+P75;Somatoform forstyrrelse;df452;Hypokonder tilstand
+P75;Somatoform forstyrrelse;df451;Udifferentieret somatoform tilstand
+P75;Somatoform forstyrrelse;df459;Somatoform tilstand uden specifikation
+P76;Depression;df412;Lettere angstdepressionstilstand
+P76;Depression;df330;Periodisk depression, p.t. af lettere grad
+P76;Depression;df339;Periodisk depression uden specifikation
+P76;Depression;df341;Dysthymi
+P76;Depression;df332;Periodisk depression, p.t. svær grad uden psykotiske sympt
+P76;Depression;df329;Depressiv enkeltepisode uden specifikation
+P76;Depression;df320;Depressiv enkeltepisode af lettere grad
+P76;Depression;df322;Depressiv enkeltepisode af svær grad uden psykosesymptomer
+P76;Depression;df530a;Puerperal depression
+P76;Depression;df331;Periodisk depression, p.t. af moderat grad
+P76;Depression;df321;Depressiv enkeltepisode af moderat grad
+P77;Selvmord/selvmordsforsøg;df999;Psykisk lidelse eller forstyrrelse ikke spec på anden måde
+P78;Neurasteni;df480;Neurasteni
+P79;Fobisk/obsessiv/kompulsiv tilstand;df421;Overvejende kompulsiv tilstand
+P79;Fobisk/obsessiv/kompulsiv tilstand;df400;Agorafobi (fobisk angst for at færdes alene)
+P79;Fobisk/obsessiv/kompulsiv tilstand;df429;Obsessiv-kompulsiv tilstand uden specifikation
+P79;Fobisk/obsessiv/kompulsiv tilstand;df409;Fobisk angst uden specifikation
+P79;Fobisk/obsessiv/kompulsiv tilstand;df401;Socialfobi (fobisk angst for sociale situationer)
+P79;Fobisk/obsessiv/kompulsiv tilstand;df420;Overvejende obsessiv tilstand
+P80;Personlighedsforstyrrelse;df630;Patologisk spillelidenskab
+P80;Personlighedsforstyrrelse;df602;Dyssocial personlighedsstruktur
+P80;Personlighedsforstyrrelse;df629;Personlighedsændring uden specifikation
+P80;Personlighedsforstyrrelse;df639;Patologisk vane- og impulshandling uden specifikation
+P80;Personlighedsforstyrrelse;df600;Paranoid personlighedsstruktur
+P80;Personlighedsforstyrrelse;df604;Histrionisk personlighedsstruktur
+P80;Personlighedsforstyrrelse;df601;Skizoid personlighedsstruktur
+P80;Personlighedsforstyrrelse;df605;Tvangspræget personlighedsstruktur
+P80;Personlighedsforstyrrelse;df609;Forstyrret personlighedsstruktur uden specifikation
+P80;Personlighedsforstyrrelse;df607;Dependent personlighedsstruktur
+P80;Personlighedsforstyrrelse;df606;Ængstelig (evasiv) personlighedsstruktur
+P80;Personlighedsforstyrrelse;df603;Emotionelt ustabil personlighedsstruktur
+P81;Hyperkinetisk forstyrrelse;df909;Hyperkinetisk forstyrrelse uden specifikation
+P82;Posttraumatisk belastningsreaktion;df431;Posttraumatisk belastningsreaktion
+P85;Mental retardering;df799;Mental retardering uden spec, påvirkning af adfærd u spec
+P85;Mental retardering;df719;Mental retardering middel med påvirkning af adfærd uden spe
+P85;Mental retardering;df729;Mental retardering svær med påvirkning af adfærd uden spec
+P85;Mental retardering;df739;Mental retardering sværest med påvirkning af adfærd u spec
+P85;Mental retardering;df709;Mental retardering lettere med påvirkning af adfærd u spec
+P86;Anoreksi/bulimi;df500;Anorexia nervosa
+P86;Anoreksi/bulimi;df502;Bulimia nervosa
+P86;Anoreksi/bulimi;df509;Spiseforstyrrelse uden specifikation
+P98;Psykose IKA;df531;Svær psykisk lidelse i puerperiet ikke klass andetsteds
+P98;Psykose IKA;df299;Psykose, ikke organisk uden specifikation
+P98;Psykose IKA;df239;Psykose, akut og forbigående uden specifikation
+P99;Psykisk sygdom IKA;df840;Infantil autisme
+P99;Psykisk sygdom IKA;df845;Aspergers syndrom
+P99;Psykisk sygdom IKA;df489;Nervøs tilstand uden specifikation
+P99;Psykisk sygdom IKA;df999;Psykisk lidelse eller forstyrrelse ikke spec på anden måde
+R00;R   LUFTVEJE;;
+R01;Smerte fra luftveje;dr071;Pleurodynia
+R02;Åndenød;dr060;Dyspnoea
+R03;Piben/hvæsen i bryst;dr062;Piben på lungerne
+R04;Vejrtrækningsproblem IKA;dr068d;Apnoea uden specifikation
+R04;Vejrtrækningsproblem IKA;dr065a;Snorken
+R04;Vejrtrækningsproblem IKA;dr068;Abnorm vejrtrækning, anden og ikke specificeret
+R04;Vejrtrækningsproblem IKA;dr063;Cheyne-Stokes' respiration
+R04;Vejrtrækningsproblem IKA;dr061;Stridor
+R05;Hoste;dr059;Hoste
+R06;Næseblødning;dr040;Epistaxis
+R07;Snue/nysen;dr067;Nysen
+R08;Symptom/klage fra næse IKA;dj348;Sygdom i næse og bihuler, andre specificerede
+R09;Symptom/klage fra bihule;dj348;Sygdom i næse og bihuler, andre specificerede
+R21;Symptom/klage fra svælg;dr070;Dolor pharyngis
+R23;Stemmeændring/hæshed;dr492;Rhinolalia
+R23;Stemmeændring/hæshed;dr498a;Phonasthenia
+R23;Stemmeændring/hæshed;dr490;Dysphonia
+R23;Stemmeændring/hæshed;dr491;Aphonia
+R24;Blodopspytning;dr042;Haemoptysis
+R25;Abnormt opspyt;dr093a;Sputum excessivum
+R25;Abnormt opspyt;dr093b;Purulent opspyt
+R25;Abnormt opspyt;dr093;Abnormt opspyt
+R26;Frygt for kræft i luftveje;dz711;Bekymring for sygdom hos rask person
+R27;Frygt for luftvejssygdom IKA;dz711;Bekymring for sygdom hos rask person
+R28;Nedsat funktion/handicap luftveje;dz942;Tilstand m transplanteret lunge
+R28;Nedsat funktion/handicap luftveje;dz963;Tilstand m kunstig strube
+R28;Nedsat funktion/handicap luftveje;dz902a;Pulmectomia facta
+R28;Nedsat funktion/handicap luftveje;dz991;Afhængighed af respirator
+R28;Nedsat funktion/handicap luftveje;dz930;Tilstand m trakeostomi
+R28;Nedsat funktion/handicap luftveje;dz736;Begrænsning af aktiviteter på grund af invaliditet
+R28;Nedsat funktion/handicap luftveje;dz900a;Laryngectomia facta
+R29;Symptom/klage fra luftveje IKA;dr041;Haemorrhagia pharyngis
+R29;Symptom/klage fra luftveje IKA;dr066;Hikke
+R29;Symptom/klage fra luftveje IKA;dr098;Symptomer og fund i kredsløbs- og åndedrætsorg, andre spec
+R71;Kighoste;da371;Kighoste forårsaget af Bordetella parapertussis
+R71;Kighoste;da379;Kighoste uden specifikation
+R71;Kighoste;da370;Kighoste forårsaget af Bordetella pertussis
+R72;Streptokokfaryngit;dj030;Tonsillitis acuta streptococcica
+R73;Byld i næse IKA;dj340;Abscessus, furunculus et carbunculus nasi
+R74;Akut øvre luftvejsinfektion;db085;Pharyngitis vesicularis enteroviralis (herpangina)
+R74;Akut øvre luftvejsinfektion;dj029;Pharyngitis acuta uden specifikation
+R74;Akut øvre luftvejsinfektion;dj069;Akut øvre luftsvejsinfek uden specifikation
+R74;Akut øvre luftvejsinfektion;dj009c;Rhinitis acuta
+R75;Akut/kronisk bihulebetændelse;dj329;Sinuitis chronica uden specifikation
+R75;Akut/kronisk bihulebetændelse;dj019;Sinuitis acuta uden specifikation
+R76;Akut tonsillit;dj039;Tonsillitis acuta uden specifikation
+R76;Akut tonsillit;dj369;Abscessus peritonsillaris
+R77;Akut laryngit/trakeit;dj041;Tracheitis acuta
+R77;Akut laryngit/trakeit;dj050;Laryngitis acuta stridulans (pseudocroup)
+R77;Akut laryngit/trakeit;dj040;Laryngitis acuta
+R78;Akut bronkit/bronkiolit;dj229;Akut nedre luftsvejsinfek uden specifikation
+R78;Akut bronkit/bronkiolit;dj209a;Bronchitis acuta eller subacuta med bronchospasme
+R78;Akut bronkit/bronkiolit;dj219;Bronchiolitis acuta uden specifikation
+R78;Akut bronkit/bronkiolit;dj209;Bronchitis acuta uden specifikation
+R79;Kronisk bronkit;dj429;Kronisk bronkit uden specifikation
+R80;Influenza;dj101;Influenza m andre luftvejsmanifest og påvist influenzavirus
+R80;Influenza;dj111;Influenza m andre luftvejsmanifest u påvist influenzavirus
+R81;Lungebetændelse;da481;Legionærsygdom
+R81;Lungebetændelse;dj159;Bakteriel pneumoni uden specifikation
+R81;Lungebetændelse;dj178c;Pneumonia, ornithosis
+R81;Lungebetændelse;dj129;Viruspneumoni uden specifikation
+R81;Lungebetændelse;dj189;Pneumoni uden specifikation
+R81;Lungebetændelse;dj160;Pneumonia chlamydiae
+R81;Lungebetændelse;dj157;Pneumoni forårsaget af Mycoplasma pneumoniae
+R81;Lungebetændelse;dj180;Bronchopneumoni uden specifikation
+R81;Lungebetændelse;dj181;Pneumonia lobaris uden specifikation
+R81;Lungebetændelse;dj121;Pneumoni forårsaget respiratorisk syncytial virus
+R82;Pleurit/pleuraekssudat;dr091;Pleuritis
+R82;Pleurit/pleuraekssudat;dj909;Effusio pleurae ikke klassificeret andetsteds
+R83;Infektion i luftveje IKA;dj852;Lungeabsces u pneumoni
+R83;Infektion i luftveje IKA;dj869;Empyema pleurae u fistel
+R83;Infektion i luftveje IKA;dj853;Abscessus mediastini
+R83;Infektion i luftveje IKA;db371;Candidiasis pulmonis
+R83;Infektion i luftveje IKA;dj311;Nasopharyngitis chronica
+R83;Infektion i luftveje IKA;dj051;Epiglottitis acuta
+R83;Infektion i luftveje IKA;db449;Aspergillosis uden specifikation
+R83;Infektion i luftveje IKA;da369;Difteri uden specifikation
+R83;Lungebetændelse;db972a;COVID-19 svær akut respiratorisk syndrom
+R83;Infektion i luftveje IKA;dj370;Laryngitis chronica
+R84;Kræft i bronkie/lunge;dc339;Neopl mal tracheae
+R84;Kræft i bronkie/lunge;dc349;Neopl mal bronchi sive pulmonis uden specifikation
+R85;Kræft i luftveje IKA;dc300;Neopl mal cavi nasi
+R85;Kræft i luftveje IKA;dc383;Neopl mal mediastini uden specifikation
+R85;Kræft i luftveje IKA;dc384;Neopl mal pleurae
+R85;Kræft i luftveje IKA;dc399;Neopl mal systematis resp m dårligt defineret lokalisation
+R85;Kræft i luftveje IKA;dc329;Neopl mal laryngis uden specifikation
+R85;Kræft i luftveje IKA;dc140;Neopl mal pharyngis uden specifikation
+R85;Kræft i luftveje IKA;dc450;Mesothelioma mal pleurae
+R86;Godartet svulst i luftveje;dd144;Neopl ben systematis respirationis uden specifikation
+R87;Fremmedlegeme i næse/strube/bronkie;dt174;Corpus alienum tracheae
+R87;Fremmedlegeme i næse/strube/bronkie;dt175;Corpus alienum bronchi
+R87;Fremmedlegeme i næse/strube/bronkie;dt173;Corpus alienum laryngis
+R87;Fremmedlegeme i næse/strube/bronkie;dt179;Fremmedlegeme i luftveje uden specifikation
+R87;Fremmedlegeme i næse/strube/bronkie;dt172;Corpus alienum pharyngis
+R87;Fremmedlegeme i næse/strube/bronkie;dt171;Corpus alienum nasi
+R88;Skade på luftveje IKA;dt277;Ætsning af luftveje uden specifikation
+R88;Skade på luftveje IKA;ds272;Pneumohaemothorax traumaticus
+R88;Skade på luftveje IKA;ds031;Luxatio cartilaginis septi nasi
+R88;Skade på luftveje IKA;ds003;Laesio traumatica superfic nasi
+R88;Skade på luftveje IKA;dt273;Forbrænding af luftveje uden specifikation
+R88;Skade på luftveje IKA;ds279;Læsion af organ i thorax uden specifikation
+R89;Medfødt misdannelse i luftveje;dq349;Medfødt misdannelse i åndedrætsorganer uden specifikation
+R89;Medfødt misdannelse i luftveje;dq314;Stridor laryngis congenitus
+R90;Hypertrofi af tonsiller/polypper;dj359;Kroniske sygdom i mandler og polypper uden specifikation
+R90;Hypertrofi af tonsiller/polypper;dj351;Hypertrophia tonsillarum
+R90;Hypertrofi af tonsiller/polypper;dj350;Tonsillitis chronica
+R90;Hypertrofi af tonsiller/polypper;dj352;Vegetationes adenoides
+R92;Uspecifik svulst i luftveje;dd389;Neopl organorum respirationis uden specifikation
+R92;Uspecifik svulst i luftveje;dd024;Carc in situ organorum respiratorii uden specifikation
+R95;Kronisk obstruktiv lungesygdom;dj439;Emphysem uden specifikation
+R95;Kronisk obstruktiv lungesygdom;dj449;Kronisk obstruktiv lungesygdom uden specifikation
+R96;Astma;dj459;Astma uden specifikation
+R96;Astma;dj451;Asthma bronchiale non allergicum
+R96;Astma;dj450;Asthma bronchiale allergicum
+R96;Astma;dj469;Status asthmaticus
+R97;Høfeber;dj300;Rhinitis vasomotorica
+R97;Høfeber;dj301;Rhinitis allergica saesonalis (pollenudløst)
+R97;Høfeber;dj302;Rhinitis allergica saesonalis (ikke pollenudløst)
+R97;Høfeber;dj304;Rhinitis allergica uden specifikation
+R97;Høfeber;dj303;Rhinitis allergica perennialis
+R98;Hyperventilation;dr064;Hyperventilation
+R99;Luftvejssygdom IKA;dj698;Pneumonia aspiratorica forårsaget af fast el flydende stof
+R99;Luftvejssygdom IKA;dj849;Interstitiel lungesygdom uden specifikation
+R99;Luftvejssygdom IKA;dj681;Oedema pulmonum acutum efter inhalation af kemikalier m.m.
+R99;Luftvejssygdom IKA;dj969;Respirationsinsufficiens uden specifikation
+R99;Luftvejssygdom IKA;dj981;Atelectasis pulmonis
+R99;Luftvejssygdom IKA;dj989;Åndedrætssygdom uden specifikation
+R99;Luftvejssygdom IKA;dj939;Pneumothorax uden specifikation
+R99;Luftvejssygdom IKA;dj680c;Pneumonitis, inhalation af kemikalier, gasser, røg og dampe
+R99;Luftvejssygdom IKA;dj479;Bronchiectasia
+R99;Luftvejssygdom IKA;dj649;Pneumoconiose uden specifikation
+R99;Luftvejssygdom IKA;dj339;Næsepolyp uden specifikation
+R99;Luftvejssygdom IKA;dj342;Deviatio septi nasi
+R99;Luftvejssygdom IKA;dj380;Paralysis plicae vocalis et laryngoplegia
+R99;Luftvejssygdom IKA;dj381;Polypus plicae vocalis et laryngis
+R99;Luftvejssygdom IKA;dj382;Noduli plicae vocalis
+R99;Luftvejssygdom IKA;dj385;Spasmus laryngis
+R99;Luftvejssygdom IKA;dj679;Alveolitis allergica forårsaget af organisk støv uden speci
+S00;S   HUD;;
+S01;Smerte/ømhed i hud;dr208;Føleforstyrrelser i hud, andre og ikke specificeret
+S02;Kløe;dl299;Kløe uden specifikation
+S03;Vorte;db079;Verrucae virales
+S04;Lokal knude/fortykkelse i hud;dr229;Intumescentia cutis et subcutis uden specifikation
+S05;Udbredte knuder/fortykkelser i hud;dr227;Intumescentia cutis et subcutis localisationis multiplex
+S06;Lokaliseret udslæt;dr219;Exanthema
+S07;Generaliseret udslæt;dr219;Exanthema
+S08;Ændret hudfarve;dr232;Flushing
+S08;Ændret hudfarve;dr230;Cyanosis
+S08;Ændret hudfarve;dl813;Café au lait pletter
+S08;Ændret hudfarve;dl812;Fregner
+S08;Ændret hudfarve;dl811;Chloasma
+S08;Ændret hudfarve;dr238a;Hudforandringer, ikke specificerede
+S08;Ændret hudfarve;dr231;Pallor
+S09;Infektion i finger/tå;dl030k;Phlegmone digiti manus
+S09;Infektion i finger/tå;dl030h;Phlegmone digiti pedis
+S09;Infektion i finger/tå;dl030;Phlegmone digiti manus et pedis
+S09;Infektion i finger/tå;dl030c;Paronychion
+S10;Byld i hud;dl029;Abscessus cutis, furunculus et carbunculus u specifikation
+S10;Byld i hud;dl029a;Furunculus uden specifikation
+S10;Byld i hud;dl029c;Abscessus cutis uden specifikation
+S10;Byld i hud;dl029b;Carbunculus uden specifikation
+S11;Posttraumatisk hudinfektion;dt793;Posttraumatisk sårinfektion ikke klassificeret andetsteds
+S12;Insektstik;dt140h;Insektstik
+S13;Bid af dyr/menneske;dt141b;Morsus uden specifikation
+S14;Forbrænding/skoldning;dt300;Forbrænding uden specifikation
+S14;Forbrænding/skoldning;dt301;Ambustio af 1. grad uden specifikation
+S14;Forbrænding/skoldning;dt302;Ambustio af 2. grad uden specifikation
+S14;Forbrænding/skoldning;dt303;Ambustio af 3. grad uden specifikation
+S14;Forbrænding/skoldning;dt304;Ætsning uden specifikation
+S15;Fremmedlegeme i hud;dt140g;Fremmedlegeme (splint) i hud/underhud
+S16;Læsion/kontusion med intakt hud;dt140d;Haematoma uden specifikation
+S16;Læsion/kontusion med intakt hud;dt140f;Suggilatio uden specifikation
+S16;Læsion/kontusion med intakt hud;dt140b;Contusio uden specifikation
+S16;Læsion/kontusion med intakt hud;dt140k;Subungvalt hæmatom (blå negl)
+S17;Overfladisk hudlæsion/hudafskrabning;dt140a;Bulla non thermalis uden specifikation
+S17;Overfladisk hudlæsion/hudafskrabning;dt140c;Excoriatio uden specifikation
+S17;Overfladisk hudlæsion/hudafskrabning;dt140;Laesio traumatica superficialis uden specifikation
+S18;Laceration/snitsår;dt141;Vulnus uden specifikation
+S18;Laceration/snitsår;dt141c;Vulnus incisum
+S18;Laceration/snitsår;dt141a;Laceratio uden specifikation
+S19;Skade på hud IKA;dt140j;Negleskade
+S19;Skade på hud IKA;dt140;Laesio traumatica superficialis uden specifikation
+S20;Hård hud/ligtorn;dl849;Callositas et clavus
+S20;Hård hud/ligtorn;dl849b;Clavus
+S20;Hård hud/ligtorn;dl849a;Callositas
+S21;Symptom/klage vedr hudforandring;dr234b;Skællende hud
+S21;Symptom/klage vedr hudforandring;dr234;Ændringer i hudens sammensætning
+S22;Symptom/klage fra negl;dl601;Onycholysis
+S22;Symptom/klage fra negl;dl628a;Urglasnegle
+S22;Symptom/klage fra negl;dl609;Neglesygd uden specifikation
+S22;Symptom/klage fra negl;dl602;Onychogryphosis
+S22;Symptom/klage fra negl;dr683;Trommestikfingre
+S22;Symptom/klage fra negl;dl608c;Deformatio unguinis
+S22;Symptom/klage fra negl;dl604;Beau's furer på negle
+S23;Hårtab/skaldethed;dl639;Alopecia areata uden specifikation
+S23;Hårtab/skaldethed;dl631;Alopecia universalis
+S23;Hårtab/skaldethed;dl659;Alopeci uden ardannelse uden specifikation
+S23;Hårtab/skaldethed;dl649;Alopecia androgenica uden specifikation
+S24;Symptom/klage fra hår/hovedbund;dl689;Hypertrikose uden specifikation
+S24;Symptom/klage fra hår/hovedbund;dl680;Hirsutismus
+S24;Symptom/klage fra hår/hovedbund;dl679;Abnorm hårfarve og hårform uden specifikation
+S26;Frygt for hudkræft;dz711;Bekymring for sygdom hos rask person
+S27;Frygt for hudsygdom IKA;dz711;Bekymring for sygdom hos rask person
+S28;Nedsat funktion/handicap hudsygdom;dz736;Begrænsning af aktiviteter på grund af invaliditet
+S28;Nedsat funktion/handicap hudsygdom;dz945;Tilstand m hudtransplantat
+S29;Symptom/klage fra hud IKA;dr233;Ecchymoses spontaneae
+S29;Symptom/klage fra hud IKA;dr238;Hudforandringer, andre og ikke specificeret
+S29;Symptom/klage fra hud IKA;dr233a;Petechiae spontaneae
+S70;Herpes zoster;db029;Herpes zoster u komplikation
+S70;Herpes zoster;db023;Herpes zoster i øjet
+S70;Herpes zoster;db022;Herpes zoster m anden komplikation i nervesystemet
+S71;Herpes simplex-infektion;db009;Infektion m herpesvirus uden specifikation
+S71;Herpes simplex-infektion;db001b;Herpes simplex labialis
+S72;Scabies;db869;Scabies
+S73;Pedikulose/hudinfestation IKA;db850;Pediculosis capitis
+S73;Pedikulose/hudinfestation IKA;db853;Pediculosis pubis
+S73;Pedikulose/hudinfestation IKA;db888c;Pulicosis
+S73;Pedikulose/hudinfestation IKA;dt140l;Flåtbid
+S73;Pedikulose/hudinfestation IKA;db851;Pediculosis corporis
+S73;Pedikulose/hudinfestation IKA;db852;Pediculosis uden specifikation
+S73;Pedikulose/hudinfestation IKA;db889;Sygdom forårsaget af leddyr på hud uden specifikation
+S74;Hudsvamp;db351;Tinea unguinis
+S74;Hudsvamp;db360;Pityriasis versicolor
+S74;Hudsvamp;db359;Dermatophytosis uden specifikation
+S74;Hudsvamp;db350c;Kerion
+S75;Candida-infektion i hud;db372;Candidiasis cutis et unguinis
+S75;Candida-infektion i hud;db372b;Candidiasis unguinis
+S76;Infektion i hud IKA;dl039;Phlegmone uden specifikation
+S76;Infektion i hud IKA;dl080;Pyodermia
+S76;Infektion i hud IKA;dl081;Erythrasma
+S76;Infektion i hud IKA;dl088a;Ecthyma
+S76;Infektion i hud IKA;dl089;Infektioner i hud og underhud, lokale uden specifikation
+S76;Infektion i hud IKA;dl980;Granuloma pyogenicum
+S76;Infektion i hud IKA;da469;Erysipelas
+S77;Hudkræft;dc439;Melanoma mal uden specifikation
+S77;Hudkræft;dc460;Sarcoma Kaposi cutis
+S77;Hudkræft;dc449;Neopl mal cutis uden specifikation
+S78;Lipom i hud;dd179;Neopl ben lipomatosum uden specifikation
+S79;Godartet/uspecifik svulst i hud IKA;dd049;Carc in situ cutis uden specifikation
+S79;Godartet/uspecifik svulst i hud IKA;dd485;Neopl cutis uden specifikation
+S79;Godartet/uspecifik svulst i hud IKA;dd239a;Akrokordon
+S79;Godartet/uspecifik svulst i hud IKA;dd239;Neopl ben cutis uden specifikation
+S80;Solskoldning/aktinisk keratose;dl570a;Keratosis actinica solaris
+S80;Solskoldning/aktinisk keratose;dl569;Hudforandring uden specifik forårsaget af ultraviolet lys
+S80;Solskoldning/aktinisk keratose;dl564;Eczema photogenicum polymorphicum
+S80;Solskoldning/aktinisk keratose;dl561;Dermatitis photoallergica medicamentalis
+S80;Solskoldning/aktinisk keratose;dl559;Solskoldning uden specifikation
+S80;Solskoldning/aktinisk keratose;dl589;Stråledermatit uden specifikation
+S81;Hæmangiom/lymfangiom;dd180;Haemangioma uden specifikation
+S81;Hæmangiom/lymfangiom;dd181;Lymphangioma uden specifikation
+S81;Hæmangiom/lymfangiom;dd189;Godartet svulst i blodkar og i lymfekar uden specifikation
+S82;Modermærke;dd229;Naevus melanocyticus uden specifikation
+S83;Medfødt misdannelse i hud IKA;dq828q;Keratosis pilaris
+S83;Medfødt misdannelse i hud IKA;dq809;Ichthyosis congenita uden specifikation
+S83;Medfødt misdannelse i hud IKA;dq819;Epidermolysis bullosa uden specifikation
+S83;Medfødt misdannelse i hud IKA;dq825c;Naevus coeruleus
+S83;Medfødt misdannelse i hud IKA;dq825e;Naevus flammeus
+S83;Medfødt misdannelse i hud IKA;dq825;Naevus non neoplasticus congenitus
+S83;Medfødt misdannelse i hud IKA;dq829;Medfødt misdannelse i hud uden specifikation
+S83;Medfødt misdannelse i hud IKA;dq846h;Malformatio congenita ungunium uden specifikation
+S83;Medfødt misdannelse i hud IKA;dq825f;Naevus sanguinosus
+S84;Impetigo;dl009;Dermatitis exfoliativa staphylococcica
+S84;Impetigo;dl010b;Impetigo bullosa
+S84;Impetigo;dl010;Impetigo (alle organismer)(alle lokalisationer)
+S85;Pilonidalcyste/-fistel;dl050;Cystis pilonidalis m absces
+S85;Pilonidalcyste/-fistel;dl059;Cystis pilonidalis u absces
+S86;Seboroisk dermatit;dl210b;Pityriasis capitis
+S86;Seboroisk dermatit;dl219;Seborroisk dermatit uden specifikation
+S87;Atopisk dermatit;dl208b;Dermatitis plantaris sicca
+S87;Atopisk dermatit;dl209;Atopisk dermatit uden specifikation
+S88;Allergisk/toksisk kontaktdermatit;dl309;Dermatit uden specifikation
+S88;Allergisk/toksisk kontaktdermatit;dl308h;Håndeksem
+S88;Allergisk/toksisk kontaktdermatit;dl230d;Allergisk kontaktdermatit, nikkel
+S88;Allergisk/toksisk kontaktdermatit;dl308d;Dermatitis perianalis
+S88;Allergisk/toksisk kontaktdermatit;dl304;Erythema intertriginosum
+S88;Allergisk/toksisk kontaktdermatit;dl279;Dermatit forårsaget af indtagne stoffer uden specifikation
+S88;Allergisk/toksisk kontaktdermatit;dl239;Allergisk kontaktdermatit uden specifikation
+S88;Allergisk/toksisk kontaktdermatit;dl303;Dermatitis infectiosa
+S88;Allergisk/toksisk kontaktdermatit;dl249;Toksisk kontaktdermatit uden specifikation
+S89;Bledermatit;dl229;Dermatitis glutaealis infantilis
+S90;Pityriasis rosea;dl429;Pityriasis rosea
+S91;Psoriasis;dl403;Pustulosis palmoplantaris
+S91;Psoriasis;dl409;Psoriasis uden specifikation
+S92;Svedkirtelsygdom;dl301a;Dermatitis dyshidrotica
+S92;Svedkirtelsygdom;dl749;Forstyrrelse i svedsekretion uden specifikation
+S92;Svedkirtelsygdom;dl301;Dyshidrosis
+S92;Svedkirtelsygdom;dl732;Hidrosadenitis
+S92;Svedkirtelsygdom;dl743;Miliaria uden specifikation
+S92;Svedkirtelsygdom;dl744a;Hypohidrosis
+S93;Aterom;dl721;Cystis trichodermalis
+S94;Nedgroet negl;dl600;Unguis incarnatus
+S95;Molluscum contagiosum;db081;Molluscum contagiosum
+S96;Akne;dl708a;Comedo
+S96;Akne;dl709;Akne uden specifikation
+S97;Kronisk sår i hud;dl984d;Fistula cutis
+S97;Kronisk sår i hud;di830a;Ulcus cruris varicosum
+S97;Kronisk sår i hud;dl979a;Ulcus cutis neurogenes
+S97;Kronisk sår i hud;dl979b;Ulcus cruris arterioscleroticum
+S97;Kronisk sår i hud;dl979e;Ulcus pedis arterioscleroticum
+S97;Kronisk sår i hud;dl984;Ulcus chronicum cutis ikke klassificeret andetsteds
+S97;Kronisk sår i hud;dl899;Decubitus
+S98;Nældefeber;dl509;Nældefeber uden specifikation
+S99;Hudsygdom IKA;dl930a;Lupus erythematosus uden specifikation
+S99;Hudsygdom IKA;dl818a;Lentigo
+S99;Hudsygdom IKA;dl900;Lichen sclerosus et atrophicus
+S99;Hudsygdom IKA;dl269;Dermatitis exfoliativa
+S99;Hudsygdom IKA;dl139;Bulløs dermatit uden specifikation
+S99;Hudsygdom IKA;dl853;Xerosis cutis
+S99;Hudsygdom IKA;dl929b;Granulomatosis cutis
+S99;Hudsygdom IKA;dl920;Granuloma annulare
+S99;Hudsygdom IKA;dl910;Cicatrix keloides
+S99;Hudsygdom IKA;dl906;Striae atrophicae
+S99;Hudsygdom IKA;dl280;Lichen simplex chronicus
+S99;Hudsygdom IKA;dl905b;Fibrosis cutis uden specifikation
+S99;Hudsygdom IKA;dl829;Keratosis seborrhoica
+S99;Hudsygdom IKA;dl981;Dermatitis factitia
+S99;Hudsygdom IKA;dl989;Sygd i hud og underhud uden specifikation
+S99;Hudsygdom IKA;dl719;Rosacea uden specifikation
+S99;Hudsygdom IKA;dl710;Dermatitis perioralis
+S99;Hudsygdom IKA;dl905d;Cicatrix cutis
+S99;Hudsygdom IKA;dl529;Erythema nodosum
+S99;Hudsygdom IKA;dl519;Erythema multiforme uden specifikation
+S99;Hudsygdom IKA;dl444;Acrodermatitis papulosa infantilis (Giannotti-Crosti)
+S99;Hudsygdom IKA;dl439;Lichen ruber (planus) uden specifikation
+S99;Hudsygdom IKA;dl130;Dermatitis herpetiformis
+S99;Hudsygdom IKA;dl109;Pemfigus uden specifikation
+S99;Hudsygdom IKA;dl305;Pityriasis alba
+S99;Hudsygdom IKA;dl809;Vitiligo
+T00;T   ENDOKRINT/METABOLISK/ERNÆRING;;
+T01;Overdreven tørst;dr631;Polydipsia
+T02;Overdreven appetit;dr632;Polyphagia
+T03;Nedsat appetit;dr630;Anorexia
+T04;Ernæringsproblem hos spædbarn/barn;dr633;Spisevanskeligheder, andre
+T05;Ernæringsproblem hos voksen;dr633;Spisevanskeligheder, andre
+T07;Abnorm vægtstigning;dr635;Abnorm vægtstigning
+T08;Abnormt vægttab;de470;Undervægt som flg af for lavt kalorieindtag, BMI under 18,5
+T08;Abnormt vægttab;dr649;Cachexia
+T08;Abnormt vægttab;dr634;Abnormt vægttab
+T10;Forsinket vækst;de343;Lille højde
+T10;Forsinket vækst;dr629;Retarderet fysiologisk udvikling uden specifikation
+T11;Dehydrering;de869;Volumennedsættelse af plasma eller ekstracellulær væske
+T26;Frygt for kræft i endokrine system;dz711;Bekymring for sygdom hos rask person
+T27;Frygt for endokrin/metabol sygd IKA;dz711;Bekymring for sygdom hos rask person
+T28;Nedsat funkt/handicap endokr/metabol;dz964;Tilstand m endokrine implantater
+T28;Nedsat funkt/handicap endokr/metabol;dz900b;Strumectomia facta
+T28;Nedsat funkt/handicap endokr/metabol;dz736;Begrænsning af aktiviteter på grund af invaliditet
+T29;Symptom/klage endokr/metabol/ern IKA;dr638;Sympt og abnorme fund vedr føde- og væskeindtagelse, andre
+T70;Infektion i endokrine system;de060b;Thyreoiditis suppurativa
+T71;Kræft i skjoldbruskkirtel;dc739;Neopl mal glandulae thyreoideae
+T72;Godartet svulst i skjoldbruskkirtel;dd349;Neopl ben glandulae thyreoideae
+T73;Svulst i endokrine system IKA;dd350a;Phaeochromocytom
+T73;Svulst i endokrine system IKA;dd351;Neopl ben glandulae parathyreoideae
+T73;Svulst i endokrine system IKA;dc759;Neopl mal glandulae endocrinae uden specifikation
+T73;Svulst i endokrine system IKA;dc749;Neopl mal glandulae suprarenalis uden specifikation
+T73;Svulst i endokrine system IKA;dd359;Neopl ben glandulae endocrinae uden specifikation
+T73;Svulst i endokrine system IKA;dd449;Neopl glandulae endocrinae uden specifikation
+T73;Svulst i endokrine system IKA;dd352;Neopl ben glandulae pituitariae
+T78;Thyroglossuscyste;dq892;Malformationes congenitae glandularum aliarum endocrinarum
+T80;Medfødt misdannelse endokr/metabol;dq892;Malformationes congenitae glandularum aliarum endocrinarum
+T81;Struma;de049;Atoksisk struma uden specifikation
+T81;Struma;de040;Atoksisk diffus struma
+T81;Struma;de041;Atoksisk struma med solitært adenom
+T81;Struma;de042;Atoksisk multinodøs struma
+T82;Fedme;de660c;Svær fedme, BMI 35-39,9
+T82;Fedme;de669;Overvægt uden specifikation
+T82;Fedme;de662;Fedme med hypoventilation
+T82;Fedme;de661;Medikamentelt betinget fedme
+T82;Fedme;de660b;Fedme, BMI 30-34,9
+T82;Fedme;de660d;Ekstrem fedme, BMI 40+
+T83;Overvægt;de660a;Overvægt, BMI 25-29,9
+T85;Tyrotoksikose;de050c;Thyreotoxicosis med diffus struma
+T85;Tyrotoksikose;de050d;Thyreotoxicosis uden struma
+T85;Tyrotoksikose;de059;Forhøjet stofskifte uden specifikation
+T85;Tyrotoksikose;de052;Forhøjet stofskifte med toksisk multinodøs struma
+T85;Tyrotoksikose;de051;Forhøjet stofskifte med toksisk solitært adenom
+T86;Myksødem;de890a;Myxoedema efter strålebehandling
+T86;Myksødem;de033;Myksødem efter infektion
+T86;Myksødem;de039;Myksødem uden specifikation
+T86;Myksødem;de890;Myksødem efter operation
+T87;Hypoglykæmi;de159;Hypoglykæmisk koma
+T87;Hypoglykæmi;de162;Hypoglykæmi uden specifikation
+T89;Diabetes type 1;de108;Sukkersyge, insulinkrævende med komplikationer uden specif
+T89;Diabetes type 1;de101;Sukkersyge, insulinkrævende med ketoacidose
+T89;Diabetes type 1;de100;Sukkersyge, insulinkrævende med bevidstløshed
+T89;Diabetes type 1;de109a;Insulinkrævende sukkersyge
+T90;Diabetes type 2;de141;Sukkersyge uden specifikation med ketoacidose
+T90;Diabetes type 2;de148;Sukkersyge uden specifikation med komplikationer
+T90;Diabetes type 2;de140;Sukkersyge uden specifikation med bevidstløshed
+T90;Diabetes type 2;de119a;Ikke insulinkrævende sukkersyge
+T91;Mangel på vitamin/ernæring;de509;A-vitaminmangel uden specifikation
+T91;Mangel på vitamin/ernæring;de561;K-vitaminmangel
+T91;Mangel på vitamin/ernæring;de639;Kostmangel uden specifikation
+T91;Mangel på vitamin/ernæring;de609;Zinkmangel
+T91;Mangel på vitamin/ernæring;de611;Jernmangel
+T91;Mangel på vitamin/ernæring;de539;B-vitaminmangel uden specifikation
+T91;Mangel på vitamin/ernæring;de538e;Deficientia folatis
+T91;Mangel på vitamin/ernæring;de549;Skørbug
+T91;Mangel på vitamin/ernæring;de559;D-vitaminmangel uden specifikation
+T91;Mangel på vitamin/ernæring;de589;Calciummangel
+T91;Mangel på vitamin/ernæring;de519;Thiaminmangel uden specifikation
+T91;Mangel på vitamin/ernæring;de529;Niacinmangel, pellagra
+T91;Mangel på vitamin/ernæring;de538d;Deficientia cyanocobalamini
+T91;Mangel på vitamin/ernæring;de469;Proteinmangel uden specifikation
+T91;Mangel på vitamin/ernæring;de599;Seleniummangel
+T91;Mangel på vitamin/ernæring;de612;Magnesiummangel
+T92;Urinsur gigt;dm109;Urinsur gigt uden specifikation
+T93;Lipidforstyrrelse;de780;Hyperkolesterolæmi
+T93;Lipidforstyrrelse;de781;Hyperglyceridæmi
+T93;Lipidforstyrrelse;de782;Hyperlipidæmi, blandingsform
+T93;Lipidforstyrrelse;de789;Forstyrrelse i lipoproteinstofskiftet uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de282;Polycystisk ovariesyndrom (PCOS)
+T99;Sygdom endokr/metabol/ernæring IKA;de301;For tidlig pubertet
+T99;Sygdom endokr/metabol/ernæring IKA;de300;Konstitutionelt forsinket pubertet
+T99;Sygdom endokr/metabol/ernæring IKA;de063a;Hashimoto's thyreoiditis
+T99;Sygdom endokr/metabol/ernæring IKA;dm839;Osteomalaci hos voksne uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de349;Endokrin sygdom uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de061c;Thyreoiditis non suppurativa
+T99;Sygdom endokr/metabol/ernæring IKA;de299;Forstyrrelse i testiklens funktion uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de340;Karcinoid syndrom
+T99;Sygdom endokr/metabol/ernæring IKA;de876a;Hypokaliæmi
+T99;Sygdom endokr/metabol/ernæring IKA;de739;Laktoseintolerans uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de748a;Glucosuria renalis
+T99;Sygdom endokr/metabol/ernæring IKA;de790;Asymptomatisk hyperurikæmi
+T99;Sygdom endokr/metabol/ernæring IKA;de802d;Porphyria uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de807;Forstyrrelse i bilirubinstofskiftet uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de831a;Haemochromatosis
+T99;Sygdom endokr/metabol/ernæring IKA;de835c;Hypercalcæmi uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de835d;Hypocalcæmi
+T99;Sygdom endokr/metabol/ernæring IKA;de849;Cystisk fibrose uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de870a;Hypernatriaemia
+T99;Sygdom endokr/metabol/ernæring IKA;de213;Hyperparatyreoidisme uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de875a;Hyperkaliæmi
+T99;Sygdom endokr/metabol/ernæring IKA;de271a;Addison's sygdom
+T99;Sygdom endokr/metabol/ernæring IKA;de888c;Metabolisk syndrom
+T99;Sygdom endokr/metabol/ernæring IKA;de209;Hypoparatyreoidisme uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de220;Hypofysær kæmpevækst og akromegali
+T99;Sygdom endokr/metabol/ernæring IKA;de221;Øget dannelse af prolaktin
+T99;Sygdom endokr/metabol/ernæring IKA;de230;Nedsat hormonsekretion fra hypofyse
+T99;Sygdom endokr/metabol/ernæring IKA;de232;Diabetes insipidus
+T99;Sygdom endokr/metabol/ernæring IKA;de249;Cushing's syndrom uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de259;Adrenogenitalt syndrom uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de269;Hyperaldosteronisme uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de270b;Adrenarche, præmatur
+T99;Sygdom endokr/metabol/ernæring IKA;de871a;Hyponatriaemia
+T99;Sygdom endokr/metabol/ernæring IKA;dm119;Krystalartrit uden specifikation
+T99;Sygdom endokr/metabol/ernæring IKA;de658a;Abdomen pendens
+U00;U   URINVEJE;;
+U01;Smerte ved vandladning;dr309;Smerter ved vandladning uden specifikation
+U02;Hyppig vandladning;dr393;Pollakisuri
+U02;Hyppig vandladning;dr359;Polyuria
+U04;Urininkontinens;dn394c;Incontinentia urinae, urge
+U04;Urininkontinens;dn393;Stress inkontinens
+U04;Urininkontinens;dr329;Incontinentia urinae uden specifikation
+U05;Vandladningsproblem IKA;dr349a;Anuria
+U05;Vandladningsproblem IKA;dr349b;Oliguria
+U05;Vandladningsproblem IKA;dr391;Vandladningsbesvær (LUTS)
+U05;Vandladningsproblem IKA;dr391e;Nykturi
+U06;Blod i urin;dr319a;Makroskopisk hæmaturi
+U06;Blod i urin;dr319b;Mikroskopisk hæmaturi
+U06;Blod i urin;dn029a;Haematuria persistens uden specifikation
+U06;Blod i urin;dr319;Haematuria uden specifikation
+U07;Symptom/klage vedr urin IKA;dr398;Sympt og abnorme fund fra urinveje, andre og ikke spec
+U08;Urinretention;dr339a;Ischuria paradoxa
+U08;Urinretention;dr339;Retentio urinae
+U13;Symptom/klage fra urinblære IKA;dr398;Sympt og abnorme fund fra urinveje, andre og ikke spec
+U14;Symptom/klage fra nyre;dn239;Colica renalis uden specifikation
+U26;Frygt for kræft i urinveje;dz711;Bekymring for sygdom hos rask person
+U27;Frygt for urinvejssygdom IKA;dz711;Bekymring for sygdom hos rask person
+U28;Nedsat funktion/handicap urinveje;dz906b;Resectio vesicae urinariae facta
+U28;Nedsat funktion/handicap urinveje;dz992;Afhængighed af renal dialyse
+U28;Nedsat funktion/handicap urinveje;dz940;Tilstand m transplanteret nyre
+U28;Nedsat funktion/handicap urinveje;dz935;Tilstand m cystostomi
+U28;Nedsat funktion/handicap urinveje;dz736;Begrænsning af aktiviteter på grund af invaliditet
+U28;Nedsat funktion/handicap urinveje;dz978a;Tilstand med kateter a demuere
+U28;Nedsat funktion/handicap urinveje;dz905a;Nephrectomia facta
+U29;Symptom/klage fra urinveje IKA;dr398;Sympt og abnorme fund fra urinveje, andre og ikke spec
+U70;Nyrebækkenbetændelse;dn109;Pyelonephritis acuta
+U70;Nyrebækkenbetændelse;dn129;Pyelonephritis uden specifikation
+U70;Nyrebækkenbetændelse;dn119;Kronisk pyelonefrit uden specifikation
+U70;Nyrebækkenbetændelse;dn151;Abscessus renalis et perirenalis
+U71;Blærebetændelse/urinvejsinfekt IKA;dn390a;Bacteuria asymptomatica
+U71;Blærebetændelse/urinvejsinfekt IKA;dn309;Cystit uden specifikation
+U71;Blærebetændelse/urinvejsinfekt IKA;dn390;Urinvejsinfektion u lokalisation
+U72;Urinrørsbetændelse;da560d;Urethritis Chlamydiae
+U72;Urinrørsbetændelse;dn341;Urethritis non specificata
+U75;Kræft i nyre;dc659;Neopl mal pelvis renis
+U75;Kræft i nyre;dc649;Neopl mal renis excl. pelvis renis
+U76;Kræft i urinblære;dc679;Neopl mal vesicae urinariae uden specifikation
+U77;Kræft i urinveje IKA;dc669;Neopl mal ureteris
+U77;Kræft i urinveje IKA;dc689;Neopl mal organi urinarii uden specifikation
+U78;Godartet svulst i urinveje;dd303;Neopl ben vesicae urinariae
+U78;Godartet svulst i urinveje;dd309;Neopl ben organorum urinariorum uden specifikation
+U79;Uspecifik svulst i urinveje;dd090;Carc in situ vesicae urinariae
+U79;Uspecifik svulst i urinveje;dd419;Neopl organi urinarii uden specifikation
+U80;Skade på urinveje;ds372;Laesio traumatica vesicae urinariae
+U80;Skade på urinveje;ds373;Laesio traumatica urethrae
+U80;Skade på urinveje;ds370;Laesio traumatica renis
+U80;Skade på urinveje;ds371;Laesio traumatica ureteris
+U80;Skade på urinveje;dt190;Corpus alienum urethrae
+U85;Medfødt misdannelse i urinveje;dq602;Agenesia renis uden specifikation
+U85;Medfødt misdannelse i urinveje;dq649;Medfødt misdannelse i urinveje uden specifikation
+U85;Medfødt misdannelse i urinveje;dq632;Ectopia renis
+U85;Medfødt misdannelse i urinveje;dq627;Reflux vesico-uretero-renalis congenitus
+U85;Medfødt misdannelse i urinveje;dq625;Duplicatio ureteris
+U85;Medfødt misdannelse i urinveje;dq619;Morbus cysticus renis uden specifikation
+U88;Glomerulonefrit/nefropati;dn059;Glomnephrit uden specifikation
+U88;Glomerulonefrit/nefropati;dn158;Tubulointerstitiel nyresygd, anden specificeret
+U88;Glomerulonefrit/nefropati;dn049;Nefrose uden specifikation
+U90;Ortostatisk albuminuri;dn392;Proteinuria orthostatica uden specifikation
+U95;Urinvejssten;dn200;Nephrolithiasis
+U95;Urinvejssten;dn201;Ureterolithiasis
+U95;Urinvejssten;dn209;Urinvejssten uden specifikation
+U95;Urinvejssten;dn210;Calculus vesicae urinariae
+U98;Abnorm urinprøve;dr827b;Urindyrkning, positiv
+U98;Abnorm urinprøve;dr824;Acetonuria
+U98;Abnorm urinprøve;dr825a;Catecholaminuria
+U98;Abnorm urinprøve;dr829;Abnorme fund ved urinundersøgelse, andre og ikke spec
+U98;Abnorm urinprøve;dr809;Proteinuria
+U98;Abnorm urinprøve;dr819;Glucosuria
+U98;Abnorm urinprøve;dr828;Abnorm urincytologi og urinhistologi
+U98;Abnorm urinprøve;dr822;Biliuria
+U98;Abnorm urinprøve;dr823;Haemoglobinuria
+U99;Urinvejssygdom IKA;dn399;Sygd i urinveje uden specifikation
+U99;Urinvejssygdom IKA;dn360;Fistula urethrae
+U99;Urinvejssygdom IKA;dn199;Uræmi uden specifikation
+U99;Urinvejssygdom IKA;dn269;Ren contractus uden specifikation
+U99;Urinvejssygdom IKA;dn323;Diverticulum vesicae urinariae
+U99;Urinvejssygdom IKA;dn325;Dysplasia vesicae urinariae
+U99;Urinvejssygdom IKA;dn319;Neuromuskulær funktionsforstyrrelse i urinblære uden spec
+U99;Urinvejssygdom IKA;dn189;Kronisk nyreinsufficiens uden specifikation
+U99;Urinvejssygdom IKA;dn133a;Hydronephrosis uden specifikation
+U99;Urinvejssygdom IKA;dn281;Cystis renis acquisita
+U99;Urinvejssygdom IKA;dn368c;Uroplania
+U99;Urinvejssygdom IKA;dn362;Caruncula urethrae
+U99;Urinvejssygdom IKA;dn359;Uretral striktur uden specifikation
+U99;Urinvejssygdom IKA;dn320;Stenosis cervicis vesicae urinariae
+V00;V  VED IKKE - UKLASSIFICERBART;;
+W00;W   SVANGERSK / FØDSEL / ANTIKONCEPT;;
+W01;Spørgsmål om svangerskab;dz320;Graviditet, (endnu) ikke bekræftet
+W02;Frygt for svangerskab;dz711;Bekymring for sygdom hos rask person
+W03;Blødning i svangerskab;do209;Blødning tidligt i svangerskab uden specifikation
+W03;Blødning i svangerskab;do200;Abortus imminens
+W03;Blødning i svangerskab;do468a;Blødning i graviditet efter 22 uger
+W03;Blødning i svangerskab;do469;Blødning før fødslen uden specifikation
+W05;Opkastning i svangerskab;do219;Opkastning i svangerskab uden specifikation
+W05;Opkastning i svangerskab;do211;Hyperemesis gravidarum magno gradu m metaboliske forstyrr
+W05;Opkastning i svangerskab;do210;Hyperemesis gravidarum levi gradu
+W10;Postkoital svangerskabsforebyggelse;dz303;Postkoital svangerskabsforebyggelse
+W11;Peroral svangerskabsforebyggelse;dz304;Svangerskabsforebyggelse (p-piller)
+W12;Intrauterin svangerskabsforebyggelse;dz305;Svangerskabsforebyggelse (spiral)
+W13;Sterilisation ♀;dz302;Sterilisation
+W14;Svangerskabsforebyggelse ♀ IKA;dz306;Svangerskabsforebyggelse (P-stav)
+W14;Svangerskabsforebyggelse ♀ IKA;dz309;Svangerskabsforebyggelse uden specifikation
+W14;Svangerskabsforebyggelse ♀ IKA;dz307;Svangerskabsforebyggelse (pessar)
+W15;Infertilitet/subfertilitet ♀;dn970;Sterilitas feminae ved anovulation
+W15;Infertilitet/subfertilitet ♀;dn979;Sterilitas feminae uden specifikation
+W15;Infertilitet/subfertilitet ♀;dn972;Sterilitas feminae causa uterina
+W15;Infertilitet/subfertilitet ♀;dn973;Sterilitas feminae causa cervicovaginalis
+W15;Infertilitet/subfertilitet ♀;dn971;Sterilitas feminae causa tubaria
+W15;Infertilitet/subfertilitet ♀;dn978a;Sterilitas feminae secundaria
+W15;Infertilitet/subfertilitet ♀;dn978d;Sterilitas feminae primaria
+W15;Infertilitet/subfertilitet ♀;dn978e;Sterilitas feminae causa hypophyseos
+W15;Infertilitet/subfertilitet ♀;dn974;Sterilitas feminae causa viri
+W17;Puerperal blødning;do721b;Haemorrhagia post partum, atonia uteri
+W17;Puerperal blødning;do721a;Haemorrhagia post partum uden specifikation
+W17;Puerperal blødning;do722a;Haemorrhagia post partum, retentio membranarum placentae
+W18;Puerpetal(t) symptom/klage IKA;do909;Puerperal komplikation uden specifikation
+W19;Symptom/klage vedr amning;do925;Agalactia artificialis
+W19;Symptom/klage vedr amning;do928;Sygdomme under amning, andre og ikke specificerede
+W19;Symptom/klage vedr amning;do926;Galactorrhoea
+W19;Symptom/klage vedr amning;do927;Galactostasis
+W19;Symptom/klage vedr amning;do927c;Lactationsinsufficiens
+W21;Bekymring vedr udseende i svangersk;dr468;Sympt og abnorme fund vedr udseende og opførsel, andre
+W27;Frygt for svangerskabskomplikation;dz711;Bekymring for sygdom hos rask person
+W28;Nedsat funktion/handicap svangerskab;dz736;Begrænsning af aktiviteter på grund af invaliditet
+W29;Symptom/klage vedr svangerskab IKA;dr688;Almene sympt og abnorme fund, andre specificeret
+W70;Puerperal infektion/sepsis;do861c;Sårinfektion i fødselsvejen
+W70;Puerperal infektion/sepsis;do859;Sepsis puerperalis
+W71;Infektion kompl til svang/puerpe IKA;do989;Infek og parasit sygd i grav fødsel puerperie uden spec
+W71;Infektion kompl til svang/puerpe IKA;do236;Gruppe B streptokok syndrom
+W71;Infektion kompl til svang/puerpe IKA;do235;Infectiones tractus genitalis in graviditate
+W71;Infektion kompl til svang/puerpe IKA;do234;Infectiones tractus urinarii in graviditate u specifikation
+W72;Kræft i forbindelse med svangerskab;dc589;Neoplasma malignum placentae
+W73;Godartet/uspec svulst svangerskab;do019;Mola hydatidosa uden specifikation
+W75;Skade komplikation til svangerskab;dt149;Læsion uden specifikation
+W76;Medfødt misdan som svangerskabskompl;do998;Sygd i graviditet, fødsel og puerperie, andre specificerede
+W78;Svangerskab;dz321a;Bekræftet graviditet ved u-hCG
+W78;Svangerskab;dz321c;Bekræftet levende intrauterin graviditet ved ultralyd
+W78;Svangerskab;dz321;Bekræftet graviditet
+W78;Svangerskab;dz369;Prænatal screening uden specifikation
+W78;Svangerskab;dz321b;Bekræftet graviditet ved s-hCG
+W78;Svangerskab;dz349;Svangrekontrol uden specifikation, normal graviditet
+W79;Uønsket svangerskab;dz324;Uønsket graviditet
+W80;Svangerskab uden for livmoder;do000a;Graviditas extrauterina abdominalis rupta
+W80;Svangerskab uden for livmoder;do009;Ekstrauterin graviditet uden specifikation
+W81;Svangerskabsforgiftning;do142;'HELLP' syndrom
+W81;Svangerskabsforgiftning;do149;Præeklampsi uden specifikation
+W81;Svangerskabsforgiftning;do139;Svangerskabsbetinget hypertension uden proteinuri
+W81;Svangerskabsforgiftning;do121;Proteinuria gravidarum
+W81;Svangerskabsforgiftning;do120;Oedema gravidarum
+W81;Svangerskabsforgiftning;do159;Eklampsi uden specifikation
+W82;Spontan abort;dn969;Abortus habitualis undersøgelse og behandling
+W82;Spontan abort;do020b;Mola intrauterina uden specifikation
+W82;Spontan abort;do021a;Missed abortion
+W82;Spontan abort;do034;Inkomplet spontan abort uden komplikation
+W82;Spontan abort;do039a;Komplet spontan abort uden specifikation uden komplikation
+W82;Spontan abort;do039b;Spontan abort uden specifikation uden komplikation
+W83;Provokeret abort;dz322;Undersøgelse forud for provokeret abort
+W83;Provokeret abort;do049;Abort-prov før 12 uger komplet/uspec u komplikation
+W83;Provokeret abort;do044;Abort-prov før 12 uger inkomplet u anden komplikation
+W84;Svangerskab med høj risiko;do359;Graviditet med abnorm tilstand og skade hos foster u spec
+W84;Svangerskab med høj risiko;do360;Graviditet med rhesusisoimmunisering af foster
+W84;Svangerskab med høj risiko;do349;Graviditet med abnorm tilstand i den bløde fødselsvej u spec
+W84;Svangerskab med høj risiko;dz358e;Kontrol af højrisikograviditet, tidligere kejsersnit
+W84;Svangerskab med høj risiko;do361;Graviditet med anden isoimmunisering af foster
+W84;Svangerskab med høj risiko;do364;Graviditet med intrauterin fosterdød
+W84;Svangerskab med høj risiko;do365;Graviditet med retarderet fostervækst
+W84;Svangerskab med høj risiko;do409;Hydramnion
+W84;Svangerskab med høj risiko;do449;Forliggende moderkage uden specifikation
+W84;Svangerskab med høj risiko;dz358f;Kontrol af højrisikograviditet, IVF-graviditet
+W84;Svangerskab med høj risiko;do366;Stort foster
+W84;Svangerskab med høj risiko;do343;Graviditet med insufficiens af isthmi cervicis uteri
+W84;Svangerskab med høj risiko;dz359;Kontrol af høj-risiko graviditet uden specifikation
+W84;Svangerskab med høj risiko;dz358b;Kontrol af højrisikograviditet, tidligere præterm fødsel
+W84;Svangerskab med høj risiko;do341;Muskelknude i gravid livmoder
+W84;Svangerskab med høj risiko;do339;Mekanisk misforhold uden specifikation
+W84;Svangerskab med høj risiko;do249;Grav, partus et puerperium m diabetes mellitus uden spec
+W84;Svangerskab med høj risiko;do259;Fejlernæring i forbindelse m svangerskab, fødsel og barsel
+W84;Svangerskab med høj risiko;dz358c;Kontrol af højrisikograviditet, tidligere misdannet barn
+W84;Svangerskab med høj risiko;dz358d;Kontrol af højrisikograviditet, tidl. kompliceret fødsel
+W84;Svangerskab med høj risiko;do990;Anaemia in graviditate, partu et puerperio
+W84;Svangerskab med høj risiko;do329;Unormal fosterstilling uden specifikation
+W84;Svangerskab med høj risiko;do321;Underkropsstilling
+W84;Svangerskab med høj risiko;dz358a;Kontrol af højrisikograviditet, tidligere IUGR
+W84;Svangerskab med høj risiko;do300;Tvillingesvangerskab
+W84;Svangerskab med høj risiko;dz355;Svangrekontrol af ældre førstegangsfødende
+W85;Debuterende diabetes i svangerskab;do244;Graviditet, partus et puerperium m gest diabetes mellitus
+W90;Ukomplic fødsel med levendefødt barn;dz392;Rutine-efterundersøgelse efter fødsel
+W90;Ukomplic fødsel med levendefødt barn;do809;Partus spontaneus unifoetatio uden specifikation
+W91;Ukompliceret fødsel med dødfødt barn;dz371;Eet dødfødt barn
+W92;Komplic fødsel med levendefødt barn;do849;Partus plurifoetatio uden specifikation
+W92;Komplic fødsel med levendefødt barn;do629;Veabnormitet uden specifikation
+W92;Komplic fødsel med levendefødt barn;do702;Partus m ruptura perinei, grad III
+W92;Komplic fødsel med levendefødt barn;do655;Partus compl ved uregelmæssigheder i den bløde fødselsvej
+W92;Komplic fødsel med levendefødt barn;dz392;Rutine-efterundersøgelse efter fødsel
+W92;Komplic fødsel med levendefødt barn;do459;For tidlig løsning af moderkage uden specifikation
+W92;Komplic fødsel med levendefødt barn;do714;Laceratio superior vaginae obstetrica uden laceratio perine
+W92;Komplic fødsel med levendefødt barn;do429;For tidlig vandafgang uden specifikation
+W92;Komplic fødsel med levendefødt barn;do639;Langvarig fødsel uden specifikation
+W92;Komplic fødsel med levendefødt barn;do649;Partus complicatus malpos et malpraes foetus uden spec
+W92;Komplic fødsel med levendefødt barn;do609;Partus praetemporarius (spontan fødsel før 38. uge)
+W92;Komplic fødsel med levendefødt barn;do703;Partus m ruptura perinei, grad IV
+W92;Komplic fødsel med levendefødt barn;do831;Fremhjælpning ved fødsel i underkropspræsent, andre former
+W92;Komplic fødsel med levendefødt barn;do713;Laceratio cervicis uteri obstetrica
+W92;Komplic fødsel med levendefødt barn;do701;Partus m ruptura perinei, grad II
+W92;Komplic fødsel med levendefødt barn;do700;Partus m ruptura perinei, grad I
+W92;Komplic fødsel med levendefødt barn;do689;Partus complicatus m asfyxi uden specifikation
+W92;Komplic fødsel med levendefødt barn;do829;Partus unifoetatio m sectio caesarea uden specifikation
+W92;Komplic fødsel med levendefødt barn;do669;Kompliceret fødsel uden specifikation
+W92;Komplic fødsel med levendefødt barn;do814;Partus unifoetatio m vakuumekstraktor
+W93;Kompliceret fødsel med dødfødt barn;do849;Partus plurifoetatio uden specifikation
+W93;Kompliceret fødsel med dødfødt barn;do702;Partus m ruptura perinei, grad III
+W93;Kompliceret fødsel med dødfødt barn;do609;Partus praetemporarius (spontan fødsel før 38. uge)
+W93;Kompliceret fødsel med dødfødt barn;do429;For tidlig vandafgang uden specifikation
+W93;Kompliceret fødsel med dødfødt barn;do703;Partus m ruptura perinei, grad IV
+W93;Kompliceret fødsel med dødfødt barn;do814;Partus unifoetatio m vakuumekstraktor
+W93;Kompliceret fødsel med dødfødt barn;do714;Laceratio superior vaginae obstetrica uden laceratio perine
+W93;Kompliceret fødsel med dødfødt barn;do701;Partus m ruptura perinei, grad II
+W93;Kompliceret fødsel med dødfødt barn;do831;Fremhjælpning ved fødsel i underkropspræsent, andre former
+W93;Kompliceret fødsel med dødfødt barn;do700;Partus m ruptura perinei, grad I
+W93;Kompliceret fødsel med dødfødt barn;do689;Partus complicatus m asfyxi uden specifikation
+W93;Kompliceret fødsel med dødfødt barn;do669;Kompliceret fødsel uden specifikation
+W93;Kompliceret fødsel med dødfødt barn;do655;Partus compl ved uregelmæssigheder i den bløde fødselsvej
+W93;Kompliceret fødsel med dødfødt barn;do649;Partus complicatus malpos et malpraes foetus uden spec
+W93;Kompliceret fødsel med dødfødt barn;do459;For tidlig løsning af moderkage uden specifikation
+W93;Kompliceret fødsel med dødfødt barn;do629;Veabnormitet uden specifikation
+W93;Kompliceret fødsel med dødfødt barn;do639;Langvarig fødsel uden specifikation
+W93;Kompliceret fødsel med dødfødt barn;do829;Partus unifoetatio m sectio caesarea uden specifikation
+W93;Kompliceret fødsel med dødfødt barn;do713;Laceratio cervicis uteri obstetrica
+W94;Puerperal mastit;do912i;Mastitis puerperalis uden specifikation
+W94;Puerperal mastit;do912a;Galactophoritis puerperalis
+W94;Puerperal mastit;do911;Abscessus mammae lactationis
+W94;Puerperal mastit;do910;Infectio papillae mammae lactationis
+W95;Puerperal mammasygdom IKA;do920;Papilla mammae retractata post partum et puerperalis
+W95;Puerperal mammasygdom IKA;do921;Fissura papillae mammae post partum et puerperalis
+W95;Puerperal mammasygdom IKA;do928;Sygdomme under amning, andre og ikke specificerede
+W95;Puerperal mammasygdom IKA;do924;Hypogalactia
+W96;Puerperal komplikation IKA;do909;Puerperal komplikation uden specifikation
+W99;Sygdom under svangerskab/fødsel IKA;do472;Truende for tidlig fødsel
+W99;Sygdom under svangerskab/fødsel IKA;do266g;Graviditetskløe med leverpåvirkning
+W99;Sygdom under svangerskab/fødsel IKA;do289;Abnorme fund uden specifikation hos moder ved svangrekontro
+W99;Sygdom under svangerskab/fødsel IKA;do267b;Bækkenløsning (graviditet)
+W99;Sygdom under svangerskab/fødsel IKA;do220;Varices extremitatis inferioris in graviditate
+W99;Sygdom under svangerskab/fødsel IKA;do089a;Komplikation uden specifikation efter abort
+W99;Sygdom under svangerskab/fødsel IKA;do261;For lille vægtøgning i graviditet
+W99;Sygdom under svangerskab/fødsel IKA;do260;Overdreven vægtstigning i graviditet
+W99;Sygdom under svangerskab/fødsel IKA;do489;Overbåret svangerskab
+W99;Sygdom under svangerskab/fødsel IKA;do264;Herpes gestationis
+W99;Sygdom under svangerskab/fødsel IKA;do269;Sygdomme betinget af svangerskab uden specifikation
+W99;Sygdom under svangerskab/fødsel IKA;do221;Varices genitales in graviditate
+W99;Sygdom under svangerskab/fødsel IKA;do224;Tumores haemorrhoidales in graviditate
+W99;Sygdom under svangerskab/fødsel IKA;do479;Plukkeveer uden specifikation
+W99;Sygdom under svangerskab/fødsel IKA;do229;Venøse komplikationer til svangerskab uden specifikation
+X00;X   KVINDELIGE KØNSORGANER + MAMMA;;
+X01;Smerte i kønsorgan ♀;dr102;Abdominalia lokaliseret til pelvis og perinaeum
+X01;Smerte i kønsorgan ♀;dr102a;Dolor perinealis
+X02;Menstruationssmerte;dn946;Dysmenoré uden specifikation
+X03;Smerte mellem menstruationer;dn940;Ovulationssmerter
+X04;Smerte ved samleje ♀;dn942;Vaginismus
+X04;Smerte ved samleje ♀;dn941;Dyspareunia
+X05;Manglende/sparsom menstruation;dn910;Amenorrhoea primaria
+X05;Manglende/sparsom menstruation;dn915;Oligomenoré uden specifikation
+X05;Manglende/sparsom menstruation;dn911;Amenorrhoea secundaria
+X06;Kraftig menstruation;dn931;Menstruatio praecox
+X06;Kraftig menstruation;dn920b;Menorrhagia
+X07;Uregelmæssig/hyppig menstruation;dn925a;Metrorrhagia anovulatorica
+X07;Uregelmæssig/hyppig menstruation;dn921;Metrorrhagia
+X07;Uregelmæssig/hyppig menstruation;dn920c;Polymenorrhoea
+X08;Blødning mellem menstruationer;dn923;Metrorrhagia ovulatorica
+X09;Præmenstruelt symptom/klage;dn949;Tilstand associeret m kvindelige kønsorganer el menstruation
+X10;Udsættelse af menstruation;dz309;Svangerskabsforebyggelse uden specifikation
+X11;Klimakteriel(t) symptom/klage;dn959;Klimakteriel forstyrrelse uden specifikation
+X11;Klimakteriel(t) symptom/klage;dn953;Menopausis praematura artificialis
+X11;Klimakteriel(t) symptom/klage;dn952;Vaginitis atrophica senilis
+X12;Blødning efter menopause;dn950;Metrorrhagia postmenopausalis
+X13;Blødning efter samleje;dn930;Haemorrhagia uteri efter coitus og kontaktblødning
+X14;Udflåd fra vagina;dn898e;Fluor vaginalis
+X15;Symptom/klage fra vagina IKA;dn899;Ikke inflammatorisk sygd i vagina uden specifikation
+X16;Symptom/klage fra vulva;dl292;Pruritus vulvae
+X16;Symptom/klage fra vulva;dn909;Ikke inflammatorisk sygd i vulva og perineum u specifikatio
+X17;Symptom/klage fra underliv ♀;dn949;Tilstand associeret m kvindelige kønsorganer el menstruation
+X18;Smerte i mamma ♀;dn644;Mastodynia
+X19;Knude i mamma ♀;dn639;Tumor mammae uden specifikation
+X20;Symptom/klage fra brystvorte ♀;dn645;Symptomer og fund ved brystkirtel, andre
+X20;Symptom/klage fra brystvorte ♀;dn645d;Papilla mammae retracta
+X20;Symptom/klage fra brystvorte ♀;dn640a;Fissura papillae mammae
+X21;Symptom/klage fra mamma ♀ IKA;dn649;Sygd i brystkirtel uden specifikation
+X21;Symptom/klage fra mamma ♀ IKA;dn629;Hypertrophia mammae
+X21;Symptom/klage fra mamma ♀ IKA;dn643;Galactorrhoea non puerperalis
+X22;Bekymring vedr mammas udseende ♀;dr468;Sympt og abnorme fund vedr udseende og opførsel, andre
+X23;Frygt for seksuelt overført sygdom ♀;dz711;Bekymring for sygdom hos rask person
+X24;Frygt for seksuel dysfunktion ♀;dz711;Bekymring for sygdom hos rask person
+X25;Frygt for kræft i kønsorgan ♀;dz711;Bekymring for sygdom hos rask person
+X26;Frygt for brystkræft ♀;dz711;Bekymring for sygdom hos rask person
+X27;Frygt for sygd kønsorgan/mamma ♀ IKA;dz711;Bekymring for sygdom hos rask person
+X28;Nedsat funkt/handicap kønsorgan ♀;dz736;Begrænsning af aktiviteter på grund af invaliditet
+X28;Nedsat funkt/handicap kønsorgan ♀;dz901a;Mammectomia facta
+X28;Nedsat funkt/handicap kønsorgan ♀;dz901c;Lumpectomia facta
+X28;Nedsat funkt/handicap kønsorgan ♀;dz901e;Reductio mammae facta
+X28;Nedsat funkt/handicap kønsorgan ♀;dz907b;Oophorectomia facta
+X28;Nedsat funkt/handicap kønsorgan ♀;dz976;Tilstand med bløddelsimplantat/konturprotese
+X28;Nedsat funkt/handicap kønsorgan ♀;dz907a;Hysterectomia facta
+X29;Symptom/klage fra kønsorgan ♀ IKA;dr369;Fluor urethrae
+X29;Symptom/klage fra kønsorgan ♀ IKA;dn949;Tilstand associeret m kvindelige kønsorganer el menstruation
+X70;Syfilis ♀;da539;Syfilis uden specifikation
+X71;Gonore ♀;da549;Gonokokinfektion uden specifikation
+X72;Candida-infektion i kønsorgan ♀;db373;Candidiasis vulvae et vaginae
+X73;Trichomonas-infektion i kønsorgan ♀;da590;Trichomoniasis urogenitalis
+X74;Underlivsbetændelse;dn739;Pelveoperitonitis feminae uden specifikation
+X74;Underlivsbetændelse;dn719;Endometritis uden specifikation
+X74;Underlivsbetændelse;dn709;Salpingitis et oophoritis uden specifikation
+X74;Underlivsbetændelse;dn732c;Parametritis uden specifikation
+X75;Kræft i livmoderhals;dc539;Neoplasma malignum cervicis uteri
+X76;Brystkræft ♀;dc500;Neopl mal papillae et areolae mammae
+X76;Brystkræft ♀;dc509;Neopl mal mammae uden specifikation
+X77;Kræft i kvindeligt kønsorgan IKA;dc529;Neoplasma malignum vaginae
+X77;Kræft i kvindeligt kønsorgan IKA;dc519;Neoplasma malignum vulvae
+X77;Kræft i kvindeligt kønsorgan IKA;dc549;Neoplasma malignum corporis uteri
+X77;Kræft i kvindeligt kønsorgan IKA;dc579;Neoplasma malignum genitalium feminae
+X77;Kræft i kvindeligt kønsorgan IKA;dc569;Neoplasma malignum ovarii
+X78;Fibrom i livmoder;dd259;Fibroma uteri uden specifikation
+X79;Godartet svulst i mamma ♀;dd249;Neopl ben mammae
+X80;Godartet svulst i kønsorgan ♀;dd281;Neopl ben vaginae
+X80;Godartet svulst i kønsorgan ♀;dd289;Neopl ben genitalium feminae uden specifikation
+X80;Godartet svulst i kønsorgan ♀;dd279;Neopl ben ovarii uden specifikation
+X81;Uspecifik svulst i kønsorgan ♀ IKA;dd486;Neopl mammae uden specifikation
+X81;Uspecifik svulst i kønsorgan ♀ IKA;dd399;Neopl organorum genitalium feminae uden specifikation
+X81;Uspecifik svulst i kønsorgan ♀ IKA;dd391;Neopl ovarii uden specifikation
+X81;Uspecifik svulst i kønsorgan ♀ IKA;dd390;Neopl uteri uden specifikation
+X81;Uspecifik svulst i kønsorgan ♀ IKA;dd069;Carcinoma in situ i livmoderhals
+X81;Uspecifik svulst i kønsorgan ♀ IKA;dd070;Endometriehyperplasi med atypi
+X82;Skade på kønsorgan ♀;ds375;Laesio traumatica tubae uterinae
+X82;Skade på kønsorgan ♀;ds314;Vulnus vaginae et vulvae
+X82;Skade på kønsorgan ♀;ds376;Laesio traumatica uteri
+X82;Skade på kønsorgan ♀;dt283;Ambustio tractus urogenitalis
+X82;Skade på kønsorgan ♀;ds302;Contusio genitalium externorum
+X82;Skade på kønsorgan ♀;dt192a;Corpus alienum vaginae
+X82;Skade på kønsorgan ♀;ds374;Laesio traumatica ovarii
+X83;Medfødt misdannelse i kønsorgan ♀;dq519;Medfødt misdannelse i livmoder og livmoderhals u specifik
+X83;Medfødt misdannelse i kønsorgan ♀;dq503c;Malformatio congenita ovarii uden specifikation
+X83;Medfødt misdannelse i kønsorgan ♀;dq500;Agenesia ovarii
+X83;Medfødt misdannelse i kønsorgan ♀;dq529;Medfødt misdannelse i kvindelige kønsorganer u specifikatio
+X83;Medfødt misdannelse i kønsorgan ♀;dq523;Hymen imperforatum
+X83;Medfødt misdannelse i kønsorgan ♀;dq506g;Malformatio congenita tubae uterinae uden specifikation
+X83;Medfødt misdannelse i kønsorgan ♀;dq839;Medfødt misdannelse i brystkirtel uden specifikation
+X83;Medfødt misdannelse i kønsorgan ♀;dq562b;Pseudohermaphroditismus femininus uden specifikation
+X84;Vaginit/vulvit IKA;dn765;Ulcus vaginae
+X84;Vaginit/vulvit IKA;dn768;Betændelsessygd i vagina og vulva, andre specificerede
+X84;Vaginit/vulvit IKA;dn766;Ulcus vulvae
+X84;Vaginit/vulvit IKA;dn762a;Vulvitis uden specifikation
+X84;Vaginit/vulvit IKA;dn760c;Vaginitis uden specifikation
+X84;Vaginit/vulvit IKA;dn768b;Vaginosis bacterialis
+X85;Sygdom i livmoderhals IKA;dn889;Ikke inflammatorisk sygd i cervix uteri uden specifikation
+X85;Sygdom i livmoderhals IKA;dn869;Erosio et ectopia cervicis uteri
+X85;Sygdom i livmoderhals IKA;dn729;Cervicitis uteri
+X85;Sygdom i livmoderhals IKA;dn841;Polypus cervicis uteri
+X85;Sygdom i livmoderhals IKA;dn883;Insuff isthmi cervicis uteri hos ikke gravid kvinde
+X85;Sygdom i livmoderhals IKA;dn882;Strictura et stenosis cervicis uteri
+X85;Sygdom i livmoderhals IKA;dn881;Ruptura cervicis uteri vetus
+X86;Abnorm cytologisk prøve livmoderhals;dn870;Let dysplasi på livmoderhals
+X86;Abnorm cytologisk prøve livmoderhals;dn871;Moderat dysplasi på livmoderhals
+X86;Abnorm cytologisk prøve livmoderhals;dn872;Svær dysplasi på livmoderhals
+X86;Abnorm cytologisk prøve livmoderhals;dn879;Dysplasi på livmoderhals uden specifikation
+X87;Prolaps af livmoder/skede;dn817;Rectocele
+X87;Prolaps af livmoder/skede;dn816;Enterocele vaginalis
+X87;Prolaps af livmoder/skede;dn814;Prolapsus uterovaginalis completa
+X87;Prolaps af livmoder/skede;dn813;Prolapsus uterovaginalis incompleta
+X87;Prolaps af livmoder/skede;dn811;Cystocele
+X87;Prolaps af livmoder/skede;dn819;Prolapsus genitalis feminae uden specifikation
+X88;Fibrocystisk sygdom i mamma ♀;dn609;Dysplasia mammae benigna uden specifikation
+X89;Præmenstruelt syndrom;dn943;Tensio praemenstrualis
+X90;Herpes genitalis ♀;da600a;Herpes viralis genitalis feminae
+X91;Kondylom ♀;da630;Condyloma acuminatum i anogenitalregionen
+X92;Chlamydia-infektion i kønsorgan ♀;da562;Infek m Chlamydia i urin- og kønsorganer uden specifikation
+X92;Chlamydia-infektion i kønsorgan ♀;da561c;Parametritis Chlamydiae
+X99;Sygdom i kønsorgan ♀ IKA;dn896;Hymen rigidum
+X99;Sygdom i kønsorgan ♀ IKA;dn895;Strictura et atresia vaginae
+X99;Sygdom i kønsorgan ♀ IKA;dn894;Leukoplakia vaginae
+X99;Sygdom i kønsorgan ♀ IKA;dn809;Endometriose uden specifikation
+X99;Sygdom i kønsorgan ♀ IKA;dn751;Abscessus glandulae vestibularis majoris Bartholini
+X99;Sygdom i kønsorgan ♀ IKA;dn832x;Ovariecyste
+X99;Sygdom i kønsorgan ♀ IKA;dn854;Malepositio uteri
+X99;Sygdom i kønsorgan ♀ IKA;dn852;Hypertrophia uteri (excl. cervix)
+X99;Sygdom i kønsorgan ♀ IKA;dn850;Endometriehyperplasi uden atypi
+X99;Sygdom i kønsorgan ♀ IKA;dn750;Cystis glandulae vestibularis majoris Bartholini
+X99;Sygdom i kønsorgan ♀ IKA;dn619e;Mastitis infectiosa non puerperalis
+X99;Sygdom i kønsorgan ♀ IKA;dn829;Fistula genitalis feminae uden specifikation
+X99;Sygdom i kønsorgan ♀ IKA;dn840;Polypus corporis uteri
+X99;Sygdom i kønsorgan ♀ IKA;dn648h;Ptosis mammae
+X99;Sygdom i kønsorgan ♀ IKA;dn904;Leukoplakia vulvae
+X99;Sygdom i kønsorgan ♀ IKA;dn948b;Anden sygdom i kvindelige kønsorganer
+X99;Sygdom i kønsorgan ♀ IKA;da559;Lymphogranuloma venereum forårsaget af Chlamydia infektion
+X99;Sygdom i kønsorgan ♀ IKA;da579;Ulcus molle
+X99;Sygdom i kønsorgan ♀ IKA;da589;Granuloma inguinale
+Y00;Y   MANDLIGE KØNSORGANER;;
+Y01;Smerte i penis;dr102;Abdominalia lokaliseret til pelvis og perinaeum
+Y02;Smerte i testikel/pung;dr102;Abdominalia lokaliseret til pelvis og perinaeum
+Y02;Smerte i testikel/pung;dr102a;Dolor perinealis
+Y03;Udflåd fra urinrør ♂;dr369;Fluor urethrae
+Y04;Symptom/klage fra penis IKA;dn489;Sygd i penis uden specifikation
+Y05;Symptom/klage fra testikel/pung IKA;dn509;Sygd i mandlige kønsorganer uden specifikation
+Y05;Symptom/klage fra testikel/pung IKA;dl291;Pruritus scroti
+Y06;Symptom/klage fra prostata;dn429;Sygd i prostata uden specifikation
+Y07;Erektiv dysfunktion;dn484;Impotentia organica
+Y08;Symptom/klage seksuel funktion ♂ IKA;dn483;Priapismus
+Y08;Symptom/klage seksuel funktion ♂ IKA;dn489;Sygd i penis uden specifikation
+Y10;Infertilitet/subfertilitet ♂;dn469;Sterilitas masculina
+Y10;Infertilitet/subfertilitet ♂;dn469c;Oligospermia
+Y10;Infertilitet/subfertilitet ♂;dn469a;Aspermia
+Y13;Sterilisation ♂;dz302;Sterilisation
+Y14;Svangerskabsforebyggelse ♂ IKA;dz309;Svangerskabsforebyggelse uden specifikation
+Y16;Symptom/klage fra mamma ♂;dn629a;Gynaecomastia
+Y16;Symptom/klage fra mamma ♂;dn639;Tumor mammae uden specifikation
+Y16;Symptom/klage fra mamma ♂;dn645;Symptomer og fund ved brystkirtel, andre
+Y24;Frygt for seksuel dysfunktion ♂;dz711;Bekymring for sygdom hos rask person
+Y25;Frygt for seksuelt overført sygdom ♂;dz711;Bekymring for sygdom hos rask person
+Y26;Frygt for kræft i kønsorgan ♂;dz711;Bekymring for sygdom hos rask person
+Y27;Frygt for sygdom i kønsorgan ♂ IKA;dz711;Bekymring for sygdom hos rask person
+Y28;Nedsat funkt/handicap kønsorgan ♂;dz907c;Orchidectomia facta
+Y28;Nedsat funkt/handicap kønsorgan ♂;dz906a;Prostatectomia facta
+Y28;Nedsat funkt/handicap kønsorgan ♂;dz960;Tilstand m urogenitale implantater
+Y28;Nedsat funkt/handicap kønsorgan ♂;dz736;Begrænsning af aktiviteter på grund af invaliditet
+Y29;Symptom/klage fra kønsorgan ♂ IKA;dn509;Sygd i mandlige kønsorganer uden specifikation
+Y70;Syfilis ♂;da539;Syfilis uden specifikation
+Y71;Gonore ♂;da549;Gonokokinfektion uden specifikation
+Y72;Herpes genitalis ♂;da600b;Herpes viralis genitalis masculinae
+Y73;Betændelse i prostata/sædblære;dn490;Vesiculitis seminalis
+Y73;Betændelse i prostata/sædblære;da590;Trichomoniasis urogenitalis
+Y73;Betændelse i prostata/sædblære;dn419;Prostatit uden specifikation
+Y74;Betændelse i testikel/bitestikel;dn459d;Orchitis acuta
+Y74;Betændelse i testikel/bitestikel;dn459;Orchitis, epididymitis et epididymo-orchitis u absces
+Y74;Betændelse i testikel/bitestikel;dn459a;Epididymitis acuta
+Y74;Betændelse i testikel/bitestikel;da561a;Epididymitis Chlamydiae
+Y74;Betændelse i testikel/bitestikel;da561b;Orchitis Chlamydiae
+Y75;Forhudsbetændelse;db374;Candidiasis urogenitalis alia
+Y75;Forhudsbetændelse;dn481;Balanoposthitis
+Y76;Kondylom ♂;da630;Condyloma acuminatum i anogenitalregionen
+Y77;Kræft i prostata;dc619;Neopl mal prostatae
+Y78;Kræft i kønsorgan ♂ IKA;dc609;Neopl mal penis uden specifikation
+Y78;Kræft i kønsorgan ♂ IKA;dc639;Neopl mal genitalium viri uden specifikation
+Y78;Kræft i kønsorgan ♂ IKA;dc629;Neopl mal testis uden specifikation
+Y79;Godartet/uspec svulst kønsorgan ♂;dd409;Neopl genitalium viri uden specifikation
+Y79;Godartet/uspec svulst kønsorgan ♂;dd299;Neopl ben organorum genitalium viri uden specifikation
+Y79;Godartet/uspec svulst kønsorgan ♂;dd486;Neopl mammae uden specifikation
+Y79;Godartet/uspec svulst kønsorgan ♂;dd249;Neopl ben mammae
+Y79;Godartet/uspec svulst kønsorgan ♂;dd076b;Carc in situ genitalium viri uden specifikation
+Y80;Skade på kønsorgan ♂;ds315;Åbent sår i andre og ikke spec dele af ydre kønsorganer
+Y80;Skade på kønsorgan ♂;ds313a;Vulnus scroti
+Y80;Skade på kønsorgan ♂;ds312;Vulnus penis
+Y80;Skade på kønsorgan ♂;ds302;Contusio genitalium externorum
+Y81;Forhudsforsnævring;dn479a;Agglutinatio praeputii
+Y81;Forhudsforsnævring;dn479b;Frenulum breve praeputii
+Y81;Forhudsforsnævring;dn479d;Phimosis
+Y81;Forhudsforsnævring;dn479c;Paraphimosis
+Y82;Hypospadi;dq549;Hypospadi uden specifikation
+Y82;Hypospadi;dq544;Penis arcuatus (krummerik)
+Y83;Retentio testis;dq539;Retentio testis uden specifikation
+Y83;Retentio testis;dq530;Ectopia testis
+Y84;Medfødt misdannelse kønsorgan ♂ IKA;dq552e;Testis migrans
+Y84;Medfødt misdannelse kønsorgan ♂ IKA;dq560a;Ovotestis
+Y84;Medfødt misdannelse kønsorgan ♂ IKA;dq559;Medfødt misdannelse i mandlige kønsorganer u specifikation
+Y85;Prostatahypertrofi;dn409;Hypertrophia prostatae
+Y86;Hydrocele;dn433;Hydrocele uden specifikation
+Y99;Sygdom i kønsorgan ♂ IKA;dn485;Ulcus penis
+Y99;Sygdom i kønsorgan ♂ IKA;dn486;Induratio penis plastica
+Y99;Sygdom i kønsorgan ♂ IKA;dn500;Atrophia testis
+Y99;Sygdom i kønsorgan ♂ IKA;dn509;Sygd i mandlige kønsorganer uden specifikation
+Y99;Sygdom i kønsorgan ♂ IKA;dn480;Leukoplakia penis
+Y99;Sygdom i kønsorgan ♂ IKA;dn434;Spermatocele
+Y99;Sygdom i kønsorgan ♂ IKA;dn449;Torsio testis
+Y99;Sygdom i kønsorgan ♂ IKA;da559;Lymphogranuloma venereum forårsaget af Chlamydia infektion
+Y99;Sygdom i kønsorgan ♂ IKA;dn508x;Hæmospermi
+Y99;Sygdom i kønsorgan ♂ IKA;da589;Granuloma inguinale
+Y99;Sygdom i kønsorgan ♂ IKA;da579;Ulcus molle
+Z00;Z   SOCIALT PROBLEM;;
+Z01;Problem vedr fattigdom/økonomi;dz596;Lav indtægt
+Z02;Problem vedr mad/vand;dz594;Mangel på adækvat føde
+Z02;Problem vedr mad/vand;dz586;Utilstrækkelig drikkevandsforsyning
+Z03;Problem vedr bolig/naboskab;dz599;Problem i forbindelse m boligforhold og økon omst u spec
+Z03;Problem vedr bolig/naboskab;dz591;Dårlige boligforhold
+Z03;Problem vedr bolig/naboskab;dz590;Hjemløshed
+Z03;Problem vedr bolig/naboskab;dz592;Disharmoni m naboer, logerende eller husvært
+Z04;Problem sociale/kulturelle forhold;dz603;Kulturelle tilpasningsvanskeligheder
+Z04;Problem sociale/kulturelle forhold;dz604;Social udelukkelse eller afvisning
+Z04;Problem sociale/kulturelle forhold;dz605;Mål for formodet diskrimination eller forfølgelse
+Z04;Problem sociale/kulturelle forhold;dz609;Problem relateret til socialt miljø uden specifikation
+Z04;Problem sociale/kulturelle forhold;dz602;Aleneboende
+Z05;Problem vedr arbejde;dz564;Disharmoni m chef eller kolleger
+Z05;Problem vedr arbejde;dz567;Problemer i forbindelse m ansættelse, andre og ikke spec
+Z05;Problem vedr arbejde;dz562;Trussel om tab af job
+Z05;Problem vedr arbejde;dz566b;Belastning, mental ved arbejde
+Z05;Problem vedr arbejde;dz566a;Belastning, fysisk ved arbejde
+Z05;Problem vedr arbejde;dz563;Stressende arbejdsforhold
+Z05;Problem vedr arbejde;dz579;Erhvervsmæssig udsættelse for risikofaktor u specifikation
+Z05;Problem vedr arbejde;dz561;Jobskift
+Z06;Problem vedr arbejdsløshed;dz560;Arbejdsløshed uden specifikation
+Z07;Problem vedr uddannelse;dz554;Undervisningsmæssig dårlig tilpasning m lærere og klassekam
+Z07;Problem vedr uddannelse;dz553;Dårlig præstation i skole
+Z07;Problem vedr uddannelse;dz552;Dumpet til eksamen
+Z07;Problem vedr uddannelse;dz559;Problem i forbindelse m undervisning og læseevne u spec
+Z08;Problem vedr social sikring/velfærd;dz597;Utilstrækkelig social sikring og velfærdsstøtte
+Z09;Problem vedr juridisk forhold;dz653;Problemer i forbindelse m andre retslige forhold
+Z09;Problem vedr juridisk forhold;dz652;Problemer i forbindelse m løsladelse fra fængsel
+Z09;Problem vedr juridisk forhold;dz651;Fængsling eller anden indespærring
+Z09;Problem vedr juridisk forhold;dz650;Erklæret skyldig gennem retsforfølgelse u fængsling
+Z10;Problem vedr sundhedsvæsen;dz759;Problem i forb m lægehjælp og pleje uden specifikation
+Z10;Problem vedr sundhedsvæsen;dz752;Ventetid på undersøgelse og behandling, anden
+Z10;Problem vedr sundhedsvæsen;dz751;Person, som venter på indl til passende hjælp andetsteds
+Z10;Problem vedr sundhedsvæsen;dz644;Uoverensstemmelse m rådgivere
+Z11;Problem komplians/sygdomsforståelse;dz759;Problem i forb m lægehjælp og pleje uden specifikation
+Z12;Problem vedr partner;dz630;Problemer m forhold til ægtefælle eller partner
+Z12;Problem vedr partner;dt743;Psykisk overgreb
+Z13;Problem vedr partners adfærd;dz630;Problemer m forhold til ægtefælle eller partner
+Z14;Problem vedr partners sygdom;dz636;Afhængigt familiemedlem, som behøver pleje i hjemmet
+Z15;Tab/dødsfald vedr partner;dz634;Et familiemedlems forsvinden eller død
+Z15;Tab/dødsfald vedr partner;dz635;Opløsning af familie ved separation eller skilsmisse
+Z16;Problem vedr barn;dz612;Problemer pga ændret familiemønster i barndomen
+Z16;Problem vedr barn;dz610;Problemer pga tab af elsket kontakt i barndommen
+Z16;Problem vedr barn;dz620;Utilstrækkeligt opsyn og kontrol fra forældres side
+Z16;Problem vedr barn;dz629;Problem i forbindelse m opdragelse uden specifikation
+Z16;Problem vedr barn;dt740a;Misrøgt af barn
+Z18;Problem vedr barns sygdom;dz636;Afhængigt familiemedlem, som behøver pleje i hjemmet
+Z19;Tab/dødsfald vedr barn;dz634;Et familiemedlems forsvinden eller død
+Z20;Problem i forhold til forældre/famil;dz631;Problemer m forhold til forældre og svigerforældre
+Z21;Adfærdsproblem hos forældre/familie;dz639;Problem i forbindelse m primær støttegruppe u specifikation
+Z22;Problem vedr sygdom hos forældre/fam;dz637;Belastende livsoplevelser i familie og husstand, andre
+Z23;Tab/dødsfald forældre/familiemedlem;dz634;Et familiemedlems forsvinden eller død
+Z24;Problem vedr forhold til venner;dz639;Problem i forbindelse m primær støttegruppe u specifikation
+Z25;Problem vold/traumatisk oplevelse;dt741;Fysisk mishandling
+Z25;Problem vold/traumatisk oplevelse;dt741b;Battered spouse syndrom
+Z25;Problem vold/traumatisk oplevelse;dt742;Seksuelt overgreb
+Z25;Problem vold/traumatisk oplevelse;dt741a;Battered child syndrom
+Z25;Problem vold/traumatisk oplevelse;dt749;Mishandlingssyndrom uden specifikation
+Z25;Problem vold/traumatisk oplevelse;dz654;Offer for kriminalitet og terrorisme
+Z25;Problem vold/traumatisk oplevelse;dz655;Udsættelse for katastrofer m.m.
+Z27;Frygt for socialt problem;dz711;Bekymring for sygdom hos rask person
+Z28;Nedsat funkt/handicap socialt probl;dz734;Mangelfulde sociale færdigheder, ikke klass ansted
+Z29;Socialt problem IKA;dz739;Problem i forb m vanskelighed m at klare tilværelsen u spec
+Z29;Socialt problem IKA;dz659;Problem i forbindelse m psykosociale forhold u specifikatio
+Z29;Socialt problem IKA;dz765;Simulant (bevidst simulant)
+Z29;Socialt problem IKA;dz729;Problem i forbindelse m livsstil uden specifikation
+Z29;Socialt problem IKA;dz589;Problem i forbindelse m fysiske omgivelser u specifikation
+Z29;Socialt problem IKA;dz632;Utilstrækkelig støtte fra familie
+Z29;Socialt problem IKA;dz658a;Væsentlige psykosociale problemer
